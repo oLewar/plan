@@ -26,3 +26,7 @@ https://github.com/TauricResearch/TradingAgents
 https://github.com/cline/kanban
 
 https://github.com/metarhia/metaskills/tree/main/skills
+
+https://github.com/Yeachan-Heo/oh-my-claudecode
+
+https://github.com/A-EVO-Lab/a-evolve
