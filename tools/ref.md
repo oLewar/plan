@@ -30,3 +30,7 @@ https://github.com/metarhia/metaskills/tree/main/skills
 https://github.com/Yeachan-Heo/oh-my-claudecode
 
 https://github.com/A-EVO-Lab/a-evolve
+
+https://github.com/mattpocock/skills
+
+https://github.com/artwist-polyakov/polyakov-claude-skills/tree/89ba75c820f0574c678b2df2b35695671341d4b4

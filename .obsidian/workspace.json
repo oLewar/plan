@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "team/algo_sonnet_4.6.md",
-                "mode": "preview",
+                "file": "tools/research.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algo_sonnet_4.6"
+              "title": "research"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7775b9a1f30406cf",
@@ -200,24 +200,34 @@
   },
   "active": "de24cb90b41dcc24",
   "lastOpenFiles": [
+    "tools/ref.md",
+    "tools/research.md",
+    "Agents/readme.md",
+    "soul/psycho.md",
+    "Agents",
+    "soul",
+    "tools/harness.md",
+    "testMAs.canvas",
+    "Arch.canvas",
+    "TG_AI.md",
+    "Untitled 1.canvas",
+    "Welcome.md",
+    "team/algo_sonnet_4.6.md",
     "team/35-gpt5.4.md",
     "team/35.md",
     "team/35",
     "learn/tools.md",
     "learn",
-    "tools/ref.md",
     "team/algo_gpt5.4.md",
     "task/geocheck-fail.md",
     "task",
     "team/algo_gemini3.1.md",
-    "team/algo_sonnet_4.6.md",
     "team",
     "remote-jobs/souces.md",
     "remote-jobs",
     "tools/cli.md",
     "Solutions/algo_gpt5.4.md",
     "tools/design.md",
-    "tools/harness.md",
     "english/eng_algo_pro.md",
     "tools",
     "english/eng_algo.md",
@@ -228,14 +238,6 @@
     "Solutions/algo/_pro_search.md",
     "Solutions/algo",
     "Solutions/algo_3.0.md",
-    "Solutions/algo_gemini.md",
-    "Solutions/team_decisions_gemini.md",
-    "Solutions/gemini.md",
-    "Solutions/gemeni.md",
-    "Solutions/12_team_decisions2.md",
-    "Solutions/algo.md",
-    "Solutions",
-    "workflows",
-    "Untitled.canvas"
+    "Solutions/algo_gemini.md"
   ]
 }
