@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/research.md",
+                "file": "tools/ref.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research"
+              "title": "ref"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "right": {
     "id": "7775b9a1f30406cf",
@@ -200,13 +200,22 @@
   },
   "active": "de24cb90b41dcc24",
   "lastOpenFiles": [
+    "tools/cli.md",
+    "tools/design.md",
+    "tools/search_in_md.md",
     "tools/ref.md",
-    "tools/research.md",
+    "tools/harness.md",
+    "image",
+    "image/Pasted image 20260404210600.png",
+    "Agents/research/PredictiveHistory.md",
+    "Agents/research/prediction_agents_framework.md",
+    "Agents/research/x-search.md",
+    "Agents/research/llm_on_mac_48gb.md",
+    "Agents/research",
     "Agents/readme.md",
     "soul/psycho.md",
     "Agents",
     "soul",
-    "tools/harness.md",
     "testMAs.canvas",
     "Arch.canvas",
     "TG_AI.md",
@@ -225,19 +234,10 @@
     "team",
     "remote-jobs/souces.md",
     "remote-jobs",
-    "tools/cli.md",
     "Solutions/algo_gpt5.4.md",
-    "tools/design.md",
     "english/eng_algo_pro.md",
     "tools",
     "english/eng_algo.md",
-    "Solutions/algo_deepseek.md",
-    "english",
-    "Solutions/algo_pro_search.md",
-    "Solutions/algo/algo_pro_search.md",
-    "Solutions/algo/_pro_search.md",
-    "Solutions/algo",
-    "Solutions/algo_3.0.md",
-    "Solutions/algo_gemini.md"
+    "Solutions/algo_deepseek.md"
   ]
 }
