@@ -35,3 +35,15 @@ https://github.com/mattpocock/skills
 https://github.com/artwist-polyakov/polyakov-claude-skills/tree/89ba75c820f0574c678b2df2b35695671341d4b4
 
 https://github.com/router-for-me/CLIProxyAPI
+
+https://github.com/milla-jovovich/mempalace
+
+Compress AGENTS.md
+[https://github.com/extractumio/ag3ntum/blob/main/skills/.claude/skills/infocompressor/SKILL.md](https://github.com/extractumio/ag3ntum/blob/main/skills/.claude/skills/infocompressor/SKILL.md)
+
+memory
+https://github.com/rowboatlabs/rowboat
+https://github.com/Alibaba-NLP/VRAG
+
+KV Cache Compression for LLMs 
+https://github.com/scrya-com/rotorquant
