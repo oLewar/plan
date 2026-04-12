@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f1b04c27b5c681ec",
+        "id": "c9f60e1de39af663",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa48f19b88b24f6",
+            "id": "8021d264ad4de3fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategy/Team and start.md",
+                "file": "Clippings/Почему нужно забыть о БАЛАНСЕ в жизни Большая ошибка 99% людей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team and start"
-            }
-          },
-          {
-            "id": "41ec829c5f353086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategy/reason-relations chain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reason-relations chain"
-            }
-          },
-          {
-            "id": "fbbc67c01ef99812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agents/tools/review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "review"
+              "title": "Почему нужно забыть о БАЛАНСЕ в жизни Большая ошибка 99% людей"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "fbbc67c01ef99812",
+  "active": "8021d264ad4de3fb",
   "lastOpenFiles": [
+    "Clippings/Главный принцип любых переговоров  Что на самом деле решает в переговорах.md",
+    "Clippings/Почему нужно забыть о БАЛАНСЕ в жизни Большая ошибка 99% людей.md",
+    "research/Marketing/Higgsfield Gemini3.1pro.md",
+    "research/Marketing/Higgsfield GPT5.4.md",
+    "research/Marketing/Higgsfield Sonnet4.6.md",
+    "research/reasoning_techniques_gem3_1_pro.md",
+    "Clippings/ИИ — новый социальный лифт. Как успеть запрыгнуть, пока не закрылись двери.md",
+    "research/Marketing",
+    "Clippings/llm-wiki.md",
+    "Strategy/marketing.md",
+    "Strategy/goal.md",
+    "research/reasoning_techniques_gpt_5_4_pro.md.md",
+    "workflows/reviewerDevopsV2.md",
+    "workflows/reviewerDevops.md",
+    "research/reasoning_techniques_gem3.1.pro",
+    "research/reasoning_techniques_gem3.1.pro.md",
+    "research",
+    "Strategy/reason-relations chain.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Agents/tools/review.md",
     "learn/tools.md",
     "Agents/tools/ref.md",
     "Agents/tools/harness.md",
-    "Agents/tools/review.md",
     "Symphony Codex Architecture.canvas",
     "Paperclip Codex Architecture.canvas",
     "testMAs.canvas",
@@ -229,31 +220,13 @@
     "soul/solutions.md",
     "soul/psycho.md",
     "pro/lifemanager/proposal.md",
-    "pro/lernkids/proposal.md",
     "pro/lifemanager",
     "pro/lernkids",
-    "Agents/readme.md",
-    "Strategy/metrics.md",
-    "Strategy/Team and start.md",
-    "Strategy/quotes.md",
-    "Strategy/Sales.md",
-    "Strategy/marketing.md",
-    "learn/english/eng_algo.md",
-    "learn/english/eng_algo_pro.md",
-    "learn/Courses AI 2026.md",
     "Untitled",
-    "Strategy/research.md",
-    "Strategy/review.md",
-    "Strategy/goal.md",
-    "Strategy/reason-relations chain.md",
     "pro/sweeptech/Untitled",
     "pro/sweeptech",
     "pro",
-    "Clippings",
-    "image",
     "image/Pasted image 20260404210600.png",
-    "Agents/research",
-    "Agents",
     "Untitled 1.canvas"
   ]
 }
