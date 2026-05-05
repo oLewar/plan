@@ -3,7 +3,7 @@ title: "TencentCloud/CubeSandbox: Instant, Concurrent, Secure & Lightweight Sand
 source: "https://github.com/TencentCloud/CubeSandbox"
 author:
 published:
-created: 2026-04-28
+created: 2026-04-21
 description: "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. - TencentCloud/CubeSandbox"
 tags:
   - "clippings"
@@ -24,7 +24,7 @@ Cube Sandbox is a high-performance, out-of-the-box secure sandbox service built 
 
 ## Demos
 
-| 1.cubesandbox.-.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579121140-f87c409e-29fc-4e86-9eac-dbeaff2aca18.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MDc3MDksIm5iZiI6MTc3NzQwNzQwOSwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjExNDAtZjg3YzQwOWUtMjlmYy00ZTg2LTllYWMtZGJlYWZmMmFjYTE4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI4VDIwMTY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlNTVmMzE2ZjllYjk0NzQxMjVjZTE4ODIwNzc3NWM1NDIxMGNlZDM4NzY2M2RhYzJhOTFiNDM3OWE3NGMyMjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.TpIQBfS0uxO0TDf__umnSUcQgvE1V4oKlDZtNXWvB-A" controls="controls"></video> | 2.cubesandbox.demo.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579121164-50e7126e-bb73-4abc-aa85-677fdf2e8c67.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MDc3MDksIm5iZiI6MTc3NzQwNzQwOSwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjExNjQtNTBlNzEyNmUtYmI3My00YWJjLWFhODUtNjc3ZmRmMmU4YzY3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI4VDIwMTY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhMzRjZjkzOWJlNWU3ZTkzYTY1ZDdmNWEwNTA1NjQyZDEzNDkxMjBmN2QyZjM5MzljYzQ0ZWY1MWVkNTM2ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.GKNlgE5MSqmiBKM5-fjw2HzTqbna2F98UzJ56wbCUw8" controls="controls"></video> | Cube-Sandbox.RL.demo.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579120806-052e0e77-e2d9-409e-90b8-d13c28b80495.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MDc3MDksIm5iZiI6MTc3NzQwNzQwOSwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjA4MDYtMDUyZTBlNzctZTJkOS00MDllLTkwYjgtZDEzYzI4YjgwNDk1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI4VDIwMTY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5YzMzNWM2NzMzOWFjZWY3YWRlNWZlM2I2MzAzYjYyYzRhNWUyMDdiY2I3YjJkNmU4NGRjNzIzMDIxNGEyYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.NEIgq4g0jHIO3CNa0ME3VWhwXCpZJAQaZRWKLyKcN-Q" controls="controls"></video> |
+| 1.cubesandbox.-.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579121140-f87c409e-29fc-4e86-9eac-dbeaff2aca18.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3ODA1MDIsIm5iZiI6MTc3Njc4MDIwMiwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjExNDAtZjg3YzQwOWUtMjlmYy00ZTg2LTllYWMtZGJlYWZmMmFjYTE4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDE0MDMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMzMwMjZhYTMyMDcxYTRhNDYyZTgyZWYwNWFkZjkwNTJiNTg0ZGUxMDQ2MmNiODYxODY3YWVlYWVmYTQ1NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.ziLEQWH2-1QLyNA5QZDlof-hixtg6OYHt-ii2xdl0aI" controls="controls"></video> | 2.cubesandbox.demo.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579121164-50e7126e-bb73-4abc-aa85-677fdf2e8c67.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3ODA1MDIsIm5iZiI6MTc3Njc4MDIwMiwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjExNjQtNTBlNzEyNmUtYmI3My00YWJjLWFhODUtNjc3ZmRmMmU4YzY3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDE0MDMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxZjI5YWU3NzgwZmM5ZDc0NmM4MmZhMTVmM2Q3NjhlNGM5OWVlMzIzZGVmZTBlZjZhOGZkY2Q2NDE3YWNkODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.jMFkcrkYhlySy2IS45PqzU9Avuv4f2Xu3etwIlJ9N8c" controls="controls"></video> | Cube-Sandbox.RL.demo.mp4<video src="https://private-user-images.githubusercontent.com/63215266/579120806-052e0e77-e2d9-409e-90b8-d13c28b80495.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3ODA1MDIsIm5iZiI6MTc3Njc4MDIwMiwicGF0aCI6Ii82MzIxNTI2Ni81NzkxMjA4MDYtMDUyZTBlNzctZTJkOS00MDllLTkwYjgtZDEzYzI4YjgwNDk1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDE0MDMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzNjZkZDliMmFkZTgxYzViOThjYjE0OTUxODQ5MGFhODBmZjA4YmZjY2Y1MWE3NmRjOWVlOTgwOWI2YzJkZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.kY4vw94BlphB6vbKVoNEx6fybiPZbxJO6TEsqomF18E" controls="controls"></video> |
 | --- | --- | --- |
 | *Installation & Demo* | *Performance Test* | *RL (SWE-Bench)* |
 
@@ -95,7 +95,7 @@ cd CubeSandbox/dev-env && ./login.sh
 
 > This drops you into a disposable Linux environment where all the subsequent installation happens, so your host stays clean. See [Development Environment](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/guide/dev-environment.md) for details.
 
-2. **Start the Cube Sandbox Service**
+1. **Start the Cube Sandbox Service**
 
 Inside the environment you entered via `login.sh` (or directly on your bare-metal server), run **one** of the following commands depending on your location:
 
@@ -110,7 +110,7 @@ Inside the environment you entered via `login.sh` (or directly on your bare-meta
 
 > See [Quick Start — China mainland mirror](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/guide/quickstart.md#step-2-install) for details.
 
-3. **Create a Code Interpreter Sandbox Template**
+1. **Create a Code Interpreter Sandbox Template**
 
 After installation, create a code interpreter template from the prebuilt image:
 
@@ -135,7 +135,7 @@ cubemastercli tpl watch --job-id <job_id>
 
 Wait for the command above to finish and the template status to reach `READY`. Note the **template ID** (`template_id`) from the output — you will need it in the next step.
 
-4. **Run Your First Agent Code**
+1. **Run Your First Agent Code**
 
 Install the Python SDK:
 
@@ -150,7 +150,7 @@ Set environment variables:
 export E2B_API_URL="http://127.0.0.1:3000"
 export E2B_API_KEY="dummy"
 export CUBE_TEMPLATE_ID="<your-template-id>"  # template ID obtained from Step 3
-export SSL_CERT_FILE="/root/.local/share/mkcert/rootCA.pem"
+export SSL_CERT_FILE="$(mkcert -CAROOT)/rootCA.pem"
 ```
 
 Run code inside an isolated sandbox:
