@@ -83,8 +83,19 @@ When answering questions:
 Формула приоритета (эвристика):
 `Priority = (Impact × Confidence gain × Safety) / Cost`
 
+## QMD requirement (mandatory)
+
+- Для навигации и поиска по базе использовать `qmd` как стандартный поисковый слой.
+- Минимум: поддерживать коллекции `plan-wiki` и `plan-raw` в актуальном состоянии.
+- После значимых изменений markdown запускать `qmd collection update plan-wiki` и `qmd collection update plan-raw`.
+- Периодически запускать `qmd embed` для актуализации semantic/hybrid поиска.
+- Перед сложным синтезом использовать `qmd query ...` и фиксировать результаты обратно в `wiki/`.
+
+См. детальный регламент: `processes/qmd.md`.
+
 ## Git workflow
 
 - Ветка по умолчанию: `main`.
 - Коммиты атомарные и осмысленные (`feat(wiki): ...`, `docs(process): ...`).
 - После каждого ingest/query/lint: обновить индекс, лог, затем коммит.
+- Для query/lint задач считать обязательным шагом проверку через `qmd`.
