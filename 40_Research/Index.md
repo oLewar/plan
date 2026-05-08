@@ -13,3 +13,5 @@
 - [[50_Hypotheses/Index]]
 - [[30_Tasks/In-Progress]]
 - [[40_Research/Catalog|Полный каталог research-материалов]]
+- [[40_Research/themes/agent-dev/Index|Theme Hub: Agent Development]]
+- [[40_Research/themes/finance/Index|Theme Hub: Finance/DeFi/Blockchain]]
