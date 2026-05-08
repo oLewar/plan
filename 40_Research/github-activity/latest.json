@@ -1,0 +1,62 @@
+{
+  "generated_at_utc": "2026-05-08T08:57:00Z",
+  "window_days": 30,
+  "repos_total": 5,
+  "rows": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "last_commit_date": "2026-05-08T00:08:08Z",
+      "last_commit_sha": "faa13e49",
+      "last_commit_author": "helix4u",
+      "commits_window": 1000,
+      "window_days": 30,
+      "activity": "daily",
+      "count_capped": true,
+      "error": null
+    },
+    {
+      "repo": "HKUDS/OpenHarness",
+      "last_commit_date": "2026-05-08T03:49:02Z",
+      "last_commit_sha": "18fc6dea",
+      "last_commit_author": "tjb-tech",
+      "commits_window": 190,
+      "window_days": 30,
+      "activity": "daily",
+      "count_capped": false,
+      "error": null
+    },
+    {
+      "repo": "tobi/qmd",
+      "last_commit_date": "2026-05-03T00:16:33Z",
+      "last_commit_sha": "d58fedf4",
+      "last_commit_author": "Tobias Lütke",
+      "commits_window": 27,
+      "window_days": 30,
+      "activity": "daily",
+      "count_capped": false,
+      "error": null
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "last_commit_date": null,
+      "last_commit_sha": null,
+      "last_commit_author": null,
+      "commits_window": null,
+      "window_days": 30,
+      "activity": "unknown",
+      "count_capped": false,
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex",
+      "last_commit_date": null,
+      "last_commit_sha": null,
+      "last_commit_author": null,
+      "commits_window": null,
+      "window_days": 30,
+      "activity": "unknown",
+      "count_capped": false,
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ]
+}
