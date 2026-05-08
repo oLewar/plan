@@ -18,7 +18,7 @@ tags:
 
 ## The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 
-[![hetzner-k3s logo](https://github.com/vitobotta/hetzner-k3s/raw/main/logo-v2.png)](https://github.com/vitobotta/hetzner-k3s/blob/main/logo-v2.png)
+[![hetzner-k3s logo](../assets/external/github.com/f9bf6c5795c0d5ed.png)](https://github.com/vitobotta/hetzner-k3s/blob/main/logo-v2.png)
 
 [**hetzner-k3s.com**](https://hetzner-k3s.com/)
 
@@ -48,7 +48,7 @@ tags:
 
 ### How It Works
 
-[![How hetzner-k3s works](https://github.com/vitobotta/hetzner-k3s/raw/main/diagram.svg)](https://github.com/vitobotta/hetzner-k3s/blob/main/diagram.svg)
+[![How hetzner-k3s works](../assets/external/github.com/806c0cdca0ac118b.svg)](https://github.com/vitobotta/hetzner-k3s/blob/main/diagram.svg)
 
 No Terraform. No Packer. No Ansible. No management cluster. No third-party account. Your API token never leaves your machine.
 
@@ -287,17 +287,17 @@ If hetzner-k3s saves you time or money, please consider [supporting its developm
 
 ### Diamond Sponsors
 
-[![SprintPulse](https://github.com/vitobotta/hetzner-k3s/raw/main/SprintPulse.svg)](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=hetzner-k3s&utm_content=readme)
+[![SprintPulse](../assets/external/github.com/4f82beea45b9eab6.svg)](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=hetzner-k3s&utm_content=readme)
 
 [SprintPulse](https://sprintpulse.io/?utm_source=github&utm_medium=social&utm_campaign=hetzner-k3s&utm_content=readme) — the retrospective tool teams actually love. Run engaging retros with real-time collaboration, AI-powered insights, and actionable outcomes. Set up in 60 seconds, no training required.
 
-[![Alamos GmbH](https://github.com/vitobotta/hetzner-k3s/raw/main/Alamos_black.svg)](https://alamos.gmbh/)
+[![Alamos GmbH](../assets/external/github.com/d60c53179b26f26a.svg)](https://alamos.gmbh/)
 
 A special thank you to [Alamos GmbH](https://alamos.gmbh/) for sponsoring the development of key features!
 
 ### Bronze Sponsors
 
-[![DevOps Squad](https://github.com/vitobotta/hetzner-k3s/raw/main/devopssquad-logo-small.png)](https://devopssquad.dev/cloud-exit-calculator/?utm_source=github&utm_medium=sponsorship&utm_campaign=hetzner-k3s-readme)
+[![DevOps Squad](../assets/external/github.com/aa7beca29286d133.png)](https://devopssquad.dev/cloud-exit-calculator/?utm_source=github&utm_medium=sponsorship&utm_campaign=hetzner-k3s-readme)
 
 [DevOps Squad](https://devopssquad.dev/cloud-exit-calculator/?utm_source=github&utm_medium=sponsorship&utm_campaign=hetzner-k3s-readme) — Deploying is easy; Day 2 is hard. Cut your AWS bill by 60% with fully-managed Hetzner infrastructure ($2,995/mo). Run the **Cloud Exit Calculator** to see your savings.
 
@@ -321,4 +321,4 @@ Open source under the [MIT License](https://github.com/vitobotta/hetzner-k3s/blo
 
 ---
 
-[![Stargazers over time](https://camo.githubusercontent.com/845d3f84a3d925adaf1e87d12233d95647d0803e0a0bddd678af5ca50fffbb63/68747470733a2f2f7374617263686172742e63632f7669746f626f7474612f6865747a6e65722d6b33732e737667)](https://starchart.cc/vitobotta/hetzner-k3s)
+[![Stargazers over time](../assets/external/camo.githubusercontent.com/7c0df97f84dfb3f7.svg)](https://starchart.cc/vitobotta/hetzner-k3s)

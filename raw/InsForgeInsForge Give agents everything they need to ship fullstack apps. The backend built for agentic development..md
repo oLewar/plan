@@ -10,13 +10,13 @@ tags:
 ---
 [
 
-![InsForge](https://github.com/InsForge/InsForge/raw/main/assets/logo-dark.svg)
+![InsForge](../assets/external/github.com/e4be7889fe9d45e5.svg)
 
 ](https://insforge.dev/)
 
 The backend built for agentic development.
 
-[![InsForge%2FInsForge | Trendshift](https://camo.githubusercontent.com/b7f4cdb774000a557a00b76c82dd5dee636ce91b644cb4ee338bdb51de912ce5/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3139383334)](https://trendshift.io/repositories/19834)  
+[![InsForge%2FInsForge | Trendshift](../assets/external/camo.githubusercontent.com/f2e0982985fbad1e.svg)](https://trendshift.io/repositories/19834)  
 
 ⭐ *Help us reach more developers and grow the InsForge community. Star this repo!*
 
@@ -77,7 +77,7 @@ graph TB
 
 ## ⭐️ Star the Repository
 
-[![Star InsForge](https://github.com/InsForge/InsForge/raw/main/assets/insforge-star.gif)](https://github.com/InsForge/InsForge/blob/main/assets/insforge-star.gif)
+[![Star InsForge](../assets/external/github.com/75489941c45676eb.gif)](https://github.com/InsForge/InsForge/blob/main/assets/insforge-star.gif)
 
 If you find InsForge useful or interesting, a GitHub Star ⭐️ would be greatly appreciated.
 
@@ -93,7 +93,7 @@ Prerequisites: [Docker](https://www.docker.com/) + [Node.js](https://nodejs.org/
 
 You can run InsForge locally using Docker Compose. This will start a local InsForge instance on your machine.
 
-[![Deploy on Docker](https://github.com/InsForge/InsForge/raw/main/deploy/buttons/docker.png)](https://github.com/InsForge/InsForge/blob/main/deploy/docker-deploy.md)
+[![Deploy on Docker](../assets/external/github.com/64580a81a02c2c8b.png)](https://github.com/InsForge/InsForge/blob/main/deploy/docker-deploy.md)
 
 Or run from source:
 
@@ -111,7 +111,7 @@ Open [http://localhost:7130](http://localhost:7130/)
 
 Follow the steps to connect InsForge MCP Server
 
-[![Connect InsForge MCP](https://github.com/InsForge/InsForge/raw/main/assets/connect.png)](https://github.com/InsForge/InsForge/blob/main/assets/connect.png)
+[![Connect InsForge MCP](../assets/external/github.com/faf1c81593171e98.png)](https://github.com/InsForge/InsForge/blob/main/assets/connect.png)
 
 #### 3\. Verify installation
 
@@ -162,7 +162,7 @@ In addition to running InsForge locally, you can also launch InsForge using a pr
 
 | Railway | Zeabur | Sealos |
 | --- | --- | --- |
-| [![Deploy on Railway](https://camo.githubusercontent.com/88cb27bf937b98276737ba7888269a1bc9495d8670f63e1acc908b3442841114/68747470733a2f2f7261696c7761792e636f6d2f627574746f6e2e737667)](https://railway.com/deploy/insforge) | [![Deploy on Zeabur](https://camo.githubusercontent.com/4862f766bfb933cf474ec456099790bafc15f298c4ae2aded29cd85052b3c880/68747470733a2f2f7a65616275722e636f6d2f627574746f6e2e737667)](https://zeabur.com/templates/Q82M3Y) | [![Deploy on Sealos](https://camo.githubusercontent.com/ea79f0254cdc854923560e4dc71f7e63ffe09b31cad41657a11a077dccdee01d/68747470733a2f2f7365616c6f732e696f2f4465706c6f792d6f6e2d5365616c6f732e737667)](https://sealos.io/products/app-store/insforge) |
+| [![Deploy on Railway](../assets/external/camo.githubusercontent.com/70c5830b361062f0.svg)](https://railway.com/deploy/insforge) | [![Deploy on Zeabur](../assets/external/camo.githubusercontent.com/53d650517f022d1e.svg)](https://zeabur.com/templates/Q82M3Y) | [![Deploy on Sealos](../assets/external/camo.githubusercontent.com/f2b8f74841ad5910.svg)](https://sealos.io/products/app-store/insforge) |
 
 ## Contributing
 
@@ -191,7 +191,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](https:
 
 ---
 
-[![Star History Chart](https://camo.githubusercontent.com/cc2806818fac2c13c72914d1419bb68b8d8c7a83116652aa6aca91e9aee0690f/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d496e73466f7267652f696e73666f72676526747970653d44617465)](https://www.star-history.com/#InsForge/insforge&Date)
+[![Star History Chart](../assets/external/camo.githubusercontent.com/b8b3259988de5656.svg)](https://www.star-history.com/#InsForge/insforge&Date)
 
 ## Badges
 
@@ -202,7 +202,7 @@ Show your project is built with InsForge.
 **Markdown:**
 
 ```
-[![Made with InsForge](https://insforge.dev/badge-made-with-insforge.svg)](https://insforge.dev)
+[![Made with InsForge](../assets/external/insforge.dev/7387dfb9916fa6f6.svg)](https://insforge.dev)
 ```
 
 **HTML:**
@@ -212,7 +212,7 @@ Show your project is built with InsForge.
   <img
     width="168"
     height="30"
-    src="https://insforge.dev/badge-made-with-insforge.svg"
+    src="../assets/external/insforge.dev/7387dfb9916fa6f6.svg"
     alt="Made with InsForge"
   />
 </a>
@@ -223,7 +223,7 @@ Show your project is built with InsForge.
 **Markdown:**
 
 ```
-[![Made with InsForge](https://insforge.dev/badge-made-with-insforge-dark.svg)](https://insforge.dev)
+[![Made with InsForge](../assets/external/insforge.dev/9acb795eaeaecf0e.svg)](https://insforge.dev)
 ```
 
 **HTML:**
@@ -233,7 +233,7 @@ Show your project is built with InsForge.
   <img
     width="168"
     height="30"
-    src="https://insforge.dev/badge-made-with-insforge-dark.svg"
+    src="../assets/external/insforge.dev/9acb795eaeaecf0e.svg"
     alt="Made with InsForge"
   />
 </a>

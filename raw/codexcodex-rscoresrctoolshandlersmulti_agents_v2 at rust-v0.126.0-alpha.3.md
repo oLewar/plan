@@ -13,7 +13,7 @@ or `brew install --cask codex`
 
 **Codex CLI** is a coding agent from OpenAI that runs locally on your computer.
 
-[![Codex CLI splash](https://github.com/openai/codex/raw/main/.github/codex-cli-splash.png)](https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png)
+[![Codex CLI splash](../assets/external/github.com/5fb76c15e8f7d44e.png)](https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png)
 
   
 If you want Codex in your code editor (VS Code, Cursor, Windsurf), [install in your IDE.](https://developers.openai.com/codex/ide)  

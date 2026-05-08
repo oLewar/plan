@@ -8,7 +8,7 @@ description: "Model interpretability and understanding for PyTorch - meta-pytorc
 tags:
   - "clippings"
 ---
-[![Captum Logo](https://github.com/meta-pytorch/captum/raw/master/website/static/img/captum_logo.png)](https://github.com/meta-pytorch/captum/blob/master/website/static/img/captum_logo.png)
+[![Captum Logo](../assets/external/github.com/cda1d4aa19225dca.png)](https://github.com/meta-pytorch/captum/blob/master/website/static/img/captum_logo.png)
 
 ---
 
@@ -20,7 +20,7 @@ With the increase in model complexity and the resulting lack of transparency, mo
 
 Captum helps ML researchers more easily implement interpretability algorithms that can interact with PyTorch models. Captum also allows researchers to quickly benchmark their work against other existing algorithms available in the library.
 
-[![Overview of Attribution Algorithms](https://github.com/meta-pytorch/captum/raw/master/docs/Captum_Attribution_Algos.png)](https://github.com/meta-pytorch/captum/blob/master/docs/Captum_Attribution_Algos.png)
+[![Overview of Attribution Algorithms](../assets/external/github.com/349dfad0171c196d.png)](https://github.com/meta-pytorch/captum/blob/master/docs/Captum_Attribution_Algos.png)
 
 #### Target Audience
 

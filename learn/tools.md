@@ -1,4 +1,5 @@
-https://open.maic.chat/
-https://notebooklm.google.com/
-Агент момгает осваивать любой инструмент
-https://github.com/farzaa/clicky
+# Redirect
+
+Этот документ перемещён в новую структуру vault.
+
+➡ [[10_Reference/learn/tools]]

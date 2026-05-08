@@ -1,1 +1,5 @@
-https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4
+# Redirect
+
+Этот документ перемещён в новую структуру vault.
+
+➡ [[10_Reference/Agents/tools/design]]

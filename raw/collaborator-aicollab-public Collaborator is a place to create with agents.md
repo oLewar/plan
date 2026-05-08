@@ -12,7 +12,7 @@ tags:
 
 Collaborator is a place to build with agents.
 
-[![Collaborator](https://github.com/collaborator-ai/collab-public/raw/main/screenshot.png)](https://github.com/collaborator-ai/collab-public/blob/main/screenshot.png)
+[![Collaborator](../assets/external/github.com/5aab4c7d7ee2af47.png)](https://github.com/collaborator-ai/collab-public/blob/main/screenshot.png)
 
 Collaborator is an end-to-end environment for agentic development. Terminals, context files, and running code — all arranged on an infinite canvas in one place. No context switching, no tab hunting. Just your agents and your work, side by side.
 
@@ -225,7 +225,7 @@ Canvas state is saved 500ms after each change (debounced) and immediately when t
 
 ## Star History
 
-[![Star History Chart](https://camo.githubusercontent.com/b40bb2905fed0b7b717a300ca3d3face21e06e3c15ac41fa9f45c1b5a6d5bc3a/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f696d6167653f7265706f733d636f6c6c61626f7261746f722d61692f636f6c6c61622d7075626c696326747970653d74696d656c696e65266c6567656e643d746f702d6c656674)](https://www.star-history.com/?repos=collaborator-ai%2Fcollab-public&type=timeline&legend=top-left)
+[![Star History Chart](../assets/external/camo.githubusercontent.com/92c87934966dfd7a.png)](https://www.star-history.com/?repos=collaborator-ai%2Fcollab-public&type=timeline&legend=top-left)
 
 ## Development | Electron App
 

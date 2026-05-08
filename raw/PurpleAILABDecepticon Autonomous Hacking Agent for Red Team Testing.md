@@ -8,7 +8,7 @@ description: "Autonomous Hacking Agent for Red Team Testing. Contribute to Purpl
 tags:
   - "clippings"
 ---
-[![Decepticon Logo](https://github.com/PurpleAILAB/Decepticon/raw/main/assets/logo_banner.png)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/logo_banner.png)
+[![Decepticon Logo](../assets/external/github.com/5f1024b3eef34f3d.png)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/logo_banner.png)
 
 ## Decepticon — Autonomous Hacking Agent
 
@@ -182,7 +182,7 @@ Each role has automatic fallback (e.g., Opus → GPT-5.4). Provider outage or ra
 
 Two isolated networks. Management (`decepticon-net`) and operations (`sandbox-net`) share zero network access. LangGraph controls the sandbox exclusively via Docker socket.
 
-[![Decepticon Infrastructure](https://github.com/PurpleAILAB/Decepticon/raw/main/assets/decepticon_infra.svg)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/decepticon_infra.svg)
+[![Decepticon Infrastructure](../assets/external/github.com/62d10f74e0e72c60.svg)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/decepticon_infra.svg)
 
 ## Agents
 
@@ -256,4 +256,4 @@ Join the [Discord](https://discord.gg/TZUYsZgrRG) — ask questions, share engag
 
 ---
 
-[![Decepticon](https://github.com/PurpleAILAB/Decepticon/raw/main/assets/main.png)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/main.png)
+[![Decepticon](../assets/external/github.com/14519919bf499c2c.png)](https://github.com/PurpleAILAB/Decepticon/blob/main/assets/main.png)

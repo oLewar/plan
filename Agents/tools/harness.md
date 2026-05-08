@@ -1,7 +1,5 @@
-**top**
-https://github.com/paperclipai/paperclip
+# Redirect
 
-https://www.anthropic.com/engineering/harness-design-long-running-apps
-https://github.com/anthropics/claude-cookbooks
-https://github.com/HKUDS/OpenHarness
-https://github.com/lee-to/ai-factory
+Этот документ перемещён в новую структуру vault.
+
+➡ [[10_Reference/Agents/tools/harness]]

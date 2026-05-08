@@ -22,13 +22,13 @@ One Command (**oh**) to Launch **OpenHarness** and Unlock All Agent Harnesses.
 
 Supports CLI agent integration including OpenClaw, nanobot, Cursor, and more.
 
-[![OpenHarness Terminal Demo](https://github.com/HKUDS/OpenHarness/raw/main/assets/cli-typing.gif)](https://github.com/HKUDS/OpenHarness/blob/main/assets/cli-typing.gif)
+[![OpenHarness Terminal Demo](../assets/external/github.com/fd2017d787d09e86.gif)](https://github.com/HKUDS/OpenHarness/blob/main/assets/cli-typing.gif)
 
 ---
 
 ## ✨ OpenHarness's Key Harness Features
 
-| ### 🔄 Agent Loop  [![](https://github.com/HKUDS/OpenHarness/raw/main/assets/scene-agentloop.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-agentloop.png)  **• Streaming Tool-Call Cycle**  **• API Retry with Exponential Backoff**  **• Parallel Tool Execution**  **• Token Counting & Cost Tracking** | ### 🔧 Harness Toolkit  [![](https://github.com/HKUDS/OpenHarness/raw/main/assets/scene-toolkit.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-toolkit.png)  **• 43 Tools (File, Shell, Search, Web, MCP)**  **• On-Demand Skill Loading (.md)**  **• Plugin Ecosystem (Skills + Hooks + Agents)**  **• Compatible with anthropics/skills & plugins** | ### 🧠 Context & Memory  [![](https://github.com/HKUDS/OpenHarness/raw/main/assets/scene-context.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-context.png)  **• CLAUDE.md Discovery & Injection**  **• Context Compression (Auto-Compact)**  **• MEMORY.md Persistent Memory**  **• Session Resume & History** | ### 🛡️ Governance  [![](https://github.com/HKUDS/OpenHarness/raw/main/assets/scene-governance.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-governance.png)  **• Multi-Level Permission Modes**  **• Path-Level & Command Rules**  **• PreToolUse / PostToolUse Hooks**  **• Interactive Approval Dialogs** | ### 🤝 Swarm Coordination  [![](https://github.com/HKUDS/OpenHarness/raw/main/assets/scene-swarm.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-swarm.png)  **• Subagent Spawning & Delegation**  **• Team Registry & Task Management**  **• Background Task Lifecycle**  **• [ClawTeam](https://github.com/HKUDS/ClawTeam) Integration (Roadmap)** |
+| ### 🔄 Agent Loop  [![](../assets/external/github.com/099e391509ffe07b.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-agentloop.png)  **• Streaming Tool-Call Cycle**  **• API Retry with Exponential Backoff**  **• Parallel Tool Execution**  **• Token Counting & Cost Tracking** | ### 🔧 Harness Toolkit  [![](../assets/external/github.com/c2af77dbf3f34289.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-toolkit.png)  **• 43 Tools (File, Shell, Search, Web, MCP)**  **• On-Demand Skill Loading (.md)**  **• Plugin Ecosystem (Skills + Hooks + Agents)**  **• Compatible with anthropics/skills & plugins** | ### 🧠 Context & Memory  [![](../assets/external/github.com/b7f7c4eac607d30b.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-context.png)  **• CLAUDE.md Discovery & Injection**  **• Context Compression (Auto-Compact)**  **• MEMORY.md Persistent Memory**  **• Session Resume & History** | ### 🛡️ Governance  [![](../assets/external/github.com/b847e6c215fcd458.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-governance.png)  **• Multi-Level Permission Modes**  **• Path-Level & Command Rules**  **• PreToolUse / PostToolUse Hooks**  **• Interactive Approval Dialogs** | ### 🤝 Swarm Coordination  [![](../assets/external/github.com/e660ce0459a9183b.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/scene-swarm.png)  **• Subagent Spawning & Delegation**  **• Team Registry & Task Management**  **• Background Task Lifecycle**  **• [ClawTeam](https://github.com/HKUDS/ClawTeam) Integration (Roadmap)** |
 | --- | --- | --- | --- | --- |
 
 ---
@@ -37,7 +37,7 @@ Supports CLI agent integration including OpenClaw, nanobot, Cursor, and more.
 
 An **Agent Harness** is the complete infrastructure that wraps around an LLM to make it a functional agent. The model provides intelligence; the harness provides **hands, eyes, memory, and safety boundaries**.
 
-[![Harness = Tools + Knowledge + Observation + Action + Permissions](https://github.com/HKUDS/OpenHarness/raw/main/assets/harness-equation.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/harness-equation.png)
+[![Harness = Tools + Knowledge + Observation + Action + Permissions](../assets/external/github.com/710de36eba7f76bb.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/harness-equation.png)
 
 OpenHarness is an open-source Python implementation designed for **researchers, builders, and the community**:
 
@@ -126,7 +126,7 @@ oh
 # On Windows PowerShell, use: openh
 ```
 
-[![OpenHarness Landing Screen](https://github.com/HKUDS/OpenHarness/raw/main/assets/landing.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/landing.png)
+[![OpenHarness Landing Screen](../assets/external/github.com/c37c59465e45c382.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/landing.png)
 
 ### 4\. Set up ohmo (Personal Agent)
 
@@ -697,13 +697,13 @@ MIT — see [LICENSE](https://github.com/HKUDS/OpenHarness/blob/main/LICENSE).
 
 ---
 
-[![OpenHarness](https://github.com/HKUDS/OpenHarness/raw/main/assets/logo.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/logo.png)  
+[![OpenHarness](../assets/external/github.com/bdf1dc5828efd9d0.png)](https://github.com/HKUDS/OpenHarness/blob/main/assets/logo.png)  
 **Oh my Harness!**  
 *The model is the agent. The code is the harness.*
 
 [
 
-![Star History Chart](https://camo.githubusercontent.com/38877466639ae8154c1220c5ead43af3836d654641172e2f01cde04ab4e97987/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d484b5544532f4f70656e4861726e65737326747970653d44617465)
+![Star History Chart](../assets/external/camo.githubusercontent.com/dfdad3d4dff98b69.svg)
 
 ](https://star-history.com/#HKUDS/OpenHarness&Date)
 

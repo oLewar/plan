@@ -8,9 +8,9 @@ description: "Learn what Reinforcement Learning (RL) environments are and how to
 tags:
   - "clippings"
 ---
-[![unsloth sticker logo](https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png?width=128&quality=80&format=auto)](https://unsloth.ai/)<iframe src="https://ghbtns.com/github-btn.html?user=unslothai&amp;repo=unsloth&amp;type=star&amp;count=true&amp;size=large" frameborder="0" width="170" height="30" title="GitHub"></iframe>
+[![unsloth sticker logo](../assets/external/unsloth.ai/dfa8421acea49fec.png)](https://unsloth.ai/)<iframe src="https://ghbtns.com/github-btn.html?user=unslothai&amp;repo=unsloth&amp;type=star&amp;count=true&amp;size=large" frameborder="0" width="170" height="30" title="GitHub"></iframe>
 
-![6 cute pastel coloured sloths staring at their computer screens happy](https://unsloth.ai/cgi/image/green_sloth_1aakUlHhEsMK8d8eaBRQ3.png?width=2048&quality=80&format=auto)
+![6 cute pastel coloured sloths staring at their computer screens happy](../assets/external/unsloth.ai/26b0dac85aa53b9a.png)
 
 What are RL environments and how to build them
 
@@ -18,7 +18,7 @@ What are RL environments and how to build them
 
 [Reinforcement learning (RL)](https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide) has shaped AI for decades, from early control systems to game-playing agents and, more recently, large language models that learn through interaction. At its core, RL works by teaching a model to learn, respond, and receive feedback, improving the model over the course of time.
 
-![](https://unsloth.ai/cgi/image/Figure2_krKcCuK8VRU_nQ8EbQD03.png?width=2048&quality=80&format=auto)
+![](../assets/external/unsloth.ai/369c73bf8864248f.png)
 
 However, as AI becomes [agentic](https://www.nvidia.com/en-us/glossary/ai-agents/), capable of multi-step reasoning, tool use, and decision-making, we are entering the ["Era of Experience"](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf), where progress is driven by systems that learn from their own experience rather than just static data. RL must evolve from optimizing single responses to shaping behaviors across entire trajectories. In this context, learning happens through interaction with "environments" that define permissible actions, state changes, and the definition of success.
 
@@ -95,7 +95,7 @@ NeMo Gym is designed to address these challenges by providing a clean decoupling
 
 In NeMo Gym, tasks define what the agent must accomplish. Resources provide the external state the agent interacts with, for example tools, databases, sandboxed execution, as well as the verification logic that scores performance. The Model Interface handles generation, producing the model’s actions at each turn, such as text, tool calls, or code. The Agent orchestrates each rollout by calling the model to generate actions, updating the environment state via resource servers, and collecting the final reward.
 
-![](https://unsloth.ai/cgi/image/Figure_1_gOriy5UAqPJ-cmKMadLYp.png?width=3840&quality=80&format=auto)
+![](../assets/external/unsloth.ai/5ad2a1c1acd01e51.png)
 
 **Figure 1:** The architecture of NeMo Gym, which works alongside an RL training framework, illustrating the decoupling of environment rollout orchestration from model training and generation.
 
@@ -107,7 +107,7 @@ Before writing a single line of code, it is essential to understand the two-phas
 
 **Figure 2:** In the RLVR workflow, environment preparation precedes and shapes model training.
 
-![](https://unsloth.ai/cgi/image/Figure2_krKcCuK8VRU_nQ8EbQD03.png?width=3840&quality=80&format=auto)
+![](../assets/external/unsloth.ai/cc0527d49bec1532.png)
 
 ## Phase 1: Environment Preparation
 

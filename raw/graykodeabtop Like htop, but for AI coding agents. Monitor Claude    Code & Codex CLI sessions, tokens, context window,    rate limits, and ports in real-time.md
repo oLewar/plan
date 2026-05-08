@@ -14,7 +14,7 @@ tags:
 
 See every Claude Code and Codex CLI session at a glance — token usage, context window %, rate limits, child processes, open ports, and more.
 
-[![demo](https://github.com/graykode/abtop/raw/main/assets/demo.gif)](https://github.com/graykode/abtop/blob/main/assets/demo.gif)
+[![demo](../assets/external/github.com/53b5969eb24996f7.gif)](https://github.com/graykode/abtop/blob/main/assets/demo.gif)
 
 ## Why
 
@@ -98,21 +98,21 @@ tmux new -s work
 
 | btop (default) | dracula | catppuccin |
 | --- | --- | --- |
-| [![btop](https://github.com/graykode/abtop/raw/main/assets/themes/btop.png)](https://github.com/graykode/abtop/blob/main/assets/themes/btop.png) | [![dracula](https://github.com/graykode/abtop/raw/main/assets/themes/dracula.png)](https://github.com/graykode/abtop/blob/main/assets/themes/dracula.png) | [![catppuccin](https://github.com/graykode/abtop/raw/main/assets/themes/catppuccin.png)](https://github.com/graykode/abtop/blob/main/assets/themes/catppuccin.png) |
+| [![btop](../assets/external/github.com/f9497eba8d075abd.png)](https://github.com/graykode/abtop/blob/main/assets/themes/btop.png) | [![dracula](../assets/external/github.com/8277a01adb9278ca.png)](https://github.com/graykode/abtop/blob/main/assets/themes/dracula.png) | [![catppuccin](../assets/external/github.com/8427983b1c1f91dc.png)](https://github.com/graykode/abtop/blob/main/assets/themes/catppuccin.png) |
 
 | tokyo-night | gruvbox | nord |
 | --- | --- | --- |
-| [![tokyo-night](https://github.com/graykode/abtop/raw/main/assets/themes/tokyo-night.png)](https://github.com/graykode/abtop/blob/main/assets/themes/tokyo-night.png) | [![gruvbox](https://github.com/graykode/abtop/raw/main/assets/themes/gruvbox.png)](https://github.com/graykode/abtop/blob/main/assets/themes/gruvbox.png) | [![nord](https://github.com/graykode/abtop/raw/main/assets/themes/nord.png)](https://github.com/graykode/abtop/blob/main/assets/themes/nord.png) |
+| [![tokyo-night](../assets/external/github.com/4a72696d0d756364.png)](https://github.com/graykode/abtop/blob/main/assets/themes/tokyo-night.png) | [![gruvbox](../assets/external/github.com/39a680b0fb9968d1.png)](https://github.com/graykode/abtop/blob/main/assets/themes/gruvbox.png) | [![nord](../assets/external/github.com/8a03c71064bb10da.png)](https://github.com/graykode/abtop/blob/main/assets/themes/nord.png) |
 
 Colorblind-friendly themes:
 
 | high-contrast | protanopia |
 | --- | --- |
-| [![high-contrast](https://github.com/graykode/abtop/raw/main/assets/themes/high-contrast.png)](https://github.com/graykode/abtop/blob/main/assets/themes/high-contrast.png) | [![protanopia](https://github.com/graykode/abtop/raw/main/assets/themes/protanopia.png)](https://github.com/graykode/abtop/blob/main/assets/themes/protanopia.png) |
+| [![high-contrast](../assets/external/github.com/1519566948008b9a.png)](https://github.com/graykode/abtop/blob/main/assets/themes/high-contrast.png) | [![protanopia](../assets/external/github.com/165ce1381fd740ca.png)](https://github.com/graykode/abtop/blob/main/assets/themes/protanopia.png) |
 
 | deuteranopia | tritanopia |
 | --- | --- |
-| [![deuteranopia](https://github.com/graykode/abtop/raw/main/assets/themes/deuteranopia.png)](https://github.com/graykode/abtop/blob/main/assets/themes/deuteranopia.png) | [![tritanopia](https://github.com/graykode/abtop/raw/main/assets/themes/tritanopia.png)](https://github.com/graykode/abtop/blob/main/assets/themes/tritanopia.png) |
+| [![deuteranopia](../assets/external/github.com/c0e5deba504995bb.png)](https://github.com/graykode/abtop/blob/main/assets/themes/deuteranopia.png) | [![tritanopia](../assets/external/github.com/f253fcb17dd9d669.png)](https://github.com/graykode/abtop/blob/main/assets/themes/tritanopia.png) |
 
 Theme support contributed by [@tbouquet](https://github.com/tbouquet).
 

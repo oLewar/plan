@@ -1,2 +1,5 @@
-https://www.youtube.com/@PredictiveHistory
-интересное построение прогнозов на теории игр
+# Redirect
+
+Этот документ перемещён в новую структуру vault.
+
+➡ [[10_Reference/Agents/research/PredictiveHistory]]

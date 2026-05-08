@@ -10,7 +10,7 @@ tags:
 ---
 ## 🧬 Evolver
 
-[![Evolver Cover](https://github.com/EvoMap/evolver/raw/main/assets/cover.png)](https://github.com/EvoMap/evolver/blob/main/assets/cover.png)
+[![Evolver Cover](../assets/external/github.com/3bd8a84c2433b023.png)](https://github.com/EvoMap/evolver/blob/main/assets/cover.png)
 
 **[evomap.ai](https://evomap.ai/)** | [Documentation](https://evomap.ai/wiki) | [Chinese / 中文文档](https://github.com/EvoMap/evolver/blob/main/README.zh-CN.md) | [Japanese / 日本語ドキュメント](https://github.com/EvoMap/evolver/blob/main/README.ja-JP.md) | [GitHub](https://github.com/EvoMap/evolver) | [Releases](https://github.com/EvoMap/evolver/releases)
 
@@ -424,7 +424,7 @@ See the full release history on [GitHub Releases](https://github.com/EvoMap/evol
 
 ## Star History
 
-[![Star History Chart](https://camo.githubusercontent.com/b12e3a1ec633f54bf52ae3d7c921800a51fea894e64c74c8af48923099587ca2/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d45766f4d61702f65766f6c76657226747970653d44617465)](https://star-history.com/#EvoMap/evolver&Date)
+[![Star History Chart](../assets/external/camo.githubusercontent.com/144333ad0ad6014b.svg)](https://star-history.com/#EvoMap/evolver&Date)
 
 ## Acknowledgments
 

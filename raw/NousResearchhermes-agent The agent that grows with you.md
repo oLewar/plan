@@ -8,7 +8,7 @@ description: "The agent that grows with you. Contribute to NousResearch/hermes-a
 tags:
   - "clippings"
 ---
-[![Hermes Agent](https://github.com/NousResearch/hermes-agent/raw/main/assets/banner.png)](https://github.com/NousResearch/hermes-agent/blob/main/assets/banner.png)
+[![Hermes Agent](../assets/external/github.com/42b473c5da78dd66.png)](https://github.com/NousResearch/hermes-agent/blob/main/assets/banner.png)
 
 ## Hermes Agent ☤
 

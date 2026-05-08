@@ -8,7 +8,7 @@ description: "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. -
 tags:
   - "clippings"
 ---
-[![Cube Sandbox Logo](https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/cube-sandbox-logo.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/cube-sandbox-logo.png)
+[![Cube Sandbox Logo](../assets/external/github.com/b806fc5345c6beff.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/cube-sandbox-logo.png)
 
 ## CubeSandbox
 
@@ -20,7 +20,7 @@ tags:
 
 Cube Sandbox is a high-performance, out-of-the-box secure sandbox service built on RustVMM and KVM. It supports both single-node deployment and can be easily scaled to a multi-node cluster. It is compatible with the E2B SDK, capable of creating a hardware-isolated sandbox environment with full service capabilities in under 60ms, while maintaining less than 5MB memory overhead.
 
-[![](https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/readme_speed_en_1.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/readme_speed_en_1.png) [![](https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/readme_overhead_en_1.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/readme_overhead_en_1.png)
+[![](../assets/external/github.com/91a92523ef30ff94.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/readme_speed_en_1.png) [![](../assets/external/github.com/6ce1e8657d331e72.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/readme_overhead_en_1.png)
 
 ## Demos
 
@@ -56,11 +56,11 @@ In the context of AI Agent code execution, CubeSandbox achieves the perfect bala
 
 For detailed metrics on startup latency and resource overhead, please refer to:
 
-<table align="center"><tbody><tr align="center"><td width="33%"><a href="https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/1-concurrency-create.png"><img src="https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/1-concurrency-create.png"></a></td><td width="33%"><a href="https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/50-concurrency-create.png"><img src="https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/50-concurrency-create.png"></a></td><td width="33%"><a href="https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/cube-sandbox-mem-overhead.png"><img src="https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/cube-sandbox-mem-overhead.png"></a></td></tr><tr align="center"><td colspan="2"><em>Sub-150ms sandbox delivery under both single and high-concurrency workloads</em></td><td><em>CubeSandbox base memory footprint across various instance sizes</em><br><sup>(*Blue: Sandbox specifications; Orange: Base memory overhead). Note that memory consumption increases only marginally as instance sizes scale up.</sup></td></tr></tbody></table>
+<table align="center"><tbody><tr align="center"><td width="33%"><a href="../assets/external/github.com/7befcc0af3073dc8.png"><img src="../assets/external/github.com/eeb5f275c8cfad3e.png"></a></td><td width="33%"><a href="../assets/external/github.com/d2d7dc4835093d76.png"><img src="../assets/external/github.com/dee75d2bf7358fa5.png"></a></td><td width="33%"><a href="../assets/external/github.com/a7805008a3f5d75c.png"><img src="../assets/external/github.com/5e296e1d0e683e61.png"></a></td></tr><tr align="center"><td colspan="2"><em>Sub-150ms sandbox delivery under both single and high-concurrency workloads</em></td><td><em>CubeSandbox base memory footprint across various instance sizes</em><br><sup>(*Blue: Sandbox specifications; Orange: Base memory overhead). Note that memory consumption increases only marginally as instance sizes scale up.</sup></td></tr></tbody></table>
 
 ## Quick Start
 
-[![Cube Sandbox fast start walkthrough](https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/fast-start.gif)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/guide/quickstart.md)
+[![Cube Sandbox fast start walkthrough](../assets/external/github.com/34fd0b787db3f9d4.gif)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/guide/quickstart.md)
 
 *⚡ Millisecond-level startup — watch the fast-start flow, then jump into the [Quick Start guide](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/guide/quickstart.md).*
 
@@ -178,7 +178,7 @@ Want to explore more? Check out the 📂 [`examples/`](https://github.com/Tencen
 
 ## Architecture
 
-[![Cube Sandbox Architecture](https://github.com/TencentCloud/CubeSandbox/raw/master/docs/assets/cube-sandbox-arch.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/cube-sandbox-arch.png)
+[![Cube Sandbox Architecture](../assets/external/github.com/1181b4b7100f34e1.png)](https://github.com/TencentCloud/CubeSandbox/blob/master/docs/assets/cube-sandbox-arch.png)
 
 | Component | Responsibility |
 | --- | --- |

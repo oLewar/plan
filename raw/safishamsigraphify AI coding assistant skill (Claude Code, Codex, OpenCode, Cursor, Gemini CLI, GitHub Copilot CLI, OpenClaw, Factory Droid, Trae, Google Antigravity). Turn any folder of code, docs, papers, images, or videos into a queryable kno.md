@@ -369,7 +369,7 @@ graphify is the graph layer. Penpax is the always-on layer on top of it — an o
 
 ## Star history
 
-[![Star History Chart](https://camo.githubusercontent.com/4d6f410013f7579cfd95d11c62d8f5da3bd7a8c7502b58f5ee7f4218bed4989f/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d736166697368616d73692f677261706869667926747970653d44617465)](https://star-history.com/#safishamsi/graphify&Date)
+[![Star History Chart](../assets/external/camo.githubusercontent.com/f064c12081299346.svg)](https://star-history.com/#safishamsi/graphify&Date)
 
 Contributing
 

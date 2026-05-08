@@ -10,7 +10,7 @@ tags:
 ---
 ## oracle 🧿 — Whispering your tokens to the silicon sage
 
-[![Oracle CLI header banner](https://github.com/steipete/oracle/raw/main/README-header.png)](https://github.com/steipete/oracle/blob/main/README-header.png)
+[![Oracle CLI header banner](../assets/external/github.com/2bed6e3d8891da39.png)](https://github.com/steipete/oracle/blob/main/README-header.png)
 
 Oracle bundles your prompt and files so another AI can answer with real context. It speaks GPT-5.4 Pro (default), GPT-5.4, GPT-5.1 Pro, GPT-5.1 Codex (API-only), GPT-5.1, GPT-5.2, Gemini 3.1 Pro (API-only), Gemini 3 Pro, Claude Sonnet 4.5, Claude Opus 4.1, and more—and it can ask one or multiple models in a single run. Browser automation is available; use `--browser-model-strategy current` to keep the active ChatGPT model (or `ignore` to skip the picker). API remains the most reliable path, and `--copy` is an easy manual fallback.
 

@@ -12,7 +12,7 @@ tags:
 
 **Studio Admin** - Includes multiple dashboards, authentication layouts, customizable theme presets, and more.
 
-[![Dashboard Screenshot](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/raw/main/media/dashboard.png?version=5)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/blob/main/media/dashboard.png?version=5)
+[![Dashboard Screenshot](../assets/external/github.com/ed4ea5b0b0e778c8.png)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/blob/main/media/dashboard.png?version=5)
 
 Most admin templates I found, free or paid, felt cluttered, outdated, or too rigid. I built this as a cleaner alternative with features often missing in others, such as theme toggling and layout controls, while keeping the design modern, minimal, and flexible.
 

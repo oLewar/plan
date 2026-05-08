@@ -26,7 +26,7 @@ In practice, however, this heterogeneous vision remains difficult to realize bec
 
 The central obstacle, therefore, is KVCache transfer. Recent hybrid-attention architectures change this picture in an important way. Emerging models [^26] [^27] [^31] [^3] [^11] [^2] [^18] interleave a small number of full-attention layers with a larger number of linear-complexity or bounded-state layers, such as Kimi Delta Attention (KDA) [^26], Sliding Window Attention (SWA) [^5], and related mechanisms. This design substantially reduces KVCache growth relative to dense-attention architectures, often by an order of magnitude, thereby making cross-datacenter KVCache transfer plausible. But plausibility is not yet practicality: a naive design that externalizes all prefills would still suffer from bursty arrivals, skewed request lengths, uneven prefix-cache distribution, and fluctuating inter-cluster bandwidth. Hybrid architectures relax the KVCache bottleneck, but they do not eliminate the need for system design; rather, they create the opportunity that system design must exploit.
 
-![Refer to caption](https://arxiv.org/html/2604.15039v1/x1.png)
+![Refer to caption](../assets/external/arxiv.org/670b0c986df833fd.png)
 
 (a) Status quo: Tightly coupled single-cluster inference.
 
@@ -63,7 +63,7 @@ where $S_{\text{kv}}(l)$ is the KVCache size for a request of length $l$ and $T_
 
 That network coupling also prevents heterogeneous serving from scaling cleanly. Specialized chips already exist for each phase: hardware such as Rubin CPX targets prefill throughput, while LPU-style designs target decode bandwidth. Yet high-performance interconnects remain tightly coupled to machine form factors and deployment environments, so connecting unlike hardware at RDMA-class bandwidth generally requires bespoke engineering. Worse, once heterogeneous hardware is forced into a single tightly coupled cluster, the system inherits a fixed prefill-to-decode hardware ratio. In production traffic, request mix, request volume, and prefix-cache hit rate fluctuate continuously, so one side of the pipeline inevitably becomes overprovisioned while the other becomes the bottleneck. In a homogeneous cluster, any machine can be dynamically reassigned between prefill and decode roles as load shifts. A heterogeneous cluster offers no such flexibility: a chip specialized for prefill cannot serve decode and vice versa, leading to severe load imbalance and stranded capacity. The result is higher operational complexity and limited real-world adoption of heterogeneous PD beyond bespoke or low-throughput scenarios.
 
-![Refer to caption](https://arxiv.org/html/2604.15039v1/x2.png)
+![Refer to caption](../assets/external/arxiv.org/23ccfcdc2b5b0dfd.png)
 
 Figure 2: KV throughput of MiniMax-M2.5 on an 8 × \\times H200 instance at various input lengths.
 
@@ -99,7 +99,7 @@ That is the systems turning point described before. Once KV throughput falls far
 
 ### 3.1 Overview
 
-![Refer to caption](https://arxiv.org/html/2604.15039v1/x3.png)
+![Refer to caption](../assets/external/arxiv.org/e7af5946bd983638.png)
 
 Figure 3: Deployment topology of the PrfaaS-PD architecture.
 
@@ -115,7 +115,7 @@ Based on vLLM’s hybrid KVCache manager [^28], we build a hybrid prefix cache s
 
 When a new request arrives, the global KVCache manager computes prefix-match information for every cluster, and the request router uses this information to select the prefill cluster and the cache-affine node within it. Beyond routing, the KVCache manager also performs cache rebalancing to mitigate hotspots. When sufficient inter-cluster bandwidth is available, cross-cluster cache transfer is feasible as well, as discussed in §3.4.3.
 
-![Refer to caption](https://arxiv.org/html/2604.15039v1/x4.png)
+![Refer to caption](../assets/external/arxiv.org/0e05dae3c8f2bec7.png)
 
 Figure 4: Hybrid prefix cache pool. Linear states and full-attention KVCache are managed by separate groups backed by a unified block pool. Blocks are categorized as prefix-cache (intra-cluster only, block-aligned) or transfer-cache (cross-cluster, discarded after transfer).
 
@@ -226,7 +226,7 @@ Request input lengths follow a truncated log-normal distribution ($\mu=9.90$, $\
 
 ### 4.2 Throughput Modeling and Solution
 
-![Refer to caption](https://arxiv.org/html/2604.15039v1/x5.png)
+![Refer to caption](../assets/external/arxiv.org/a167213eea33991d.png)
 
 (a) Search over prefill/decode allocation.
 

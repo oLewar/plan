@@ -10,7 +10,7 @@ tags:
 ---
 ## Meta-Harness
 
-[![Meta-Harness](https://github.com/stanford-iris-lab/meta-harness/raw/main/assets/repo.png)](https://github.com/stanford-iris-lab/meta-harness/blob/main/assets/repo.png)
+[![Meta-Harness](../assets/external/github.com/2ec2880a105dd3d0.png)](https://github.com/stanford-iris-lab/meta-harness/blob/main/assets/repo.png)
 
 Meta-Harness is a framework for automated search over task-specific model harnesses: the code around a fixed base model that decides what to store, retrieve, and show while the model works. This repo contains the framework and two reference experiments from the paper. The paper is [Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052).
 

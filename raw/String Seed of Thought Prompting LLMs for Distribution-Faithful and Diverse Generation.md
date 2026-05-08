@@ -146,11 +146,11 @@ Simplified SSoT Prompts (PIF / DAG)
 
 We evaluated the performance of SSoT across various LLMs on n-choice problems, testing both uniform distributions (like a fair coin flip) and biased distributions. For each setting, we conducted 100 trials to form a single set, repeating this 10 times to estimate the error bars. We used Jensen–Shannon divergence (JS divergence) as our evaluation metric; this metric measures the similarity between two probability distributions, meaning a value closer to 0 indicates higher fidelity to the target distribution.
 
-![Table 1: PIF performance comparison of SSoT against baseline across various models.](https://pub.sakana.ai/ssot/assets/figures/pif_table1.png)
+![Table 1: PIF performance comparison of SSoT against baseline across various models.](../assets/external/pub.sakana.ai/b111036882c2d0d3.png)
 
 PIF performance of SSoT versus baseline prompting across various LLMs. Values show JS Divergence × 10 -3 (lower is better).
 
-![PIF empirical distribution with baseline and SSoT prompts for DeepSeek-R1.](https://pub.sakana.ai/ssot/assets/figures/hist_deepseek_r1.png)
+![PIF empirical distribution with baseline and SSoT prompts for DeepSeek-R1.](../assets/external/pub.sakana.ai/2dcf9b412c1dea88.png)
 
 Comparison of empirical distributions between baseline prompting and SSoT on DeepSeek-R1. We can see that SSoT yields an empirical distribution much more faithful to the target distribution.
 
@@ -160,7 +160,7 @@ As shown, SSoT substantially reduces output distribution bias across a wide rang
 
 Next, focusing on DeepSeek-R1, we demonstrate that SSoT reduces bias much more effectively than other baseline prompting methods (such as high-temperature sampling, few-shot prompting, prompt ensembling, or sequential sampling) across various action space sizes. The figure below plots the JS Divergence (lower is better), where the red line represents SSoT and the black dashed line indicates the ideal PRNG distribution. Across every setting, SSoT consistently surpasses all other bias-reduction prompting techniques.
 
-![JS divergences for Unbiased and Biased PIF across varying action space sizes.](https://pub.sakana.ai/ssot/assets/figures/combined_js_panels.png)
+![JS divergences for Unbiased and Biased PIF across varying action space sizes.](../assets/external/pub.sakana.ai/d4b5f4530970e0b3.png)
 
 JS divergences for Unbiased and Biased PIF, varying the number of actions from 2 to 64. SSoT (red) consistently achieves near-PRNG performance, outperforming all baselines.
 
@@ -180,7 +180,7 @@ In this experiment, we compare three types of prompts. Both **SSoT** and the **B
 
 For each prompt, we pitted the LLM against 10 different “black belt” bots for 100 games each, scoring each match as wins minus losses (range: -100 to +100). The bots have full access to the move history of both players while the LLM does not, so any predictable patterns get exploited. The box plot below shows the distribution of final scores. SSoT maintains an average score near zero, behaving more consistently with mixed-strategy play and largely holding its own against the exploiters. The Baseline prompt aims for the Nash equilibrium but still exhibits exploitable sampling biases, and the Simple prompt lacks sufficient strategic diversity and is consistently defeated.
 
-![RPS score by prompt against black-belt bots.](https://pub.sakana.ai/ssot/assets/figures/rsp_score_by_prompt.png)
+![RPS score by prompt against black-belt bots.](../assets/external/pub.sakana.ai/88ed84f91f49579e.png)
 
 Rock-Paper-Scissors results against adversarial bots. SSoT’s distribution is centered near zero (consistent with mixed-strategy play), while baseline prompting is more exploitable.
 
@@ -199,11 +199,11 @@ Our evaluation uses the following two metrics defined by NoveltyBench. For each 
 
 For both metrics, higher is better. The tables below present both scores in each cell, formatted as **Distinct (Utility)**.
 
-![Table 2a: NoveltyBench results on curated dataset.](https://pub.sakana.ai/ssot/assets/figures/novelty_table2a.png)
+![Table 2a: NoveltyBench results on curated dataset.](../assets/external/pub.sakana.ai/98a563b55169c5ae.png)
 
 NoveltyBench results on the curated dataset. Cells show Distinct (Utility); higher is better.
 
-![Table 2b: NoveltyBench results on WildChat dataset.](https://pub.sakana.ai/ssot/assets/figures/novelty_table2b.png)
+![Table 2b: NoveltyBench results on WildChat dataset.](../assets/external/pub.sakana.ai/11056f407ce90851.png)
 
 NoveltyBench results on the WildChat dataset.
 

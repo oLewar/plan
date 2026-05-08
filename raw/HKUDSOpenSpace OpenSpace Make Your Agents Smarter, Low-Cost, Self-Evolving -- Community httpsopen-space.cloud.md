@@ -8,7 +8,7 @@ description: "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" 
 tags:
   - "clippings"
 ---
-![OpenSpace Logo](https://github.com/HKUDS/OpenSpace/raw/main/assets/logo.png)
+![OpenSpace Logo](../assets/external/github.com/5a8e28b82abe3d94.png)
 
 ## ✨ OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving ✨
 
@@ -16,7 +16,7 @@ tags:
 
 **One Command to Evolve All Your AI Agents**: OpenClaw, nanobot, Claude Code, Codex, Cursor and etc.
 
-[![openspace --query your task](https://github.com/HKUDS/OpenSpace/raw/main/assets/cli-typing.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/cli-typing.gif)
+[![openspace --query your task](../assets/external/github.com/c9f4ed7943751bb9.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/cli-typing.gif)
 
 ---
 
@@ -106,7 +106,7 @@ Do more, spend less — agents that actually save you money over time.
 
 **🎯 Real-World Results That Matter** On 50 professional tasks (**📈 [GDPVal Economic Benchmark](#-benchmark-gdpval)**) across 6 industries, OpenSpace agents earn **4.2× more money** than baseline ([ClawWork](https://github.com/HKUDS/ClawWork)) agents using the same backbone LLM (Qwen 3.5-Plus). While cutting 46% of costly tokens through skill evolution.
 
-[![GDPVal Benchmark — Key Results](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_kpi.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_kpi.png)
+[![GDPVal Benchmark — Key Results](../assets/external/github.com/9477dcf3ffaaffa3.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_kpi.png)
 
 **💼 These Aren't Toy Problems**
 
@@ -122,7 +122,7 @@ Do more, spend less — agents that actually save you money over time.
 - Professional documents: 56% fewer tokens needed
 - Every category improved — no exceptions
 
-[![GDPVal Benchmark — Task Showcase by Category](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_task_showcase.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_task_showcase.png)
+[![GDPVal Benchmark — Task Showcase by Category](../assets/external/github.com/ffec8e1daf4a8bd6.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_task_showcase.png)
 
 **OpenSpace doesn't just make agents smarter** — it makes them economically viable. Real work, real money, measurable results.
 
@@ -130,7 +130,7 @@ Do more, spend less — agents that actually save you money over time.
 
 **🖥️ [My Daily Monitor](https://github.com/HKUDS/OpenSpace/blob/main/showcase/README.md)** — OpenSpace empowers your agent to complete large-scale system development. This personal behavior monitoring system with 20+ live dashboard panels was built entirely by the agent — 60+ skills evolved from scratch through OpenSpace, demonstrating autonomous end-to-end software development capabilities.
 
-[![My Daily Monitor – Dark Mode](https://github.com/HKUDS/OpenSpace/raw/main/assets/my_daily_monitor_dark.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_dark.png)
+[![My Daily Monitor – Dark Mode](../assets/external/github.com/e19d5f26e94fb74c.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_dark.png)
 
 ---
 
@@ -287,10 +287,10 @@ npm run dev
 
 📖 **Frontend setup guide**: [`frontend/README.md`](https://github.com/HKUDS/OpenSpace/blob/main/frontend/README.md)
 
-| [![Skill Classes](https://github.com/HKUDS/OpenSpace/raw/main/assets/frontend_1.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_1.gif) | [![Cloud Skill Records](https://github.com/HKUDS/OpenSpace/raw/main/assets/frontend_2.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_2.gif) |
+| [![Skill Classes](../assets/external/github.com/5667628d04491837.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_1.gif) | [![Cloud Skill Records](../assets/external/github.com/8d3011ecc342dd27.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_2.gif) |
 | --- | --- |
 | <sub>Skill Classes — Browse, Search &amp; Sort</sub> | <sub>Cloud — Browse &amp; Discover Skill Records</sub> |
-| [![Version Lineage](https://github.com/HKUDS/OpenSpace/raw/main/assets/frontend_3.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_3.gif) | [![Workflow Sessions](https://github.com/HKUDS/OpenSpace/raw/main/assets/frontend_4.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_4.gif) |
+| [![Version Lineage](../assets/external/github.com/8331be5ffe580d2c.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_3.gif) | [![Workflow Sessions](../assets/external/github.com/a425c4027b798e69.gif)](https://github.com/HKUDS/OpenSpace/blob/main/assets/frontend_4.gif) |
 | <sub>Version Lineage — Skill Evolution Graph</sub> | <sub>Workflow Sessions — Execution History &amp; Metrics</sub> |
 
 ---
@@ -303,13 +303,13 @@ Fair Benchmark: OpenSpace uses Qwen 3.5-Plus as its backbone LLM — identical t
 
 Real Economic Value: Tasks range from building payroll calculators to preparing tax returns to drafting legal memoranda — the same professional work that generates actual GDP, evaluated on both quality and cost efficiency.
 
-[![GDPVal Benchmark — Income Comparison](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_income.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_income.png)
+[![GDPVal Benchmark — Income Comparison](../assets/external/github.com/2f7c2f123cfac8d0.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_income.png)
 
 - **4.2× Higher Income** vs ClawWork with the same backbone LLM (Qwen 3.5-Plus)
 - **72.8% Value Capture** — $11,484 earned out of $15,764 task value, outperforming all agents
 - **70.8% Average Quality** — +30pp above the best ClawWork agent (40.8%) − **45.9% Token Usage** in Phase 2 vs Phase 1 — better results with dramatically lower costs
 
-[![GDPVal Benchmark — Quality & Token Efficiency](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_quality_tokens.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_quality_tokens.png)
+[![GDPVal Benchmark — Quality & Token Efficiency](../assets/external/github.com/090b7e1e1b2ea0a2.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_quality_tokens.png)
 
 ### What Real-World Tasks Can OpenSpace Handle?
 
@@ -320,7 +320,7 @@ The 50 GDPVal tasks span 6 real-world work categories.
 
 Income Capture = actual payment earned ÷ maximum possible task value
 
-[![GDPVal Benchmark — Task Showcase by Category](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_task_showcase.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_task_showcase.png)
+[![GDPVal Benchmark — Task Showcase by Category](../assets/external/github.com/ffec8e1daf4a8bd6.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_task_showcase.png)
 
 ## 🎯 Where Evolution Delivers Maximum Impact — And Why:
 
@@ -339,7 +339,7 @@ Across 50 Phase 1 tasks, OpenSpace autonomously evolved **165 skills**. The brea
 
 **Key Discovery**: Most skills focus on tool reliability and error recovery, not task-specific knowledge.
 
-[![GDPVal Benchmark — Evolved Skill Taxonomy](https://github.com/HKUDS/OpenSpace/raw/main/assets/benchmark_skill_taxonomy.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_skill_taxonomy.png)
+[![GDPVal Benchmark — Evolved Skill Taxonomy](../assets/external/github.com/e1ecdbe29e132cca.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/benchmark_skill_taxonomy.png)
 
 | Purpose | Count | What It Teaches the Agent |
 | --- | --- | --- |
@@ -361,7 +361,7 @@ Across 50 Phase 1 tasks, OpenSpace autonomously evolved **165 skills**. The brea
 
 **My Daily Monitor** is an always-on dashboard streaming processes, servers, news, markets, email, and schedules — with a built-in AI agent.
 
-[![My Daily Monitor – Light Mode](https://github.com/HKUDS/OpenSpace/raw/main/assets/my_daily_monitor_light.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_light.png)
+[![My Daily Monitor – Light Mode](../assets/external/github.com/f53ce8812a6be3f1.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_light.png)
 
 ### How OpenSpace Built It (From Zero)
 
@@ -376,7 +376,7 @@ Across 50 Phase 1 tasks, OpenSpace autonomously evolved **165 skills**. The brea
 
 ### 📈 Skill Evolution Graph
 
-[![Skill Evolution Graph](https://github.com/HKUDS/OpenSpace/raw/main/assets/my_daily_monitor_evograph.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_evograph.png)
+[![Skill Evolution Graph](../assets/external/github.com/0386bbb181069657.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/my_daily_monitor_evograph.png)
 
 > Each node is a skill that OpenSpace learned, extracted, or refined. The full evolution history is open-sourced in [`showcase/.openspace/openspace.db`](https://github.com/HKUDS/OpenSpace/blob/main/showcase/.openspace/openspace.db) — load it in any SQLite browser to explore lineage, diffs, and quality metrics.
 
@@ -386,7 +386,7 @@ Across 50 Phase 1 tasks, OpenSpace autonomously evolved **165 skills**. The brea
 
 ## 🏗️ OpenSpace's Framework
 
-[![OpenSpace Framework](https://github.com/HKUDS/OpenSpace/raw/main/assets/framework.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/framework.png)
+[![OpenSpace Framework](../assets/external/github.com/55bd0e56670eb8c4.png)](https://github.com/HKUDS/OpenSpace/blob/main/assets/framework.png)
 
 ### 🧬 Self-Evolution Engine
 
@@ -552,7 +552,7 @@ OpenSpace builds upon the following open-source projects. We sincerely thank the
 
 If you find OpenSpace helpful, please consider giving us a star! ⭐
 
-[![Star History Chart](https://camo.githubusercontent.com/0be641333130db88738cb9d50707386fb3b5245ba82160d348f4f26d9fc0311a/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d484b5544532f4f70656e537061636526747970653d44617465)](https://star-history.com/#HKUDS/OpenSpace&Date)
+[![Star History Chart](../assets/external/camo.githubusercontent.com/db5b464cf0598def.svg)](https://star-history.com/#HKUDS/OpenSpace&Date)
 
 **🧬 Make You Agent Self-Evolve · 🌐 A Community That Grows Together · 💰 Fewer Tokens, Smarter Agents**
 

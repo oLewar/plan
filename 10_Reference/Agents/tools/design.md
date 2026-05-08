@@ -1,0 +1,1 @@
+https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4

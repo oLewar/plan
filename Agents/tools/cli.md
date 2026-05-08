@@ -1,1 +1,5 @@
-https://www.youtube.com/watch?v=9or5Ob5ZBw4
+# Redirect
+
+Этот документ перемещён в новую структуру vault.
+
+➡ [[10_Reference/Agents/tools/cli]]

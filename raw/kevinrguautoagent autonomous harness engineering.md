@@ -8,7 +8,7 @@ description: "autonomous harness engineering. Contribute to kevinrgu/autoagent d
 tags:
   - "clippings"
 ---
-[![thirdlayer](https://camo.githubusercontent.com/3967630a4d1fa9677faf114c6227442544677d0dfa77de2584461b4f8571284a/68747470733a2f2f7777772e74686972646c617965722e696e632f74686972646c617965722d6c6f676f2e737667)](https://www.thirdlayer.inc/)
+[![thirdlayer](../assets/external/camo.githubusercontent.com/4acc45bec68e6110.svg)](https://www.thirdlayer.inc/)
 
 > We're launching a product around self-configuring agents soon. [Sign up here.](https://form.typeform.com/to/ZQbnbO09)  
 > We're hiring engineers. If this work interests you, reach out to [hello@thirdlayer.inc](mailto:hello@thirdlayer.inc) with your Github link.
@@ -17,7 +17,7 @@ tags:
 
 > Like autoresearch but for agent engineering. Give an AI agent a task, let it build and iterate on an agent harness autonomously overnight. It modifies the system prompt, tools, agent configuration, and orchestration, runs the benchmark, checks the score, keeps or discards the change, and repeats.
 
-[![teaser](https://github.com/kevinrgu/autoagent/raw/main/progress.png)](https://github.com/kevinrgu/autoagent/blob/main/progress.png)
+[![teaser](../assets/external/github.com/9b8fe087771bf428.png)](https://github.com/kevinrgu/autoagent/blob/main/progress.png)
 
 The core idea is the same: you're not touching the harness Python files like you normally would as an engineer. Instead, you program `program.md`, the Markdown file that provides context to the meta-agent and defines the agent-engineering loop.
 

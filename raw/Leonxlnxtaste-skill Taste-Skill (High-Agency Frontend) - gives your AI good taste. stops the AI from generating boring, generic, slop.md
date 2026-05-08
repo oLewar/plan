@@ -59,7 +59,7 @@ The taste skill has three settings at the top of the file. Change these numbers 
 
 Created with taste-skill:
 
-[![](https://github.com/Leonxlnx/taste-skill/raw/main/examples/floria-top.webp)](https://github.com/Leonxlnx/taste-skill/blob/main/examples/floria-top.webp) [![](https://github.com/Leonxlnx/taste-skill/raw/main/examples/floria-bottom.webp)](https://github.com/Leonxlnx/taste-skill/blob/main/examples/floria-bottom.webp)
+[![](../assets/external/github.com/0806a432e241d907.webp)](https://github.com/Leonxlnx/taste-skill/blob/main/examples/floria-top.webp) [![](../assets/external/github.com/45bcf49fcde1679e.webp)](https://github.com/Leonxlnx/taste-skill/blob/main/examples/floria-bottom.webp)
 
 ## Support the project
 
