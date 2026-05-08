@@ -2,6 +2,15 @@
 
 Обновляется при каждом ingest/query/lint.
 
+## Vault navigation
+- [[00_System/Index|System Index]]
+- [[10_Reference/Index|Reference Index]]
+- [[20_Personal/Index|Personal Index]]
+- [[30_Tasks/Backlog|Tasks Backlog]]
+- [[30_Tasks/In-Progress|Tasks In-Progress]]
+- [[40_Research/Index|Research Index]]
+- [[50_Hypotheses/Index|Hypotheses Index]]
+
 ## Core
 - [[wiki/overview|overview]] — текущая карта домена, гипотезы, контекст.
 

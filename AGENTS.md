@@ -19,6 +19,17 @@
 - Безопасность обязательна: перед рискованными действиями фиксировать ограничения и проверки.
 - Каждое изменение wiki отражать в `wiki/index.md` и `wiki/log.md`.
 
+## Vault structure (Obsidian-first)
+
+- `00_System/` — системная навигация и MOC-хабы.
+- `10_Reference/` — справочная информация и стандарты.
+- `20_Personal/` — персональные установки, миссия, стиль.
+- `30_Tasks/` — `Backlog`, `In-Progress`, `Done`.
+- `40_Research/` — ресерч-поток и синтез.
+- `50_Hypotheses/` — проверка гипотез и эксперименты.
+- `raw/` — immutable источники.
+- `wiki/` — curated knowledge graph (index/log/concepts/sources/analyses/questions).
+
 ## Wiki structure
 
 - `wiki/index.md` — контентный каталог всех страниц.
