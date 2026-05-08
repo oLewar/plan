@@ -1,0 +1,80 @@
+# Related Links Map
+
+Автогенерированная карта потенциально связанных заметок (по пересечению терминов и структуры).
+Используй как подсказку для ручной доразметки ссылок.
+
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]]  *(score: 10, terms: algo, solutions, алгоритм, курс, полный, правильных)*
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 10, terms: algo, solutions, алгоритм, курс, полный, правильных)*
+- [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 10, terms: algo, solutions, алгоритм, курс, полный, правильных)*
+- [[workflows/reviewer|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]] ↔ [[workflows/reviewerPro|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]]  *(score: 9, terms: breaker, json, reviewer, status, tasks, workflow)*
+- [[workflows/reviewer|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]] ↔ [[workflows/coder|Task Implementor Workflow (tasks.json)]]  *(score: 6, terms: json, tasks, workflow, workflows)*
+- [[workflows/coder|Task Implementor Workflow (tasks.json)]] ↔ [[workflows/reviewerPro|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]]  *(score: 6, terms: json, tasks, workflow, workflows)*
+- [[Solutions/team_decisions_gemini|1. Архитектура принятия решения: Кто есть кто?]] ↔ [[Solutions/12_team_decisions|12. Командные решения и конфликт интересов]]  *(score: 6, terms: decisions, solutions, team, решения)*
+- [[workflows/human-tester-review-generator|Purpose]] ↔ [[workflows/task-description-generator|Purpose]]  *(score: 5, terms: generator, purpose, workflows)*
+- [[workflows/reviewer|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]] ↔ [[workflows/reviewerDevops|DevOps Reviewer V2.2 Workflow]]  *(score: 5, terms: reviewer, workflow, workflows)*
+- [[workflows/reviewerDevops|DevOps Reviewer V2.2 Workflow]] ↔ [[workflows/reviewerPro|Breaker Reviewer Workflow (tasks.json, status 3 → 4)]]  *(score: 5, terms: reviewer, workflow, workflows)*
+- [[learn/english/eng_algo|Часть 1: Когнитивный предел (Сколько часов в день максимум?)]] ↔ [[learn/english/eng_algo_pro|eng_algo_pro]]  *(score: 5, terms: algo, english, learn)*
+- [[Solutions/team_decisions_gemini|1. Архитектура принятия решения: Кто есть кто?]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 5, terms: gemini, solutions, принятия)*
+- [[research/reasoning_techniques_gem3_1_pro|Глубокий ресёрч техник рассуждений (Reasoning Techniques)]] ↔ [[research/reasoning_techniques_gpt_5_4_pro.md|reasoning_techniques_gpt_5_4_pro.md]]  *(score: 5, terms: reasoning, research, techniques)*
+- [[research/Marketing/Higgsfield Sonnet4.6|Как запустить бизнес за 90 дней]] ↔ [[research/Marketing/Higgsfield Gemini3.1pro|Higgsfield Gemini3.1pro]]  *(score: 5, terms: higgsfield, marketing, research)*
+- [[research/Marketing/Higgsfield Sonnet4.6|Как запустить бизнес за 90 дней]] ↔ [[research/Marketing/Higgsfield GPT5.4|Для старта бизнеса]]  *(score: 5, terms: higgsfield, marketing, research)*
+- [[research/Marketing/Higgsfield Gemini3.1pro|Higgsfield Gemini3.1pro]] ↔ [[research/Marketing/Higgsfield GPT5.4|Для старта бизнеса]]  *(score: 5, terms: higgsfield, marketing, research)*
+- [[team/algo_gemini3.1|Трансформация программы]] ↔ [[team/algo_sonnet_4.6|КУРС «КОМАНДА 2.0» — Павел Гительман]]  *(score: 4, terms: algo, team)*
+- [[team/algo_gemini3.1|Трансформация программы]] ↔ [[team/algo_gpt5.4|Что меняем]]  *(score: 4, terms: algo, team)*
+- [[team/algo_sonnet_4.6|КУРС «КОМАНДА 2.0» — Павел Гительман]] ↔ [[team/algo_gpt5.4|Что меняем]]  *(score: 4, terms: algo, team)*
+- [[team/35-gpt5.4|Что удалось найти]] ↔ [[team/algo_gpt5.4|Что меняем]]  *(score: 4, terms: gpt5, team)*
+- [[40_Research/github-repos-list|GitHub Repositories Watchlist]] ↔ [[40_Research/github-activity/latest|GitHub Activity Report]]  *(score: 4, terms: github, research)*
+- [[workflows/task-description-generator|Purpose]] ↔ [[workflows/coder|Task Implementor Workflow (tasks.json)]]  *(score: 4, terms: task, workflows)*
+- [[workflows/reviewerDevops|DevOps Reviewer V2.2 Workflow]] ↔ [[workflows/coder|Task Implementor Workflow (tasks.json)]]  *(score: 4, terms: workflow, workflows)*
+- [[wiki/concepts/causal-analysis|Causal analysis]] ↔ [[wiki/concepts/efficiency-metric|Efficiency metric]]  *(score: 4, terms: concepts, wiki)*
+- [[Solutions/12_team_decisions2|12_team_decisions2]] ↔ [[Solutions/team_decisions_gemini|1. Архитектура принятия решения: Кто есть кто?]]  *(score: 4, terms: solutions, team)*
+- [[Solutions/12_team_decisions2|12_team_decisions2]] ↔ [[Solutions/12_team_decisions|12. Командные решения и конфликт интересов]]  *(score: 4, terms: solutions, team)*
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/team_decisions_gemini|1. Архитектура принятия решения: Кто есть кто?]]  *(score: 4, terms: solutions, принятия)*
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/algo_pro_search|algo_pro_search]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/algo|algo]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]] ↔ [[Solutions/algo_gpt5.4|Основа старого]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/team_decisions_gemini|1. Архитектура принятия решения: Кто есть кто?]] ↔ [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]]  *(score: 4, terms: solutions, принятия)*
+- [[Solutions/algo_pro_search|algo_pro_search]] ↔ [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_pro_search|algo_pro_search]] ↔ [[Solutions/algo|algo]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_pro_search|algo_pro_search]] ↔ [[Solutions/algo_gpt5.4|Основа старого]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_pro_search|algo_pro_search]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]] ↔ [[Solutions/algo|algo]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]] ↔ [[Solutions/algo_gpt5.4|Основа старого]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo|algo]] ↔ [[Solutions/algo_gpt5.4|Основа старого]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo|algo]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 4, terms: algo, solutions)*
+- [[Solutions/algo_gpt5.4|Основа старого]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 4, terms: algo, solutions)*
+- [[Agents/SKILLS/SKILL|Autoresearch for Skills]] ↔ [[Agents/SKILLS/eval-guide|Eval Guide]]  *(score: 4, terms: agents, skills)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/harness|harness]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/Garbage collector|Garbage collector]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/cli|cli]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/design|design]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/search_in_md|search_in_md]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/review|review]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/harness|harness]] ↔ [[Agents/tools/Garbage collector|Garbage collector]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/harness|harness]] ↔ [[Agents/tools/cli|cli]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/harness|harness]] ↔ [[Agents/tools/design|design]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/harness|harness]] ↔ [[Agents/tools/search_in_md|search_in_md]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/harness|harness]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/Garbage collector|Garbage collector]] ↔ [[Agents/tools/cli|cli]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/Garbage collector|Garbage collector]] ↔ [[Agents/tools/design|design]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/Garbage collector|Garbage collector]] ↔ [[Agents/tools/search_in_md|search_in_md]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/Garbage collector|Garbage collector]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/cli|cli]] ↔ [[Agents/tools/design|design]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/cli|cli]] ↔ [[Agents/tools/search_in_md|search_in_md]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/cli|cli]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/design|design]] ↔ [[Agents/tools/search_in_md|search_in_md]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/design|design]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/search_in_md|search_in_md]] ↔ [[Agents/tools/ref|ref]]  *(score: 4, terms: agents, tools)*
+- [[Agents/tools/search_in_md|search_in_md]] ↔ [[Agents/research/x-search|─── Category registry ───────────────────────────────────────]]  *(score: 4, terms: agents, search)*
+- [[Agents/research/llm_on_mac_48gb|llm_on_mac_48gb]] ↔ [[Agents/research/PredictiveHistory|PredictiveHistory]]  *(score: 4, terms: agents, research)*
+- [[Agents/research/llm_on_mac_48gb|llm_on_mac_48gb]] ↔ [[Agents/research/prediction_agents_framework|prediction_agents_framework]]  *(score: 4, terms: agents, research)*
+- [[Agents/research/llm_on_mac_48gb|llm_on_mac_48gb]] ↔ [[Agents/research/x-search|─── Category registry ───────────────────────────────────────]]  *(score: 4, terms: agents, research)*
+- [[Agents/research/PredictiveHistory|PredictiveHistory]] ↔ [[Agents/research/prediction_agents_framework|prediction_agents_framework]]  *(score: 4, terms: agents, research)*
+- [[Agents/research/PredictiveHistory|PredictiveHistory]] ↔ [[Agents/research/x-search|─── Category registry ───────────────────────────────────────]]  *(score: 4, terms: agents, research)*
+- [[Agents/research/prediction_agents_framework|prediction_agents_framework]] ↔ [[Agents/research/x-search|─── Category registry ───────────────────────────────────────]]  *(score: 4, terms: agents, research)*
+- [[AGENTS|AGENTS.md — LLM Wiki Schema for `pro/plan`]] ↔ [[wiki/analyses/repo-operating-model|Operating model for `pro/plan`]]  *(score: 2, terms: plan, wiki)*
+- [[team/algo_sonnet_4.6|КУРС «КОМАНДА 2.0» — Павел Гительман]] ↔ [[Solutions/algo_3.0|Полный курс «Алгоритм принятия правильных решений 3.0»]]  *(score: 2, terms: algo, курс)*
+- [[team/algo_sonnet_4.6|КУРС «КОМАНДА 2.0» — Павел Гительман]] ↔ [[Solutions/algo_deepseek|Полный курс: «Алгоритм принятия правильных решений. Версия 2.0»]]  *(score: 2, terms: algo, курс)*
+- [[team/algo_sonnet_4.6|КУРС «КОМАНДА 2.0» — Павел Гительман]] ↔ [[Solutions/algo_gemini|Полный курс: «Алгоритм принятия правильных решений» от Маргулана Сейсембаева (Gemini Avatar)]]  *(score: 2, terms: algo, курс)*
+- [[team/algo_gpt5.4|Что меняем]] ↔ [[Solutions/algo_gpt5.4|Основа старого]]  *(score: 2, terms: algo, gpt5)*
+- [[40_Research/github-activity/latest|GitHub Activity Report]] ↔ [[processes/github-activity-monitor|GitHub Activity Monitor (без стягивания репозиториев)]]  *(score: 2, terms: activity, github)*

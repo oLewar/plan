@@ -16,3 +16,4 @@
 - [[30_Tasks/Done]]
 - [[40_Research/Index]]
 - [[50_Hypotheses/Index]]
+- [[60_Archive/Candidates|Кандидаты на архивирование]]

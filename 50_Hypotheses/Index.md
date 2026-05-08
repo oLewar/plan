@@ -17,3 +17,4 @@
 ## Связи
 - [[40_Research/Index]]
 - [[30_Tasks/In-Progress]]
+- [[50_Hypotheses/Catalog|Каталог гипотез/проверок]]

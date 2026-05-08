@@ -12,3 +12,4 @@
 ## Связи
 - [[50_Hypotheses/Index]]
 - [[30_Tasks/In-Progress]]
+- [[40_Research/Catalog|Полный каталог research-материалов]]
