@@ -10,6 +10,7 @@
 - [[30_Tasks/In-Progress|Tasks In-Progress]]
 - [[40_Research/Index|Research Index]]
 - [[50_Hypotheses/Index|Hypotheses Index]]
+- [[60_Archive/Index|Archive Index]]
 
 ## Core
 - [[wiki/overview|overview]] — текущая карта домена, гипотезы, контекст.

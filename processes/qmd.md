@@ -12,6 +12,15 @@
 ## Important note
 QMD работает на CPU (без GPU ускорения), потому что в окружении нет Vulkan/CUDA. Это нормально, но `embed`/`query` будут медленнее.
 
+## Verification routing integration
+
+Перед маршрутизацией новых материалов применять процесс:
+- [[processes/verification-routing]]
+
+QMD используем для сигнала Usage/Recency:
+- `qmd search ... --json` для оценки востребованности тем.
+- `qmd ls <collection>` для контроля покрытия разделов.
+
 ## Daily commands
 
 ```bash

@@ -27,6 +27,7 @@
 - `30_Tasks/` — `Backlog`, `In-Progress`, `Done`.
 - `40_Research/` — ресерч-поток и синтез.
 - `50_Hypotheses/` — проверка гипотез и эксперименты.
+- `60_Archive/` — неактуальные и superseded материалы.
 - `raw/` — immutable источники.
 - `wiki/` — curated knowledge graph (index/log/concepts/sources/analyses/questions).
 
