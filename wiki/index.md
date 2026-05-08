@@ -6,6 +6,7 @@
 - [[00_System/Index|System Index]]
 - [[10_Reference/Index|Reference Index]]
 - [[20_Personal/Index|Personal Index]]
+- [[25_Projects/Index|Projects Index]]
 - [[30_Tasks/Backlog|Tasks Backlog]]
 - [[30_Tasks/In-Progress|Tasks In-Progress]]
 - [[40_Research/Index|Research Index]]

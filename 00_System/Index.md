@@ -2,7 +2,8 @@
 
 ## Области
 - [[10_Reference/Index|10 Reference]] — справка, методики, регламенты.
-- [[20_Personal/Index|20 Personal]] — персональные установки, стиль, миссия.
+- [[20_Personal/Index|20 Personal]] — персональные установки, миссия, стиль.
+- [[25_Projects/Index|25 Projects]] — справочники по активным проектам.
 - [[30_Tasks/Backlog|30 Tasks / Backlog]]
 - [[30_Tasks/In-Progress|30 Tasks / In-Progress]]
 - [[30_Tasks/Done|30 Tasks / Done]]
