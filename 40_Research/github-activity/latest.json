@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-10T06:00:29Z",
+  "generated_at_utc": "2026-05-10T12:00:12Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-10T05:51:25Z",
-      "last_commit_sha": "e5af1dd6",
-      "last_commit_author": "Teknium",
+      "last_commit_date": "2026-05-10T06:14:11Z",
+      "last_commit_sha": "44cdf555",
+      "last_commit_author": "kshitijk4poor",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -16,10 +16,10 @@
     },
     {
       "repo": "HKUDS/OpenHarness",
-      "last_commit_date": "2026-05-09T06:09:55Z",
-      "last_commit_sha": "f61901e8",
+      "last_commit_date": "2026-05-10T08:55:10Z",
+      "last_commit_sha": "1929ad80",
       "last_commit_author": "Jiabin Tang",
-      "commits_window": 165,
+      "commits_window": 154,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
