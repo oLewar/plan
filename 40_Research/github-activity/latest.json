@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-09T18:00:03Z",
+  "generated_at_utc": "2026-05-10T00:00:45Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-09T16:48:49Z",
-      "last_commit_sha": "0cafe7d5",
-      "last_commit_author": "ethernet",
+      "last_commit_date": "2026-05-09T22:00:24Z",
+      "last_commit_sha": "fef1a412",
+      "last_commit_author": "Teknium",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -30,7 +30,7 @@
       "last_commit_date": "2026-05-09T04:53:36Z",
       "last_commit_sha": "f83e22e3",
       "last_commit_author": "@aaronjmars",
-      "commits_window": 102,
+      "commits_window": 101,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
@@ -38,10 +38,10 @@
     },
     {
       "repo": "addyosmani/agent-skills",
-      "last_commit_date": "2026-05-09T03:37:44Z",
-      "last_commit_sha": "4c585c37",
+      "last_commit_date": "2026-05-09T21:55:42Z",
+      "last_commit_sha": "3ff4b518",
       "last_commit_author": "Addy Osmani",
-      "commits_window": 69,
+      "commits_window": 71,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
@@ -49,12 +49,12 @@
     },
     {
       "repo": "tobi/qmd",
-      "last_commit_date": "2026-05-03T00:16:33Z",
-      "last_commit_sha": "d58fedf4",
+      "last_commit_date": "2026-05-09T20:22:07Z",
+      "last_commit_sha": "746beedb",
       "last_commit_author": "Tobias Lütke",
-      "commits_window": 18,
+      "commits_window": 35,
       "window_days": 30,
-      "activity": "weekly",
+      "activity": "daily",
       "count_capped": false,
       "error": null
     }
