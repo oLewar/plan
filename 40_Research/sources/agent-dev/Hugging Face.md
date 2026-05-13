@@ -8,13 +8,13 @@ description: "We’re on a journey to advance and democratize artificial intelli
 tags:
   - "clippings"
 ---
-![AngelSlim](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo_light.png?raw=true)
+![AngelSlim](../../../assets/external/github.com/a0a82105c9ae72f6.png)
 
 ### Dedicated to building a more intuitive, comprehensive, and efficient LLMs compression toolkit.
 
-📱 [Android Demo](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-2bit-GGUF/resolve/main/Hy-MT-demo.apk?download=true) | 📣 [GGUF](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit-GGUF) | ✒️ [Sherry Paper (ACL 2026)](https://arxiv.org/abs/2601.07892) | 📖 [Documentation](https://angelslim.readthedocs.io/) | 🤗 [AngelSlim](https://huggingface.co/AngelSlim) | 💬 [WeChat](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/angel_slim_wechat.png?raw=true)
+📱 [Android Demo](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-2bit-GGUF/resolve/main/Hy-MT-demo.apk?download=true) | 📣 [GGUF](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit-GGUF) | ✒️ [Sherry Paper (ACL 2026)](https://arxiv.org/abs/2601.07892) | 📖 [Documentation](https://angelslim.readthedocs.io/) | 🤗 [AngelSlim](https://huggingface.co/AngelSlim) | 💬 [WeChat](../../../assets/external/github.com/dd78c59651e0c22c.png)
 
-![model_scores](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/model_scores.png?raw=true)  
+![model_scores](../../../assets/external/github.com/c3efc4859af7e6c5.png)  
 *Hy-MT1.5-1.8B translation quality scores. Source: [HY-MT1.5 Technical Report](https://arxiv.org/abs/2512.24092)*
 
 ## 📣 Latest News
@@ -31,7 +31,7 @@ For more detailed information, please refer to [\[AngelSlim\]](https://github.co
 - **World-Class Translation Quality** Hy-MT1.5-1.8B-1.25bit is built upon the Hy-MT1.5-1.8B foundation model, a specialized translation model developed by Tencent Hunyuan Team through a holistic multi-stage training pipeline integrating MT-oriented pre-training, supervised fine-tuning, on-policy distillation, and reinforcement learning. The base model natively supports **33 languages**, **5 dialects/minority languages**, and **1,056 translation directions**. With only 1.8B parameters, it comprehensively outperforms much larger open-source models (e.g., Tower-Plus-72B, Qwen3-32B) and mainstream commercial translation APIs (e.g., Microsoft Translator, Doubao Translator). For full details, please refer to the [HY-MT1.5 Technical Report](https://arxiv.org/abs/2512.24092).
 - **Sherry: Extreme 1.25-bit Quantization** This model employs [**Sherry**](https://arxiv.org/abs/2601.07892) (accepted at **ACL 2026**), a hardware-efficient ternary quantization framework. Sherry introduces a **3:4 fine-grained sparsity** strategy: for every 4 model weights, the 3 most important are stored in 1-bit ({-1, +1}), while the remaining 1 is zeroed out. This packs 4 weights into just 5 bits, achieving an effective **1.25-bit** width with power-of-two alignment, compressing the original 3.3GB FP16 model to just **440MB**, with minimal accuracy loss.
 
-![Sherry](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/Sherry.png?raw=true)  
+![Sherry](../../../assets/external/github.com/f9e91dd2ad7a6488.png)  
 *Sherry fine-grained sparsity: for every 4 weights, the 3 most important are stored in 1-bit, and the remaining 1 is zeroed out.*
 
 - **On-Device Deployment for the Most Phones** Paired with our custom **STQ kernel** designed specifically for mobile CPUs, the 1.25-bit model achieves perfect SIMD instruction set alignment. This means even ordinary phones with limited memory can run high-quality offline translation smoothly. No internet connection required, and your data never leaves the device.
@@ -40,14 +40,14 @@ For more detailed information, please refer to [\[AngelSlim\]](https://github.co
 
 Performance comparison of different model sizes on the Flores-200 Chinese-Foreign mutual translation benchmark:
 
-![flores_model_size](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/flores_model_size.png?raw=true)  
+![flores_model_size](../../../assets/external/github.com/332b9e816e2b03cb.png)  
 *Performance of different model sizes on the Flores-200 Chinese-Foreign mutual translation benchmark.*
 
 ## ⚡ Speed Demo
 
 FP16 (8x speed) vs. 1.25-bit speed comparison. Demo device: Snapdragon 888, 8GB RAM:
 
-![fp16_vs_1.25bit](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/fp16vs1.25bit.gif?raw=true)  
+![fp16_vs_1.25bit](../../../assets/external/github.com/c38a1d7aeb49249e.gif)  
 *Demo device: Snapdragon 888, 8GB RAM.*
 
 ## 📱 Demo
@@ -60,12 +60,12 @@ We provide a ready-to-use Android demo for offline translation. The demo feature
 
 ### Translation Demo
 
-![app_demo](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/app_demo.gif?raw=true)  
+![app_demo](../../../assets/external/github.com/6314d214af4dd930.gif)  
 *Demo device: Snapdragon 865, 8GB RAM.*
 
 ### Background Word Extraction Mode
 
-![demo2](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/HYMT1.5/demo2.gif?raw=true)  
+![demo2](../../../assets/external/github.com/fb60cec719ef6c0b.gif)  
 *Demo device: Snapdragon 7+ Gen 2, 16GB RAM.*
 
 ## ❕ Usage
@@ -190,7 +190,7 @@ The code for this project is open-sourced under the [License for AngelSlim](http
 
 ## 💬 Technical Discussion
 
-- AngelSlim is continuously iterating and new features will be released soon. If you have any questions or suggestions, please open an issue on [GitHub Issues](https://github.com/Tencent/AngelSlim/issues) or join our [WeChat discussion group](https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/angel_slim_wechat.png?raw=true).
+- AngelSlim is continuously iterating and new features will be released soon. If you have any questions or suggestions, please open an issue on [GitHub Issues](https://github.com/Tencent/AngelSlim/issues) or join our [WeChat discussion group](../../../assets/external/github.com/dd78c59651e0c22c.png).
 
 ## Model tree for AngelSlim/Hy-MT1.5-1.8B-1.25bit
 

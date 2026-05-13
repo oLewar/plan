@@ -8,7 +8,7 @@ description: "A living memory system that ingests long-horizon data to infer ins
 tags:
   - "clippings"
 ---
-[![TrueMemory](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/hero-banner.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/hero-banner.png)
+[![TrueMemory](../../../assets/external/github.com/ab3aadb664066c2f.png)](../../../assets/external/github.com/01daf51e1cb3f9cc.png)
 
 A living memory system for AI agents. Long-horizon recall on commodity hardware.
 
@@ -128,7 +128,7 @@ TrueMemory uses a 6-layer retrieval pipeline inspired by how the brain encodes a
 
 ### Ingest (what gets stored)
 
-[![Ingest Pipeline](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/arch-ingest.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/arch-ingest.png)
+[![Ingest Pipeline](../../../assets/external/github.com/32884d50e4749c41.png)](../../../assets/external/github.com/b2e8e74da30e4ff5.png)
 
 Every conversation flows through three stages before anything is stored:
 
@@ -140,7 +140,7 @@ Every conversation flows through three stages before anything is stored:
 
 ### Encoding Gate + Storage
 
-[![Encoding Gate](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/arch-gate.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/arch-gate.png)
+[![Encoding Gate](../../../assets/external/github.com/b62c8276137d9b9f.png)](../../../assets/external/github.com/d287361d11bc347c.png)
 
 Three signals decide whether a fact gets stored or skipped:
 
@@ -154,7 +154,7 @@ The weighted sum of all three must exceed a threshold (default 0.30) to be store
 
 ### Retrieve (how it answers)
 
-[![Retrieval Pipeline](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/arch-retrieve.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/arch-retrieve.png)
+[![Retrieval Pipeline](../../../assets/external/github.com/e418d38c748b818a.png)](../../../assets/external/github.com/fefbf2ca6926eb6a.png)
 
 When you ask a question, six layers work together:
 
@@ -171,7 +171,7 @@ When you ask a question, six layers work together:
 
 ## 🔬 Benchmarks
 
-[![LoCoMo Benchmark Leaderboard](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/leaderboard-bar.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/leaderboard-bar.png)
+[![LoCoMo Benchmark Leaderboard](../../../assets/external/github.com/c06a41e80bdf277b.png)](../../../assets/external/github.com/354a69ec27d017d8.png)
 
 Tested on [LoCoMo](https://github.com/snap-research/locomo) (1,540 questions, 10 conversations), [LongMemEval](https://github.com/xiaowu0162/LongMemEval) (500 questions, multi-session), [BEAM-1M](https://github.com/mohammadtavakoli78/BEAM) (700 questions, 35 conversations at 1M+ tokens), and BEAM-10M (200 questions, 10 conversations at 10M tokens). All systems share the same answer model (GPT-4.1-mini), judge (GPT-4o-mini, 3x majority vote), and scoring pipeline.
 
@@ -213,7 +213,7 @@ Tested on [LoCoMo](https://github.com/snap-research/locomo) (1,540 questions, 10
 | GPU | A100 80GB |
 | Conversations | 10 at 10M tokens (~20K messages each) |
 
-[![Accuracy vs Infrastructure Cost](https://github.com/buildingjoshbetter/TrueMemory/raw/main/assets/charts/accuracy-vs-cost.png)](https://github.com/buildingjoshbetter/TrueMemory/blob/main/assets/charts/accuracy-vs-cost.png)
+[![Accuracy vs Infrastructure Cost](../../../assets/external/github.com/59a7eb879e328776.png)](../../../assets/external/github.com/9d9113350e5d9bad.png)
 
 ### Reproduce any result yourself
 
