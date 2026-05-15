@@ -10,7 +10,7 @@ tags:
 ---
 ## agents-best-practices
 
-[![agents-best-practices icon](https://github.com/DenisSergeevitch/agents-best-practices/raw/main/icon.jpeg)](https://github.com/DenisSergeevitch/agents-best-practices/blob/main/icon.jpeg)
+[![agents-best-practices icon](../../../assets/external/github.com/60e0eb861de36984.jpeg)](../../../assets/external/github.com/9b0433edce5f5cef.jpeg)
 
 `agents-best-practices` is a general-purpose Agent Skill for Codex, Claude Code, and other tools that support the `SKILL.md` skill format. It helps with designing, generating MVP blueprints for, auditing, refactoring, and explaining agentic harnesses across domains.
 
