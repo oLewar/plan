@@ -16,3 +16,15 @@
 - Notes:
   - Adopted 3-layer architecture: raw sources / wiki / schema.
   - Established operation modes: ingest, query, lint.
+
+## [2026-05-15] process | Kaizen planning structure
+- Added project zone: `25_Projects/Kaizen/`.
+- Added notes: `Index`, `Current`, `Inbox`, `Backlog`, `Experiments`, `Metrics`, `Retrospectives`, `Standards`, `Decisions`, `Templates`.
+- Created Hermes Kanban board: `kaizen`.
+- Updated:
+  - `25_Projects/Index.md`
+  - `wiki/index.md`
+- Notes:
+  - Kaizen loop: capture → clarify → prioritize → experiment → review → standardize.
+  - First active experiment: unified Kaizen Inbox.
+

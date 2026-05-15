@@ -25,6 +25,7 @@
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.
+- [[25_Projects/Kaizen/Index|Kaizen]] — контур постоянного улучшения эффективности через наблюдения, эксперименты и стандарты.
 
 ## Open Questions
 - [[wiki/questions/research-backlog|Research backlog]] — что нужно доисследовать дальше.
