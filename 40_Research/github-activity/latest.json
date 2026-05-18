@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-18T00:00:24Z",
+  "generated_at_utc": "2026-05-18T06:00:07Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-17T12:29:40Z",
-      "last_commit_sha": "569bc94b",
-      "last_commit_author": "Robin Fernandes",
+      "last_commit_date": "2026-05-17T23:53:11Z",
+      "last_commit_sha": "43e566f7",
+      "last_commit_author": "teknium1",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -15,21 +15,21 @@
       "error": null
     },
     {
-      "repo": "HKUDS/OpenHarness",
-      "last_commit_date": "2026-05-17T07:31:35Z",
-      "last_commit_sha": "09bc641a",
-      "last_commit_author": "Jiabin Tang",
-      "commits_window": 112,
+      "repo": "cocoindex-io/cocoindex",
+      "last_commit_date": "2026-05-18T05:28:36Z",
+      "last_commit_sha": "192b60b1",
+      "last_commit_author": "Jiangzhou",
+      "commits_window": 115,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
       "error": null
     },
     {
-      "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-05-17T22:53:45Z",
-      "last_commit_sha": "7c88652c",
-      "last_commit_author": "Jiangzhou",
+      "repo": "HKUDS/OpenHarness",
+      "last_commit_date": "2026-05-17T07:31:35Z",
+      "last_commit_sha": "09bc641a",
+      "last_commit_author": "Jiabin Tang",
       "commits_window": 112,
       "window_days": 30,
       "activity": "daily",
