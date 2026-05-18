@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-17T18:00:40Z",
+  "generated_at_utc": "2026-05-18T00:00:24Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-17T11:02:05Z",
-      "last_commit_sha": "f36c89cd",
-      "last_commit_author": "teknium1",
+      "last_commit_date": "2026-05-17T12:29:40Z",
+      "last_commit_sha": "569bc94b",
+      "last_commit_author": "Robin Fernandes",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -27,10 +27,10 @@
     },
     {
       "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-05-17T03:10:34Z",
-      "last_commit_sha": "bb086c0f",
+      "last_commit_date": "2026-05-17T22:53:45Z",
+      "last_commit_sha": "7c88652c",
       "last_commit_author": "Jiangzhou",
-      "commits_window": 109,
+      "commits_window": 112,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
