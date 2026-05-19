@@ -11,14 +11,10 @@
             "id": "e4bf074929295d61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/DenisSergeevitchagents-best-practices Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DenisSergeevitchagents-best-practices Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design."
+              "title": "New tab"
             }
           }
         ]
@@ -185,6 +181,17 @@
   },
   "active": "e4bf074929295d61",
   "lastOpenFiles": [
+    "raw/Я заставил LLM писать Rust полгода. Вот что они стабильно ломают.md",
+    "raw/Что волнует молодое поколение?  Вопрос-ответ с Маргуланом Сейсембаем.md",
+    "raw/raindrop-aiworkshop Give your coding agent the power to write and run agent evals..md",
+    "raw/openaiprivacy-filter OpenAI Privacy Filter.md",
+    "raw/junhoyeocontrabass 🎸 A project-level orchestrator for AI coding agents — Go & Charm stack implementation of OpenAI's Symphony.md",
+    "raw/cactus-computeneedle 26m function call model that runs on incredibly small devices.md",
+    "assets/external/github.com/9b0433edce5f5cef.jpeg",
+    "assets/external/github.com/60e0eb861de36984.jpeg",
+    "40_Research/sources/finance/DenisSergeevitchagents-best-practices Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design..md",
+    "raw/README.md",
+    "raw/DenisSergeevitchagents-best-practices Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design..md",
     "assets/external/github.com/fefbf2ca6926eb6a.png",
     "assets/external/github.com/fb60cec719ef6c0b.gif",
     "assets/external/github.com/f9e91dd2ad7a6488.png",
@@ -193,9 +200,6 @@
     "assets/external/github.com/d287361d11bc347c.png",
     "assets/external/github.com/c3efc4859af7e6c5.png",
     "assets/external/github.com/c38a1d7aeb49249e.gif",
-    "assets/external/github.com/c06a41e80bdf277b.png",
-    "assets/external/github.com/b62c8276137d9b9f.png",
-    "assets/external/github.com/b2e8e74da30e4ff5.png",
     "40_Research/sources/finance/Как не упираться в лимиты ИИ-агентов — гайд по экономии токенов.md",
     "40_Research/sources/finance/curl.md",
     "40_Research/sources/finance/Skill for summarize.md",
@@ -213,17 +217,8 @@
     "25_Projects/Kaizen/Backlog.md",
     "25_Projects/Kaizen",
     "wiki/questions/research-backlog.md",
-    "raw/DenisSergeevitchagents-best-practices Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design..md",
-    "raw/Как не упираться в лимиты ИИ-агентов — гайд по экономии токенов.md",
-    "raw/curl.md",
-    "raw/buildingjoshbetterTrueMemory A living memory system that ingests long-horizon data to infer insights, enabling more decisive action, all while running on a single SQLite file locally..md",
-    "raw/Skill for summarize.md",
-    "raw/Hugging Face.md",
     "Paperclip Codex Architecture.canvas",
     "Untitled.base",
-    "40_Research/Solutions/xAi.md",
-    "processes/raw-inbox-ingest.md",
-    "40_Research/sources/ml-research/meta-pytorchcaptum Model interpretability and understanding for PyTorch.md",
     "40_Research/sources/ml-research",
     "40_Research/sources/finance",
     "40_Research/sources/agent-dev",
