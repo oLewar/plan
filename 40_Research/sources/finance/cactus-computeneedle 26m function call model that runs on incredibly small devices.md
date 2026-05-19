@@ -10,7 +10,7 @@ tags:
 ---
 ## Needle
 
-[![Logo](https://github.com/cactus-compute/needle/raw/main/assets/banner.png)](https://github.com/cactus-compute/needle/blob/main/assets/banner.png)
+[![Logo](../../../assets/external/github.com/cbe5f9d10b6bd6c2.png)](../../../assets/external/github.com/6b7e15fa87bb4862.png)
 
 We distilled Gemini 3.1 into a 26m parameter " [Simple Attention Network](https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md) " that you can even finetune locally on your Mac/PC. In production, Needle runs on [Cactus](https://github.com/cactus-compute/cactus) at 6000 toks/sec prefill and 1200 decode speed. Weights are fully open on [Cactus-Compute/needle](https://huggingface.co/Cactus-Compute/needle), as well as the dataset generation.
 

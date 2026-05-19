@@ -8,7 +8,7 @@ description: "Give your coding agent the power to write and run agent evals. - r
 tags:
   - "clippings"
 ---
-[![Workshop: the local debugger your agent is missing.](https://github.com/raindrop-ai/workshop/raw/main/docs/assets/workshop-hero.png)](https://github.com/raindrop-ai/workshop/blob/main/docs/assets/workshop-hero.png)
+[![Workshop: the local debugger your agent is missing.](../../../assets/external/github.com/2503f56a59eccc80.png)](../../../assets/external/github.com/407cb801085e462a.png)
 
 ## Raindrop Workshop
 

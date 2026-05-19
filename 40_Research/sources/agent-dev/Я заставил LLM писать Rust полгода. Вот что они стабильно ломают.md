@@ -9,7 +9,7 @@ description: "Полгода я использовал Claude, GPT и Cursor к�
 tags:
   - "clippings"
 ---
-![Я заставил LLM писать Rust полгода. Вот что они стабильно ломают](https://uproger.com/wp-content/uploads/2026/05/image-2026-05-16-115035.jpg)
+![Я заставил LLM писать Rust полгода. Вот что они стабильно ломают](../../../assets/external/uproger.com/397aa6a0967daa0b.jpg)
 
 Я заставил LLM писать Rust полгода. Вот что они стабильно ломают
 

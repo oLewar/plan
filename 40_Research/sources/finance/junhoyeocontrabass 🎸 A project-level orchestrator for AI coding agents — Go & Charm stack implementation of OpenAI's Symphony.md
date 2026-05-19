@@ -10,12 +10,12 @@ tags:
 ---
 ## Contrabass
 
-[![Contrabass Logo](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/contrabass.png)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/contrabass.png)
+[![Contrabass Logo](../../../assets/external/raw.githubusercontent.com/1824d3da053df895.png)](../../../assets/external/raw.githubusercontent.com/1824d3da053df895.png)
 
 > **A project-level orchestrator for AI coding agents**  
 > Go + Charm stack reimplementation of OpenAI's Symphony ([openai/symphony](https://github.com/openai/symphony)) — manage work, not agents
 
-[![Contrabass Demo (TUI in Action)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/demo.png)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/demo.png)
+[![Contrabass Demo (TUI in Action)](../../../assets/external/raw.githubusercontent.com/48da3c205009d8a1.png)](../../../assets/external/raw.githubusercontent.com/48da3c205009d8a1.png)
 
 Contrabass is a terminal-first orchestrator for issue-driven agent runs, with an optional local web dashboard for live visibility.
 
@@ -486,11 +486,11 @@ Direct dependencies from the [Charm](https://charm.sh/) v2 ecosystem:
 
 | Logo | Library | Import Path | Purpose |
 | --- | --- | --- | --- |
-| [![Bubble Tea](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-bubbletea.webp)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-bubbletea.webp) | [**Bubble Tea**](https://github.com/charmbracelet/bubbletea) | `charm.land/bubbletea/v2` | TUI framework (Elm architecture) |
-| [![Lip Gloss](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-lipgloss.webp)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-lipgloss.webp) | [**Lip Gloss**](https://github.com/charmbracelet/lipgloss) | `charm.land/lipgloss/v2` | Styling & layout |
-| [![Bubbles](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-bubbles.webp)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-bubbles.webp) | [**Bubbles**](https://github.com/charmbracelet/bubbles) | `charm.land/bubbles/v2` | Reusable TUI components |
-| [![Log](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-log.webp)](https://raw.githubusercontent.com/junhoyeo/contrabass/main/.github/assets/charm/charm-log.webp) | [**Log**](https://github.com/charmbracelet/log) | `github.com/charmbracelet/log` | Structured logging |
-| [![X](https://user-images.githubusercontent.com/25087/236529273-6f8c841f-f11b-4ec8-b01d-7e3d9b17c85f.png)](https://user-images.githubusercontent.com/25087/236529273-6f8c841f-f11b-4ec8-b01d-7e3d9b17c85f.png) | [**x**](https://github.com/charmbracelet/x) | `github.com/charmbracelet/x` | `x/mosaic` for terminal image rendering |
+| [![Bubble Tea](../../../assets/external/raw.githubusercontent.com/7ad2c5bd9f068a71.webp)](../../../assets/external/raw.githubusercontent.com/7ad2c5bd9f068a71.webp) | [**Bubble Tea**](https://github.com/charmbracelet/bubbletea) | `charm.land/bubbletea/v2` | TUI framework (Elm architecture) |
+| [![Lip Gloss](../../../assets/external/raw.githubusercontent.com/5854075def3f1f0c.webp)](../../../assets/external/raw.githubusercontent.com/5854075def3f1f0c.webp) | [**Lip Gloss**](https://github.com/charmbracelet/lipgloss) | `charm.land/lipgloss/v2` | Styling & layout |
+| [![Bubbles](../../../assets/external/raw.githubusercontent.com/382399852661940c.webp)](../../../assets/external/raw.githubusercontent.com/382399852661940c.webp) | [**Bubbles**](https://github.com/charmbracelet/bubbles) | `charm.land/bubbles/v2` | Reusable TUI components |
+| [![Log](../../../assets/external/raw.githubusercontent.com/e5a8325410d0b273.webp)](../../../assets/external/raw.githubusercontent.com/e5a8325410d0b273.webp) | [**Log**](https://github.com/charmbracelet/log) | `github.com/charmbracelet/log` | Structured logging |
+| [![X](../../../assets/external/user-images.githubusercontent.com/303cf84cc9a01dc5.png)](../../../assets/external/user-images.githubusercontent.com/303cf84cc9a01dc5.png) | [**x**](https://github.com/charmbracelet/x) | `github.com/charmbracelet/x` | `x/mosaic` for terminal image rendering |
 
 Plus:
 
