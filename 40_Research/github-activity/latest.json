@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-05-28T18:01:01Z",
+  "generated_at_utc": "2026-05-29T00:00:53Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-28T17:53:23Z",
-      "last_commit_sha": "fe5c8ec4",
-      "last_commit_author": "Teknium",
+      "last_commit_date": "2026-05-28T23:45:33Z",
+      "last_commit_sha": "fb512536",
+      "last_commit_author": "Ben",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
