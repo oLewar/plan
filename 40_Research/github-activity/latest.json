@@ -1,28 +1,17 @@
 {
-  "generated_at_utc": "2026-05-30T18:00:27Z",
+  "generated_at_utc": "2026-05-31T00:00:07Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-05-30T16:55:12Z",
-      "last_commit_sha": "5921d667",
-      "last_commit_author": "brooklyn!",
+      "last_commit_date": "2026-05-30T21:38:30Z",
+      "last_commit_sha": "b1a25404",
+      "last_commit_author": "Teknium",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
       "count_capped": true,
-      "error": null
-    },
-    {
-      "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-05-30T05:15:42Z",
-      "last_commit_sha": "5398d7bc",
-      "last_commit_author": "Jiangzhou",
-      "commits_window": 81,
-      "window_days": 30,
-      "activity": "daily",
-      "count_capped": false,
       "error": null
     },
     {
@@ -42,6 +31,17 @@
       "last_commit_sha": "53232770",
       "last_commit_author": "Tobi Lutke",
       "commits_window": 80,
+      "window_days": 30,
+      "activity": "daily",
+      "count_capped": false,
+      "error": null
+    },
+    {
+      "repo": "cocoindex-io/cocoindex",
+      "last_commit_date": "2026-05-30T05:15:42Z",
+      "last_commit_sha": "5398d7bc",
+      "last_commit_author": "Jiangzhou",
+      "commits_window": 79,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
