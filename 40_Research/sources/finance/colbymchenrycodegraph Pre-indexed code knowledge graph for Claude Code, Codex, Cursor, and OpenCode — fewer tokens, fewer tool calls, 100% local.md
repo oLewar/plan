@@ -464,7 +464,7 @@ The `.codegraph/config.json` file controls indexing:
 
 [
 
-![Star History Chart](https://camo.githubusercontent.com/7bc71305736540352a8bc493d1cac5516dae48cf8f2346075757bfeaefe0e708/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d636f6c62796d6368656e72792f636f6465677261706826747970653d64617465266c6567656e643d746f702d6c656674)
+![Star History Chart](../../../assets/external/camo.githubusercontent.com/91b1c58f27768f03.img)
 
 ](https://www.star-history.com/?repos=colbymchenry%2Fcodegraph&type=date&legend=top-left)
 

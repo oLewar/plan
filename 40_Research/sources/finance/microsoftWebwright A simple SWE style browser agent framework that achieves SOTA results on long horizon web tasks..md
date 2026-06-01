@@ -10,7 +10,7 @@ tags:
 ---
 ## Webwright
 
-[![Webwright logo](https://github.com/microsoft/Webwright/raw/main/assets/webwright_logo.svg)](https://github.com/microsoft/Webwright/blob/main/assets/webwright_logo.svg)
+[![Webwright logo](../../../assets/external/github.com/e83bfb5befffce5d.svg)](../../../assets/external/github.com/142f89f4ef119070.svg)
 
 **Turn Your Coding Models to Be State-of-the-art Browser Agents**
 
@@ -86,7 +86,7 @@ State-of-the-art on two real-website benchmarks with a 100-step budget — see t
 - 🧠 **Code-as-action beats coordinate prediction:** Webwright substantially outperforms a reproduced GPT-5.4 screenshot+xy-coordinate baseline across all difficulty splits.
 - 🧰 **Small models + reusable tools:** generated scripts can be packaged as parameterized CLI tools — even **Qwen-3.5-9B** completes tasks well on Online-Mind2Web sites with 5+ tools available.
 
-[![Odysseys long-horizon eval @ 100 steps](https://github.com/microsoft/Webwright/raw/main/assets/odysseys_eval_step100.png)](https://github.com/microsoft/Webwright/blob/main/assets/odysseys_eval_step100.png) [![Online-Mind2Web AutoEval @ 100 steps](https://github.com/microsoft/Webwright/raw/main/assets/om2w_autoeval_step100.png)](https://github.com/microsoft/Webwright/blob/main/assets/om2w_autoeval_step100.png)
+[![Odysseys long-horizon eval @ 100 steps](../../../assets/external/github.com/e336e543429feb09.png)](../../../assets/external/github.com/484c1698c145f2b6.png) [![Online-Mind2Web AutoEval @ 100 steps](../../../assets/external/github.com/7f3ce42d362e7cc5.png)](../../../assets/external/github.com/07bf3c9658df4431.png)
 
 ---
 

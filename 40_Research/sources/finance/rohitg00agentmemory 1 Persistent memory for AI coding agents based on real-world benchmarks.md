@@ -8,28 +8,28 @@ description: "#1 Persistent memory for AI coding agents based on real-world benc
 tags:
   - "clippings"
 ---
-[![agentmemory — Persistent memory for AI coding agents](https://github.com/rohitg00/agentmemory/raw/main/assets/banner.png)](https://github.com/rohitg00/agentmemory/blob/main/assets/banner.png)
+[![agentmemory — Persistent memory for AI coding agents](../../../assets/external/github.com/bc5d5c6ba508529b.png)](../../../assets/external/github.com/23d905dbff673ddf.png)
 
 **Your coding agent remembers everything. No more re-explaining. Built on [iii engine](https://github.com/iii-hq/iii)**  
 Persistent memory for Claude Code, Cursor, Gemini CLI, Codex CLI, Hermes, OpenClaw, pi, OpenCode, and any MCP client.
 
 [English](https://github.com/rohitg00/agentmemory/blob/main/README.md) | [简体中文](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.zh-CN.md) | [繁體中文](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.zh-TW.md) | [日本語](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.ja-JP.md) | [한국어](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.ko-KR.md) | [Español](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.es-ES.md) | [Türkçe](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.tr-TR.md) | [Русский](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.ru-RU.md) | [हिन्दी](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.hi-IN.md) | [Português](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.pt-BR.md) | [Français](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.fr-FR.md) | [Deutsch](https://github.com/rohitg00/agentmemory/blob/main/READMEs/README.de-DE.md)
 
-[![rohitg00/agentmemory | Trendshift](https://camo.githubusercontent.com/30f4b7d62f1b884b41ccdcf5605c30f3f8f99b39f3d85e882f277af57edea398/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3235313233)](https://trendshift.io/repositories/25123)[![Star History Chart](https://camo.githubusercontent.com/e60da4c7f18d7a5c028c39f8cf0f1385180010858e7f97ca9f75f373918b566e/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d726f6869746730302f6167656e746d656d6f727926747970653d64617465266c6567656e643d746f702d6c656674)](https://www.star-history.com/?repos=rohitg00%2Fagentmemory&type=date&legend=top-left)*The gist extends Karpathy's LLM Wiki pattern with confidence scoring, lifecycle, knowledge graphs, and hybrid search: agentmemory is the implementation.*
+[![rohitg00/agentmemory | Trendshift](../../../assets/external/camo.githubusercontent.com/9b17d88492863522.img)](https://trendshift.io/repositories/25123)[![Star History Chart](../../../assets/external/camo.githubusercontent.com/b566227f9dd5cadf.img)](https://www.star-history.com/?repos=rohitg00%2Fagentmemory&type=date&legend=top-left)*The gist extends Karpathy's LLM Wiki pattern with confidence scoring, lifecycle, knowledge graphs, and hybrid search: agentmemory is the implementation.*
 
-![95.2% retrieval R@5](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-recall.svg)
+![95.2% retrieval R@5](../../../assets/external/github.com/e00855442a5552b7.svg)
 
-![92% fewer tokens](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-tokens.svg)
+![92% fewer tokens](../../../assets/external/github.com/e265f9494a3e27f5.svg)
 
-![53 MCP tools](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-tools.svg)
+![53 MCP tools](../../../assets/external/github.com/79f40f10ce7df57b.svg)
 
-![12 auto hooks](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-hooks.svg)
+![12 auto hooks](../../../assets/external/github.com/d9fbee3f17e36f0e.svg)
 
-![0 external DBs](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-deps.svg)
+![0 external DBs](../../../assets/external/github.com/97f23a9aefda8764.svg)
 
-![950+ tests passing](https://github.com/rohitg00/agentmemory/raw/main/assets/tags/stat-tests.svg)
+![950+ tests passing](../../../assets/external/github.com/2112dc9b69f4663c.svg)
 
-[![agentmemory demo](https://github.com/rohitg00/agentmemory/raw/main/assets/demo.gif)](https://github.com/rohitg00/agentmemory/blob/main/assets/demo.gif)
+[![agentmemory demo](../../../assets/external/github.com/388a2af42d064875.gif)](../../../assets/external/github.com/34dc591c35a9ecad.gif)
 
 [Install](#install) • [Quick Start](#quick-start) • [Benchmarks](#benchmarks) • [vs Competitors](#vs-competitors) • [Agents](#works-with-every-agent) • [How It Works](#how-it-works) • [MCP](#mcp-server) • [Viewer](#real-time-viewer) • [iii Console](#iii-console) • [Powered by iii](#powered-by-iii) • [Config](#configuration) • [API](#api)
 
@@ -60,10 +60,10 @@ Full options at [Quick Start](#quick-start) below. Agent-specific wiring at [Wor
 
 agentmemory works with any agent that supports hooks, MCP, or REST API. All agents share the same memory server.
 
-| [![Claude Code](https://github.com/anthropics.png?size=120)](https://claude.com/product/claude-code)   **Claude Code**   <sub>native plugin + 12 hooks + MCP</sub> | [![Codex CLI](https://github.com/openai.png?size=120)](https://github.com/openai/codex)   **Codex CLI**   <sub>native plugin + 6 hooks + MCP</sub> | [![OpenClaw](https://github.com/openclaw.png?size=120)](https://github.com/rohitg00/agentmemory/blob/main/integrations/openclaw)   **OpenClaw**   <sub>native plugin + MCP</sub> | [![Hermes](https://github.com/NousResearch.png?size=120)](https://github.com/rohitg00/agentmemory/blob/main/integrations/hermes)   **Hermes**   <sub>native plugin + MCP</sub> | [![pi](https://github.com/rohitg00/agentmemory/raw/main/assets/agents/pi.svg)](https://github.com/rohitg00/agentmemory/blob/main/integrations/pi)   **pi**   <sub>native plugin + MCP</sub> | [![OpenHuman](https://raw.githubusercontent.com/tinyhumansai/openhuman/main/app/src-tauri/icons/128x128.png)](https://github.com/tinyhumansai/openhuman)   **OpenHuman**   <sub>native Memory trait backend</sub> | [  ![Cursor](https://camo.githubusercontent.com/2ec79e0c43f28c05690973b98eeee08496d5bba56d1a52bdfca98da6e9cf8fea/68747470733a2f2f7376676c2e6170702f6c6962726172792f637572736f725f6c696768742e737667)  ](https://cursor.com/)   **Cursor**   <sub>MCP server</sub> | [![Gemini CLI](https://github.com/google-gemini.png?size=120)](https://github.com/google-gemini/gemini-cli)   **Gemini CLI**   <sub>MCP server</sub> |
+| [![Claude Code](../../../assets/external/github.com/7208b4d1a787f449.png)](https://claude.com/product/claude-code)   **Claude Code**   <sub>native plugin + 12 hooks + MCP</sub> | [![Codex CLI](../../../assets/external/github.com/08d567bfcd8b0388.png)](https://github.com/openai/codex)   **Codex CLI**   <sub>native plugin + 6 hooks + MCP</sub> | [![OpenClaw](../../../assets/external/github.com/07365a169e492d8e.png)](https://github.com/rohitg00/agentmemory/blob/main/integrations/openclaw)   **OpenClaw**   <sub>native plugin + MCP</sub> | [![Hermes](../../../assets/external/github.com/b8e80171254b6053.png)](https://github.com/rohitg00/agentmemory/blob/main/integrations/hermes)   **Hermes**   <sub>native plugin + MCP</sub> | [![pi](../../../assets/external/github.com/61fdc95827c1657a.svg)](https://github.com/rohitg00/agentmemory/blob/main/integrations/pi)   **pi**   <sub>native plugin + MCP</sub> | [![OpenHuman](../../../assets/external/raw.githubusercontent.com/32ddbb56813e5f85.png)](https://github.com/tinyhumansai/openhuman)   **OpenHuman**   <sub>native Memory trait backend</sub> | [  ![Cursor](../../../assets/external/camo.githubusercontent.com/4c9db62e3589b256.img)  ](https://cursor.com/)   **Cursor**   <sub>MCP server</sub> | [![Gemini CLI](../../../assets/external/github.com/98adfdb006ae9074.png)](https://github.com/google-gemini/gemini-cli)   **Gemini CLI**   <sub>MCP server</sub> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [  ![OpenCode](https://camo.githubusercontent.com/b69e9c448b9ad9a94b0b05a2e5db726df0ab5c26a85b18ceb996a78b93297573/68747470733a2f2f7376676c2e6170702f6c6962726172792f6f70656e636f64652e737667)  ](https://github.com/opencode-ai/opencode)   **OpenCode**   <sub>22 hooks + MCP + plugin</sub> | [![Cline](https://github.com/cline.png?size=120)](https://github.com/cline/cline)   **Cline**   <sub>MCP server</sub> | [![Goose](https://github.com/block.png?size=120)](https://github.com/block/goose)   **Goose**   <sub>MCP server</sub> | [![Kilo Code](https://github.com/Kilo-Org.png?size=120)](https://github.com/Kilo-Org/kilocode)   **Kilo Code**   <sub>MCP server</sub> | [![Aider](https://github.com/Aider-AI.png?size=120)](https://github.com/Aider-AI/aider)   **Aider**   <sub>REST API</sub> | [![Claude Desktop](https://github.com/anthropics.png?size=120)](https://claude.ai/download)   **Claude Desktop**   <sub>MCP server</sub> | [  ![Windsurf](https://camo.githubusercontent.com/4efeb2409587aaf51924724237d758782984d99580209a98c27fb3e78f79b8f9/68747470733a2f2f7376676c2e6170702f6c6962726172792f77696e64737572662d6c696768742e737667)  ](https://windsurf.com/)   **Windsurf**   <sub>MCP server</sub> | [![Roo Code](https://github.com/RooCodeInc.png?size=120)](https://github.com/RooCodeInc/Roo-Code)   **Roo Code**   <sub>MCP server</sub> |
-| [![Warp](https://github.com/warpdotdev.png?size=120)](https://www.warp.dev/)   **Warp**   <sub>connect + MCP + skills</sub> |
+| [  ![OpenCode](../../../assets/external/camo.githubusercontent.com/f633a549c0d90a31.img)  ](https://github.com/opencode-ai/opencode)   **OpenCode**   <sub>22 hooks + MCP + plugin</sub> | [![Cline](../../../assets/external/github.com/c7f03944bf0d814b.png)](https://github.com/cline/cline)   **Cline**   <sub>MCP server</sub> | [![Goose](../../../assets/external/github.com/a05a7f4554e5d7e1.png)](https://github.com/block/goose)   **Goose**   <sub>MCP server</sub> | [![Kilo Code](../../../assets/external/github.com/def564043a5e7511.png)](https://github.com/Kilo-Org/kilocode)   **Kilo Code**   <sub>MCP server</sub> | [![Aider](../../../assets/external/github.com/1d851c06197946f5.png)](https://github.com/Aider-AI/aider)   **Aider**   <sub>REST API</sub> | [![Claude Desktop](../../../assets/external/github.com/7208b4d1a787f449.png)](https://claude.ai/download)   **Claude Desktop**   <sub>MCP server</sub> | [  ![Windsurf](../../../assets/external/camo.githubusercontent.com/f6f99ab62672fae7.img)  ](https://windsurf.com/)   **Windsurf**   <sub>MCP server</sub> | [![Roo Code](../../../assets/external/github.com/da13dc07557cce08.png)](https://github.com/RooCodeInc/Roo-Code)   **Roo Code**   <sub>MCP server</sub> |
+| [![Warp](../../../assets/external/github.com/a1db29ce123120a9.png)](https://www.warp.dev/)   **Warp**   <sub>connect + MCP + skills</sub> |
 
 <sub>Works with <strong>any</strong> agent that speaks MCP or HTTP. One server, memories shared across all of them.</sub>
 
@@ -696,7 +696,7 @@ Watch a `memory_smart_search` fire and see the BM25 scan → embedding lookup �
 
 agentmemory ships this for free because every function call and trigger fires through iii — nothing custom, nothing to instrument.
 
-[![iii console Workers page — connected workers including agentmemory instances with live function counts and runtime metadata](https://github.com/rohitg00/agentmemory/raw/main/assets/iii-console/workers.png)](https://github.com/rohitg00/agentmemory/blob/main/assets/iii-console/workers.png)  
+[![iii console Workers page — connected workers including agentmemory instances with live function counts and runtime metadata](../../../assets/external/github.com/ff0f302ad82c8be9.png)](../../../assets/external/github.com/6d35a5d747e800cf.png)  
 *Workers page: every connected worker — including agentmemory itself — with PID, function count, runtime, and last-seen.*
 
 **Already installed.** The console ships with `iii` — no separate installer.
@@ -735,7 +735,7 @@ iii console --port 3114 \
 | **Config** | Runtime configuration — see exactly which workers, providers, and ports your engine is running with. |
 | **Flow** | (Optional, `--enable-flow`) Interactive architecture graph of every worker, trigger, and stream. |
 
-[![iii console trace waterfall view showing per-span duration](https://github.com/rohitg00/agentmemory/raw/main/assets/iii-console/traces-waterfall.png)](https://github.com/rohitg00/agentmemory/blob/main/assets/iii-console/traces-waterfall.png)  
+[![iii console trace waterfall view showing per-span duration](../../../assets/external/github.com/5e793f59bb35e97c.png)](../../../assets/external/github.com/4c5d11e7b82ef59f.png)  
 *Traces: waterfall / flame / service breakdown for every memory operation.*
 
 **Traces are already on:**

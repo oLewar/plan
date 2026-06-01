@@ -28,31 +28,31 @@ AI Engineer Coach reads your local AI session logs and turns them into actionabl
 - **Score context health** — agentic readiness checks, instruction-file audits, workspace context maps
 **Screenshots**
 
-[![Timeline](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-timeline.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-timeline.png)
+[![Timeline](../../../assets/external/github.com/ad7ea505569d9638.png)](../../../assets/external/github.com/7c37bef44ee7b537.png)
 
-[![Code Output](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-output.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-output.png)
+[![Code Output](../../../assets/external/github.com/3bfbf79cae22845a.png)](../../../assets/external/github.com/a15ed91f8368212b.png)
 
-[![Premium Request Consumption](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-consumption.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-consumption.png)
+[![Premium Request Consumption](../../../assets/external/github.com/0876b37e6c6d422f.png)](../../../assets/external/github.com/4cdc952e66033372.png)
 
-[![Activity Patterns - Projects](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-patterns-projects.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-patterns-projects.png)
+[![Activity Patterns - Projects](../../../assets/external/github.com/6ad38b11165c0fa5.png)](../../../assets/external/github.com/638abab47b655fe4.png)
 
-[![Activity Patterns - Work Hours](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-patterns-workhours.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-patterns-workhours.png)
+[![Activity Patterns - Work Hours](../../../assets/external/github.com/8aa7c5bd7b21f976.png)](../../../assets/external/github.com/0134c01290100f45.png)
 
-[![Anti-Patterns](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-antipatterns.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-antipatterns.png)
+[![Anti-Patterns](../../../assets/external/github.com/1643ec81d6afde12.png)](../../../assets/external/github.com/573c35a1b8f61c8e.png)
 
-[![Skill Finder](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-skill-finder.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-skill-finder.png)
+[![Skill Finder](../../../assets/external/github.com/ef2d26bb179e258a.png)](../../../assets/external/github.com/03253a58dbdb9673.png)
 
-[![Context Quality](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-context-quality.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-context-quality.png)
+[![Context Quality](../../../assets/external/github.com/c9900b14e1b4f95f.png)](../../../assets/external/github.com/5a59168329d73e0e.png)
 
-[![Context Management](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-context-management.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-context-management.png)
+[![Context Management](../../../assets/external/github.com/db70ec28a8610157.png)](../../../assets/external/github.com/f9ea28d358e8d970.png)
 
-[![Learning Center](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-learning.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-learning.png)
+[![Learning Center](../../../assets/external/github.com/be01817edb11f9b7.png)](../../../assets/external/github.com/58fde681f96d9baf.png)
 
-[![Achievements](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-achievements.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-achievements.png)
+[![Achievements](../../../assets/external/github.com/5691d6841f634fa4.png)](../../../assets/external/github.com/e05ebee1afb1192f.png)
 
-[![Agentic SDLC](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-sdlc.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-sdlc.png)
+[![Agentic SDLC](../../../assets/external/github.com/6c98b9c720d2d704.png)](../../../assets/external/github.com/8432567ded56d932.png)
 
-[![Share Your Stats](https://github.com/microsoft/AI-Engineering-Coach/raw/main/assets/screen-share.png)](https://github.com/microsoft/AI-Engineering-Coach/blob/main/assets/screen-share.png)
+[![Share Your Stats](../../../assets/external/github.com/2b40502dd6270b91.png)](../../../assets/external/github.com/efceca844000ea0c.png)
 
 ---
 

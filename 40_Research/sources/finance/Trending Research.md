@@ -10,7 +10,7 @@ tags:
 ---
 30 papers
 
-[![Thumbnail for AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://paperswithcode.co/api/thumbnails/2512_10971_v1.jpg?fit=fit2)](https://paperswithcode.co/paper/2512.10971)
+[![Thumbnail for AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](../../../assets/external/paperswithcode.co/0131080d21accb23.jpg)](https://paperswithcode.co/paper/2512.10971)
 
 ### AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets
 
@@ -32,7 +32,7 @@ stars / hr
 
 ](https://github.com/HKUDS/AI-Trader)
 
-[![Thumbnail for GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://paperswithcode.co/api/thumbnails/2604_17091_v1.jpg?fit=fit2)](https://paperswithcode.co/paper/2604.17091)
+[![Thumbnail for GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](../../../assets/external/paperswithcode.co/a9da265e2afa5c08.jpg)](https://paperswithcode.co/paper/2604.17091)
 
 ### GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)
 
@@ -54,7 +54,7 @@ stars / hr
 
 ](https://github.com/lsdefine/GenericAgent)
 
-[![Thumbnail for EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://paperswithcode.co/api/thumbnails/2601_02163_v1.jpg?fit=fit2)](https://paperswithcode.co/paper/2601.02163)
+[![Thumbnail for EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](../../../assets/external/paperswithcode.co/d4769fcf9d0ce84b.jpg)](https://paperswithcode.co/paper/2601.02163)
 
 ### EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning
 
@@ -76,7 +76,7 @@ stars / hr
 
 ](https://github.com/EverMind-AI/EverMemOS)
 
-[![Thumbnail for Geometric Context Transformer for Streaming 3D Reconstruction](https://paperswithcode.co/api/thumbnails/2604_14141_v1.jpg?fit=fit2)](https://paperswithcode.co/paper/2604.14141)
+[![Thumbnail for Geometric Context Transformer for Streaming 3D Reconstruction](../../../assets/external/paperswithcode.co/f3d1fb1262e46aec.jpg)](https://paperswithcode.co/paper/2604.14141)
 
 ### Geometric Context Transformer for Streaming 3D Reconstruction
 
