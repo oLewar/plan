@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-04T12:00:35Z",
+  "generated_at_utc": "2026-06-04T18:00:25Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-04T11:38:35Z",
-      "last_commit_sha": "d3fab549",
-      "last_commit_author": "Teknium",
+      "last_commit_date": "2026-06-04T16:42:21Z",
+      "last_commit_sha": "a3fb48b2",
+      "last_commit_author": "liuhao1024",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -27,10 +27,10 @@
     },
     {
       "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-06-04T05:52:54Z",
-      "last_commit_sha": "fea51402",
-      "last_commit_author": "Jiangzhou",
-      "commits_window": 79,
+      "last_commit_date": "2026-06-04T16:04:42Z",
+      "last_commit_sha": "5896c0dd",
+      "last_commit_author": "David Myriel",
+      "commits_window": 80,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
