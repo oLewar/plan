@@ -1,28 +1,17 @@
 {
-  "generated_at_utc": "2026-06-04T00:00:21Z",
+  "generated_at_utc": "2026-06-04T06:00:06Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-03T23:17:59Z",
-      "last_commit_sha": "a6e47314",
-      "last_commit_author": "Ben",
+      "last_commit_date": "2026-06-04T05:47:08Z",
+      "last_commit_sha": "3c163cb0",
+      "last_commit_author": "brooklyn!",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
       "count_capped": true,
-      "error": null
-    },
-    {
-      "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-06-03T18:18:23Z",
-      "last_commit_sha": "5674ad10",
-      "last_commit_author": "Leoy",
-      "commits_window": 83,
-      "window_days": 30,
-      "activity": "daily",
-      "count_capped": false,
       "error": null
     },
     {
@@ -37,11 +26,22 @@
       "error": null
     },
     {
+      "repo": "cocoindex-io/cocoindex",
+      "last_commit_date": "2026-06-04T05:52:54Z",
+      "last_commit_sha": "fea51402",
+      "last_commit_author": "Jiangzhou",
+      "commits_window": 79,
+      "window_days": 30,
+      "activity": "daily",
+      "count_capped": false,
+      "error": null
+    },
+    {
       "repo": "HKUDS/OpenHarness",
-      "last_commit_date": "2026-05-27T10:19:21Z",
-      "last_commit_sha": "bf5931e7",
-      "last_commit_author": "guyuming",
-      "commits_window": 69,
+      "last_commit_date": "2026-06-04T02:42:36Z",
+      "last_commit_sha": "9b2efd79",
+      "last_commit_author": "tjb-tech",
+      "commits_window": 72,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
