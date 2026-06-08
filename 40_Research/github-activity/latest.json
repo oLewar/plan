@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-07T18:00:21Z",
+  "generated_at_utc": "2026-06-08T00:00:23Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-07T17:55:58Z",
-      "last_commit_sha": "f3af489e",
-      "last_commit_author": "Enes Aydın",
+      "last_commit_date": "2026-06-07T19:54:32Z",
+      "last_commit_sha": "c9863772",
+      "last_commit_author": "kshitij",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -49,10 +49,10 @@
     },
     {
       "repo": "addyosmani/agent-skills",
-      "last_commit_date": "2026-06-06T01:00:13Z",
-      "last_commit_sha": "2e0dfbfb",
+      "last_commit_date": "2026-06-07T22:31:06Z",
+      "last_commit_sha": "c076972e",
       "last_commit_author": "Addy Osmani",
-      "commits_window": 36,
+      "commits_window": 42,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
