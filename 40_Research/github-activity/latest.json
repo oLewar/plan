@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-13T12:00:35Z",
+  "generated_at_utc": "2026-06-13T18:00:38Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-13T10:30:36Z",
-      "last_commit_sha": "202e318c",
-      "last_commit_author": "Black-Kylin",
+      "last_commit_date": "2026-06-13T07:08:43Z",
+      "last_commit_sha": "78c11d99",
+      "last_commit_author": "helix4u",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
