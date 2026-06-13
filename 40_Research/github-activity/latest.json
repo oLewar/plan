@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-13T06:00:33Z",
+  "generated_at_utc": "2026-06-13T12:00:35Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-13T05:39:13Z",
-      "last_commit_sha": "a8562761",
-      "last_commit_author": "brooklyn!",
+      "last_commit_date": "2026-06-13T10:30:36Z",
+      "last_commit_sha": "202e318c",
+      "last_commit_author": "Black-Kylin",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -30,7 +30,7 @@
       "last_commit_date": "2026-06-08T16:50:52Z",
       "last_commit_sha": "63660240",
       "last_commit_author": "Tobias Lütke",
-      "commits_window": 63,
+      "commits_window": 61,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
