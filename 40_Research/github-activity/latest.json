@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-12T18:00:27Z",
+  "generated_at_utc": "2026-06-13T00:00:30Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-10T17:23:14Z",
-      "last_commit_sha": "8044bf02",
-      "last_commit_author": "ethernet",
+      "last_commit_date": "2026-06-12T23:55:40Z",
+      "last_commit_sha": "9688c1a9",
+      "last_commit_author": "Teknium",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -16,10 +16,10 @@
     },
     {
       "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-06-12T06:43:19Z",
-      "last_commit_sha": "fbeb023e",
+      "last_commit_date": "2026-06-12T21:45:00Z",
+      "last_commit_sha": "87cd51b1",
       "last_commit_author": "LJ 🥥🌴",
-      "commits_window": 97,
+      "commits_window": 99,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
