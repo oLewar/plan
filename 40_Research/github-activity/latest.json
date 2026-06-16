@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-16T06:00:22Z",
+  "generated_at_utc": "2026-06-16T12:00:25Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
@@ -52,7 +52,7 @@
       "last_commit_date": "2026-06-04T02:42:36Z",
       "last_commit_sha": "9b2efd79",
       "last_commit_author": "tjb-tech",
-      "commits_window": 24,
+      "commits_window": 20,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
