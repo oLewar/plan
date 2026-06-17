@@ -94,3 +94,4 @@
 
 - 2026-06-17 — ai-signal-monitor/github-repos: added 118 new items.
 - 2026-06-17 — ai-signal-monitor/x-accounts: added 24 new items.
+- 2026-06-17 — ai-signal-monitor/reddit-topics: added 7 new items.
