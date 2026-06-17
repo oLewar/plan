@@ -46,3 +46,55 @@
 Главный вопрос - узнать какими продуктами конкурентов пользуется человек, и узнать от каких бы он не смог отказаться и почему.
 
 Elevator Pitch. Разработка 30-секундной презентации о добавленной ценности продукта, чтобы быстро привлечь внимание целевого лица, принимающего решения (ЛПР).
+
+## AI search optimization / AEO / GEO
+
+Источник: пост Ahrefs о результатах анализа более 1 млрд data points в 14 исследованиях за последние 6 месяцев. Сохранено как маркетинговая справка; исходные пункты требуют проверки по первичным ссылкам Ahrefs перед использованием в публичных материалах.
+
+### Что меняется
+
+- AI-поиск — это отдельный discovery layer, не равный Google SEO: 28,3% наиболее цитируемых ChatGPT страниц имеют нулевую органическую видимость в Google.
+- В AI-поиске есть разрыв между `retrieved` и `cited`: ChatGPT цитирует только около 50% URL, которые извлекает. Часть страниц используется как фоновый контекст без атрибуции.
+- Источники и формулировки нестабильны: AI Overviews меняются в среднем каждые 2,15 дня, между наблюдениями отличается около 70% контента, но смысл почти не меняется — semantic similarity около 0,95.
+
+### Что чаще цитируют
+
+- Формат `Best X` / listicle — самый заметный тип контента в цитированиях AI chatbot-ов. Для ChatGPT он составляет 43,8% всех цитируемых page types.
+- 67% top-1000 citation sources ChatGPT приходят из источников, на которые маркетологи почти не могут влиять:
+  - Wikipedia — 29,7%;
+  - homepages — 23,8%;
+  - app stores — 6,6%.
+- Только 32,3% относятся к influenceable content: educational pages, reviews, news, blog posts.
+
+### Что влияет / не влияет
+
+- YouTube mentions имеют самую высокую корреляцию с AI brand visibility — 0,737 — выше классических SEO-метрик вроде backlinks, page count, DR. По утверждению Ahrefs, паттерн держится и для Google-owned, и для OpenAI products.
+- Schema markup не дал значимого эффекта на AI citations:
+  - AI Overviews: −4,6%;
+  - AI Mode: +2,4%;
+  - ChatGPT: +2,2%;
+  - изменения близки к нулю / indistinguishable from zero.
+
+### Влияние на SEO и клики
+
+- AI Overviews снижают клики на #1 organic result на 58%; ранее было 34,5% примерно 10 месяцев назад — тренд ускоряется.
+- 99,9% AI Overviews появляются на informational intent queries.
+- Transactional, navigational и local searches почти не затронуты AIO.
+- Shopping queries вызывают AIO только в 3,2% случаев.
+
+### Google AI Mode vs AI Overviews
+
+- Для одного search query Google AI Mode и AI Overviews приходят к одинаковым выводам в 86% случаев.
+- При этом источники почти разные: overlap citations только 13,7%.
+
+### Практические выводы для маркетинга
+
+- Делать не только классическое SEO, а отдельную AEO/GEO-матрицу: какие запросы, сущности и страницы должны попадать в retrieval/citation AI-систем.
+- Создавать `Best X`, comparison и review-like страницы там, где продукт должен появляться в AI recommendations.
+- Разводить задачи:
+  - `retrieval visibility` — быть найденным и использованным как контекст;
+  - `citation visibility` — быть явно процитированным;
+  - `brand visibility` — быть упомянутым как сущность, даже без клика.
+- Использовать YouTube как канал AI brand visibility, а не только как awareness/соцсеть.
+- Не рассчитывать на schema markup как на самостоятельный рычаг AI citations.
+- Для informational queries ожидать падения organic CTR и компенсировать это через owned media, брендовые упоминания, email/community и контент, который AI вероятнее цитирует.

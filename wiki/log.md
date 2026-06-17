@@ -28,3 +28,67 @@
   - Kaizen loop: capture → clarify → prioritize → experiment → review → standardize.
   - First active experiment: unified Kaizen Inbox.
 
+## [2026-05-20] ingest | Prompting codebase questions
+- Source processed: Telegram image `img_fee5f763d589.jpg`.
+- Added page:
+  - `10_Reference/Agents/prompting-codebase-questions.md`
+- Updated:
+  - `10_Reference/Agents/readme.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `wiki/index.md`
+- Notes:
+  - Captured examples for prompting Claude Code / coding agents with file, symbol, git history, issue, PR, release, and time-range anchors.
+
+## [2026-05-27] query | 1M ARR strategy and agent harness
+- Source processed: Telegram voice notes from Oleg.
+- Added project zone:
+  - `25_Projects/1M_Strategy/Overview.md`
+  - `25_Projects/1M_Strategy/Architecture.md`
+  - `25_Projects/1M_Strategy/Tasks.md`
+  - `25_Projects/1M_Strategy/Decisions.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Updated:
+  - `25_Projects/Index.md`
+  - `25_Projects/Registry.md`
+  - `wiki/index.md`
+- Notes:
+  - Captured North Star: $1M ARR.
+  - Captured product hypothesis: child learning/focus/dopamine-management system.
+  - Captured scaling requirement: independent agent harness with design-doc-first, parallel alternatives, adversarial comparison, and verification gates.
+
+## [2026-05-29] ingest | Self-hosted open-source tools
+- Source processed: Telegram list from Oleg.
+- Added page:
+  - `10_Reference/tools/self-hosted-open-source-tools.md`
+- Updated:
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `wiki/index.md`
+- Notes:
+  - Captured LocalSend, yt-dlp, Stirling-PDF, FreeTube, Syncthing, Vaultwarden, Immich, AdGuard Home, Jellyfin, and Uptime Kuma.
+  - Added local-first / self-hosted / privacy-first implementation pattern and quick adoption priority.
+
+## [2026-05-29] ingest | CloakBrowser
+- Source processed: GitHub repository `CloakHQ/CloakBrowser` and README.
+- Added page:
+  - `10_Reference/tools/cloakbrowser.md`
+- Updated:
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `wiki/index.md`
+- Notes:
+  - Captured CloakBrowser capabilities, install modes, Browser Profile Manager, and risks.
+  - Captured Hermes/Chappy integration options: Python tool/script, CDP bridge, agent-aget CLI wrapper, CLI/MCP wrapper, or separate manager service.
+  - Added `izzzzzi/agent-aget` as recommended first experiment path and minimal test plan.
+
+## [2026-06-06] ingest | Ahrefs AI search optimization findings
+- Source processed: Telegram snippet from Oleg with Ahrefs summary of 14 studies / 1B+ data points.
+- Updated:
+  - `10_Reference/Strategy/marketing.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `wiki/index.md`
+- Notes:
+  - Captured AI search optimization / AEO / GEO takeaways: `Best X` listicles, influenceable vs non-influenceable citations, retrieved vs cited gap, weak schema impact, YouTube mention correlation, AIO CTR impact, informational-query concentration, and AI Mode vs AIO citation divergence.
+

@@ -3,7 +3,8 @@
 Список всех проектов и их статусов.
 
 ## Активные
-- [ ] [[25_Projects/example-project/Overview|example-project]] — статус: active
+- [ ] [[25_Projects/1M_Strategy/Overview|1M Strategy]] — статус: active; priority: high; goal: $1M ARR через продуктовые эксперименты и агентный harness.
+- [ ] [[25_Projects/Kaizen/Index|Kaizen]] — статус: active; priority: high; goal: постоянное улучшение эффективности.
 
 ## На паузе
 - (пусто)

@@ -27,8 +27,9 @@ QMD используем для сигнала Usage/Recency:
 cd /root/pro/plan
 
 # 1) Обновить индекс после изменений в markdown
-qmd collection update plan-wiki
-qmd collection update plan-raw
+qmd update
+# Если нужно сначала подтянуть git-изменения коллекций:
+qmd update --pull
 
 # 2) Обновить вектора для новых/изменённых документов
 qmd embed
@@ -55,8 +56,7 @@ qmd search "orphan pages" --all --files --min-score 0.3
 ## Recommended process integration
 
 1. После каждого ingest/query-цикла:
-   - `qmd collection update plan-wiki`
-   - `qmd collection update plan-raw`
+   - `qmd update`
 2. Ежедневно (или при большом изменении источников):
    - `qmd embed`
 3. Перед ответами на сложные вопросы:

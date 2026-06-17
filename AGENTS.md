@@ -100,7 +100,7 @@ When answering questions:
 
 - Для навигации и поиска по базе использовать `qmd` как стандартный поисковый слой.
 - Минимум: поддерживать коллекции `plan-wiki` и `plan-raw` в актуальном состоянии.
-- После значимых изменений markdown запускать `qmd collection update plan-wiki` и `qmd collection update plan-raw`.
+- После значимых изменений markdown запускать `qmd update`.
 - Периодически запускать `qmd embed` для актуализации semantic/hybrid поиска.
 - Перед сложным синтезом использовать `qmd query ...` и фиксировать результаты обратно в `wiki/`.
 

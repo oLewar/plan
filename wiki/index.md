@@ -23,9 +23,16 @@
 - [[wiki/concepts/causal-analysis|Causal analysis]] — причинно-следственные связи и уровни уверенности.
 - [[wiki/concepts/efficiency-metric|Efficiency metric]] — как измеряем эффективность решений.
 
+## Reference standards
+- [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
+- [[10_Reference/tools/self-hosted-open-source-tools|Self-hosted и privacy-first open-source tools]] — LocalSend, yt-dlp, Stirling-PDF, FreeTube, Syncthing, Vaultwarden, Immich, AdGuard Home, Jellyfin, Uptime Kuma.
+- [[10_Reference/tools/cloakbrowser|CloakBrowser]] — stealth Chromium для browser automation и возможные варианты интеграции с Hermes/Chappy.
+- [[10_Reference/Strategy/marketing|Marketing]] — маркетинговые принципы, naming, аудитория, elevator pitch и заметки по AI search optimization / AEO / GEO.
+
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.
 - [[25_Projects/Kaizen/Index|Kaizen]] — контур постоянного улучшения эффективности через наблюдения, эксперименты и стандарты.
+- [[25_Projects/1M_Strategy/Overview|1M Strategy]] — активная стратегия выхода на $1M ARR через детский learning/focus продукт и агентный harness.
 
 ## Open Questions
 - [[wiki/questions/research-backlog|Research backlog]] — что нужно доисследовать дальше.
