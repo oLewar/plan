@@ -92,3 +92,4 @@
 - Notes:
   - Captured AI search optimization / AEO / GEO takeaways: `Best X` listicles, influenceable vs non-influenceable citations, retrieved vs cited gap, weak schema impact, YouTube mention correlation, AIO CTR impact, informational-query concentration, and AI Mode vs AIO citation divergence.
 
+- 2026-06-17 — ai-signal-monitor/github-repos: added 118 new items.
