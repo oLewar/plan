@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-17T18:00:02Z",
+  "generated_at_utc": "2026-06-18T00:00:05Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-17T17:32:32Z",
-      "last_commit_sha": "49d7481d",
-      "last_commit_author": "kshitij",
+      "last_commit_date": "2026-06-17T23:53:42Z",
+      "last_commit_sha": "9ba4615d",
+      "last_commit_author": "Teknium",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -19,7 +19,7 @@
       "last_commit_date": "2026-06-17T15:55:26Z",
       "last_commit_sha": "d001d42b",
       "last_commit_author": "Sujit patil",
-      "commits_window": 94,
+      "commits_window": 93,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
