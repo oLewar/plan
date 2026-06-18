@@ -195,3 +195,12 @@ Rows are deduplicated by handle. Confidence is a lead-quality label, not proof o
 | 2026-06-18T13:08:26+00:00 | [@nikunjyadav89](https://x.com/nikunjyadav89) | nikunj | xAI | Engineering (product) | medium | Bio: 'xAI; prev head of product eng...'. Posts 'xAI keeps shipping' with Grok model updates. |
 | 2026-06-18T13:08:26+00:00 | [@lily_gpupoor](https://x.com/lily_gpupoor) | lily | Research Scientist (Post-Training) | Research Scientist \| Post-Training | medium | Bio: '@Neurips 2025, Research Scientist \| Post-Training'. Technical posts on post-training, model design, and agents. |
 | 2026-06-18T13:08:26+00:00 | [@darin_tsui](https://x.com/darin_tsui) | Darin Tsui | Georgia Tech (PhD) | PhD Candidate / ML Researcher (interpretability) | high | PhD ML for bioengineering; paper 'ProGenMech' accepted to ICML 2026 Mechanistic Interpretability Workshop on circuit tracing in protein LMs. |
+| 2026-06-18T14:07:48+00:00 | [@thegregyang](https://x.com/TheGregYang) | Greg Yang | xAI | cofounder | high | Bio: xai cofounder. fighting lyme |
+| 2026-06-18T14:07:48+00:00 | [@mlpowered](https://x.com/mlpowered) | Emmanuel Ameisen | Anthropic | Interpretability/Finetuning | high | Bio: Interpretability/Finetuning @AnthropicAI. Previously: Staff ML Engineer @stripe, Wrote BMLPA... |
+| 2026-06-18T14:07:48+00:00 | [@markchen90](https://x.com/markchen90) | Mark Chen | OpenAI | Chief Research Officer | high | Bio: Chief Research Officer at @OpenAI. Coach for the USA IOI Team. |
+| 2026-06-18T14:07:48+00:00 | [@caseychu9](https://x.com/caseychu9) | Casey Chu | OpenAI | Researcher | high | Bio: Researcher at @openai |
+| 2026-06-18T14:07:48+00:00 | [@isafulf](https://x.com/isafulf) | Isa Fulford | OpenAI | Researcher | high | Bio: research @openai |
+| 2026-06-18T14:07:48+00:00 | [@shibanisan](https://x.com/ShibaniSan) | Shibani Santurkar | OpenAI | Researcher | high | Bio: @OpenAI |
+| 2026-06-18T14:07:48+00:00 | [@colintjarvis](https://x.com/colintjarvis) | Colin Jarvis | OpenAI | Leading FDE | high | Bio: Leading FDE at OpenAI |
+| 2026-06-18T14:07:48+00:00 | [@edwardsun0909](https://x.com/EdwardSun0909) | Zhiqing Sun | OpenAI (prev), Meta | Agent / posttraining research | high | Bio: Lead agent research @Meta MSL TBD Lab. previously posttraining/agent research @OpenAI. CS PhD @LTIatCMU |
+| 2026-06-18T14:07:48+00:00 | [@so8res](https://x.com/So8res) | Nate Soares | MIRI / AI alignment | Researcher / leader | high | Bio: Trying to make AI not kill everyone (technical posts on AI risk, agency, alignment, decision theory) |
