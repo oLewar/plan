@@ -646,3 +646,13 @@ fatal: Cannot rebase onto multiple branches.
 2026-06-18T09:15:14+00:00 reddit artificial/rss failed: <HTTPError 429: 'Too Many Requests'>
 2026-06-18T09:15:14+00:00 reddit artificial/rising failed: <HTTPError 403: 'Blocked'>
 2026-06-18T09:15:14+00:00 reddit artificial/new failed: <HTTPError 403: 'Blocked'>
+2026-06-18T09:15:17+00:00 mode=reddit_topics added=1
+2026-06-18T09:25:10+00:00 git pull failed rc=128: From github.com:oLewar/plan
+ * branch            main       -> FETCH_HEAD
+fatal: Cannot rebase onto multiple branches.
+
+2026-06-18T09:25:14+00:00 github query failed inference in:name,description created:>=2026-05-28 stars:>=20: <HTTPError 403: 'rate limit exceeded'>
+2026-06-18T09:25:14+00:00 github query failed rag in:name,description created:>=2026-05-28 stars:>=20: <HTTPError 403: 'rate limit exceeded'>
+2026-06-18T09:25:14+00:00 github query failed vllm in:name,description created:>=2026-05-28 stars:>=20: <HTTPError 403: 'rate limit exceeded'>
+2026-06-18T09:25:14+00:00 github query failed transformer in:name,description created:>=2026-05-28 stars:>=20: <HTTPError 403: 'rate limit exceeded'>
+2026-06-18T09:25:14+00:00 mode=github_repos added=0
