@@ -299,3 +299,5 @@ Rows are deduplicated by handle. Confidence is a lead-quality label, not proof o
 | 2026-06-19T10:07:48+00:00 | [@forwarddeploy](https://x.com/forwarddeploy) | Umesh Khanna | xAI | talent eng | high | Bio: 'talent eng @xai' |
 | 2026-06-19T10:07:48+00:00 | [@ishand](https://x.com/ishand) | Ishan Deshpande | xAI | talent eng | high | Bio: 'talent eng @xai' |
 | 2026-06-19T10:07:48+00:00 | [@udayruddarraju](https://x.com/udayruddarraju) | Uday Ruddarraju | ex-xAI | Compute / infrastructure | medium | Bio: 'previously @ xAI' |
+| 2026-06-19T11:08:21+00:00 | [@eliebakouch](https://x.com/eliebakouch) | elie | PrimeIntellect (prev Hugging Face) | LLM Training Engineer/Researcher | high | Bio: "training llm @PrimeIntellect (prev: @huggingface)" Active technical commentary on frontier lab comparisons, training. |
+| 2026-06-19T11:08:21+00:00 | [@ericyuegu](https://x.com/ericyuegu) | Eric Gu | 1X Tech (prev Imbue AI, Apple) | LLM Training / Autonomy Researcher | medium | Bio: "building humanoid robots @1x_tech prev: LLM pre-/post-training @imbue_ai, autonomy research @apple" |
