@@ -293,3 +293,9 @@ Rows are deduplicated by handle. Confidence is a lead-quality label, not proof o
 | 2026-06-19T09:08:04+00:00 | [@yugeten](https://x.com/YugeTen) | Yuge Shi (Jimmy) | Google DeepMind | Research scientist (Genie, Veo, Omni) | high | bio/post: '@GoogleDeepMind, Genie 1, 2, Veo 3, Omni'; announced joining as research scientist |
 | 2026-06-19T09:08:04+00:00 | [@0xsairahul](https://x.com/0xsairahul) | Rahul | Anthropic | R&D | high | post: 'Personal update: I've joined Anthropic. ... get back to R&D' at frontier LLMs |
 | 2026-06-19T09:08:04+00:00 | [@random_walker](https://x.com/random_walker) | Arvind Narayanan | Independent / Princeton | Professor, AI researcher (agents, evals) | high | bio: 'Princeton CS prof and Director @PrincetonCITP. Coauthor of "AI Snake Oil"'; posts detailed papers on AI agent evals and benchmarks |
+| 2026-06-19T10:07:48+00:00 | [@viemccoy](https://x.com/viemccoy) | 𝚟𝚒𝚎 ⟢ | OpenAI | Employee | high | Bio: 'Casting Spells @OpenAI' |
+| 2026-06-19T10:07:48+00:00 | [@itsreallyvivek](https://x.com/itsreallyvivek) | vivek | Anthropic | Researcher | medium | Referenced as 'Vivek, a researcher at Anthropic' in technical posts on research practices |
+| 2026-06-19T10:07:48+00:00 | [@pushmeet](https://x.com/pushmeet) | Pushmeet Kohli | Google DeepMind | VP, DeepMind / Chief Scientist Google Cloud | high | Bio: 'Chief Scientist, Google Cloud. VP, DeepMind' with multiple DeepMind projects |
+| 2026-06-19T10:07:48+00:00 | [@forwarddeploy](https://x.com/forwarddeploy) | Umesh Khanna | xAI | talent eng | high | Bio: 'talent eng @xai' |
+| 2026-06-19T10:07:48+00:00 | [@ishand](https://x.com/ishand) | Ishan Deshpande | xAI | talent eng | high | Bio: 'talent eng @xai' |
+| 2026-06-19T10:07:48+00:00 | [@udayruddarraju](https://x.com/udayruddarraju) | Uday Ruddarraju | ex-xAI | Compute / infrastructure | medium | Bio: 'previously @ xAI' |
