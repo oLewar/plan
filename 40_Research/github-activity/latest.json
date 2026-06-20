@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-06-20T00:00:34Z",
+  "generated_at_utc": "2026-06-20T12:00:41Z",
   "window_days": 30,
   "repos_total": 5,
   "rows": [
     {
       "repo": "NousResearch/hermes-agent",
-      "last_commit_date": "2026-06-19T23:26:23Z",
-      "last_commit_sha": "75ed07ac",
-      "last_commit_author": "joaomarcos",
+      "last_commit_date": "2026-06-20T11:02:30Z",
+      "last_commit_sha": "b88d0007",
+      "last_commit_author": "kshitij",
       "commits_window": 1000,
       "window_days": 30,
       "activity": "daily",
@@ -16,10 +16,10 @@
     },
     {
       "repo": "cocoindex-io/cocoindex",
-      "last_commit_date": "2026-06-19T23:45:44Z",
-      "last_commit_sha": "17fbfa39",
-      "last_commit_author": "Prashanth Rao",
-      "commits_window": 87,
+      "last_commit_date": "2026-06-20T08:14:48Z",
+      "last_commit_sha": "9f6ddadb",
+      "last_commit_author": "Jiangzhou",
+      "commits_window": 94,
       "window_days": 30,
       "activity": "daily",
       "count_capped": false,
@@ -37,17 +37,6 @@
       "error": null
     },
     {
-      "repo": "HKUDS/OpenHarness",
-      "last_commit_date": "2026-06-04T02:42:36Z",
-      "last_commit_sha": "9b2efd79",
-      "last_commit_author": "tjb-tech",
-      "commits_window": 20,
-      "window_days": 30,
-      "activity": "daily",
-      "count_capped": false,
-      "error": null
-    },
-    {
       "repo": "tobi/qmd",
       "last_commit_date": "2026-06-17T16:02:48Z",
       "last_commit_sha": "62b3a67d",
@@ -55,6 +44,17 @@
       "commits_window": 20,
       "window_days": 30,
       "activity": "daily",
+      "count_capped": false,
+      "error": null
+    },
+    {
+      "repo": "HKUDS/OpenHarness",
+      "last_commit_date": "2026-06-04T02:42:36Z",
+      "last_commit_sha": "9b2efd79",
+      "last_commit_author": "tjb-tech",
+      "commits_window": 18,
+      "window_days": 30,
+      "activity": "weekly",
       "count_capped": false,
       "error": null
     }
