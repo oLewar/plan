@@ -346,3 +346,6 @@ Rows are deduplicated by handle. Confidence is a lead-quality label, not proof o
 | 2026-06-20T00:08:38+00:00 | [@sherylhsu02](https://x.com/SherylHsu02) | Sheryl Hsu | OpenAI | Researcher | high | Bio: @openai \| bs/ms @Stanford. Technical posts on model capabilities and math research progress. |
 | 2026-06-20T00:08:38+00:00 | [@jasonbud](https://x.com/JasonBud) | Jason Ginsberg | xAI (ex-Cursor) | Builder / Engineer | high | Bio: building @xai. fmr @cursor_ai, @NotionMail, founder/CTO @skiffprivacy |
 | 2026-06-20T00:08:38+00:00 | [@nandodf](https://x.com/NandoDF) | Nando de Freitas | Google DeepMind | Researcher (intelligence, agency, AI) | high | Bio: I seek to understand intelligence, agency and awareness, and build AI... Active posts referencing research tools. |
+| 2026-06-20T01:09:15+00:00 | [@npew](https://x.com/npew) | Peter Welinder | OpenAI | Devices | high | Bio: Devices @OpenAI |
+| 2026-06-20T01:09:15+00:00 | [@ericzelikman](https://x.com/ericzelikman) | Eric Zelikman | ex-xAI (Humans&) | ex-xAI researcher, now founder | high | Bio: cofounder & ceo @humansand ... // was lgtm-ing @xAI |
+| 2026-06-20T01:09:15+00:00 | [@stringchaos](https://x.com/StringChaos) | Naman Jain | Cursor / Anysphere | Research @cursor_ai | high | Bio: Research @cursor_ai \| CursorBench, LiveCodeBench... ; collaborated with @deepseek_ai team on evals |
