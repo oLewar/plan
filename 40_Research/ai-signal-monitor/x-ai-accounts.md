@@ -479,3 +479,4 @@ Rows are deduplicated by handle. Confidence is a lead-quality label, not proof o
 | 2026-06-21T11:08:25+00:00 | [@__nmca__](https://x.com/__nmca__) | Nat McAleese | Anthropic (ex-OpenAI/DeepMind) | Research | high | Research @AnthropicAI. Previously @OpenAI, @DeepMind |
 | 2026-06-21T11:08:25+00:00 | [@livgorton](https://x.com/livgorton) | Liv | Anthropic | Research / Engineer | high | currently @AnthropicAI, prev @GoodfireAI. Recent posts about joining and agentic work |
 | 2026-06-21T11:08:25+00:00 | [@olseneng](https://x.com/olseneng) | Olsen | xAI | MTS / Ads | high | Ads @xai. Previously announced title change from MTS at @xai |
+| 2026-06-21T12:09:02+00:00 | [@mayeechen](https://x.com/MayeeChen) | Mayee Chen | Stanford AI Lab / AI2 (ex-intern, open models data) | CS PhD / Data-centric ML | medium | Posts technical contributions to open 32B models (OLMo), Dolma data mix, training recipes. Active on datasets/scaling research. |
