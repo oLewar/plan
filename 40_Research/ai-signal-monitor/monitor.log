@@ -4812,3 +4812,64 @@ Error: Internal error: {
 2026-06-21T19:16:03+00:00 reddit artificial/rss failed: <HTTPError 429: 'Too Many Requests'>
 2026-06-21T19:16:03+00:00 reddit artificial/rising failed: <HTTPError 403: 'Blocked'>
 2026-06-21T19:16:03+00:00 reddit artificial/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T19:16:05+00:00 mode=reddit_topics added=15
+2026-06-21T19:26:03+00:00 mode=github_repos added=0
+2026-06-21T20:05:58+00:00 git pull failed rc=128: From github.com:oLewar/plan
+ * branch            main       -> FETCH_HEAD
+fatal: Cannot rebase onto multiple branches.
+
+2026-06-21T20:06:01+00:00 grok x-accounts rc=1: its at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok.\n\nRequest URL: https://cli-chat-proxy.grok.com/v1/responses",
+  "http_status": 403
+}
+Error: Internal error: {
+  "message": "API error (status 403 Forbidden): personal-team-blocked:spending-limit: You have run out of credits or need a Grok subscription. Add credits at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok.\n\nRequest URL: https://cli-chat-proxy.grok.com/v1/responses",
+  "http_status": 403
+}
+
+2026-06-21T20:06:01+00:00 mode=x_accounts added=0
+2026-06-21T20:15:58+00:00 reddit MachineLearning/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:15:59+00:00 reddit MachineLearning/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:15:59+00:00 reddit MachineLearning/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:15:59+00:00 reddit LocalLLaMA/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:00+00:00 reddit LocalLLaMA/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:00+00:00 reddit LocalLLaMA/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:00+00:00 reddit OpenAI/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:00+00:00 reddit OpenAI/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:00+00:00 reddit OpenAI/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit OpenAI/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ClaudeAI/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ClaudeAI/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:01+00:00 reddit ClaudeAI/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ClaudeAI/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ArtificialInteligence/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ArtificialInteligence/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:01+00:00 reddit ArtificialInteligence/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit ArtificialInteligence/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit singularity/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit singularity/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:01+00:00 reddit singularity/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit singularity/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:01+00:00 reddit deeplearning/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit deeplearning/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:02+00:00 reddit deeplearning/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit deeplearning/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit LanguageTechnology/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit LanguageTechnology/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:02+00:00 reddit LanguageTechnology/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit LanguageTechnology/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit MLOps/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit MLOps/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:02+00:00 reddit MLOps/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit MLOps/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit StableDiffusion/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit StableDiffusion/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:02+00:00 reddit StableDiffusion/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:02+00:00 reddit StableDiffusion/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit ChatGPT/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit ChatGPT/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:03+00:00 reddit ChatGPT/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit ChatGPT/new failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit artificial/hot failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit artificial/rss failed: <HTTPError 429: 'Too Many Requests'>
+2026-06-21T20:16:03+00:00 reddit artificial/rising failed: <HTTPError 403: 'Blocked'>
+2026-06-21T20:16:03+00:00 reddit artificial/new failed: <HTTPError 403: 'Blocked'>
