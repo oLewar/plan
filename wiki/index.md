@@ -50,3 +50,4 @@
 - [[40_Research/ai-signal-monitor/daily/2026-06-18]] — daily AI signal summary
 - [[40_Research/ai-signal-monitor/daily/2026-06-19]] — daily AI signal summary
 - [[40_Research/ai-signal-monitor/daily/2026-06-20]] — daily AI signal summary
+- [[40_Research/ai-signal-monitor/daily/2026-06-21]] — daily AI signal summary
