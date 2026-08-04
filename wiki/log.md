@@ -3,6 +3,20 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-04] ingest | The Plausibility of Life (Kirschner & Gerhart)
+- Source processed: Telegram cover image `img_7ff91f65864a.jpg`
+- Added pages:
+  - `wiki/sources/the-plausibility-of-life-kirschner-gerhart.md`
+- Assets:
+  - `assets/books/the-plausibility-of-life-cover.jpg`
+- Updated:
+  - `wiki/index.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+- Notes:
+  - Book on evo-devo / facilitated variation (Yale UP, 2005).
+  - Bibliographic + thesis-level summary only; chapter notes pending.
+
 ## [2026-05-08] ingest | LLM Wiki (Karpathy gist)
 - Source processed: `raw/llm-wiki.md`
 - Added pages:

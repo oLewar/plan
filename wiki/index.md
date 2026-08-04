@@ -18,6 +18,7 @@
 
 ## Sources
 - [[wiki/sources/llm-wiki-gist|LLM Wiki (Karpathy gist)]] — базовый паттерн структуры и процессов wiki.
+- [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life (Kirschner & Gerhart)]] — evo-devo / facilitated variation; почему сложная жизнь «правдоподобна».
 
 ## Concepts
 - [[wiki/concepts/causal-analysis|Causal analysis]] — причинно-следственные связи и уровни уверенности.
