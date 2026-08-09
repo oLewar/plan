@@ -3,6 +3,29 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-09] ingest | Fireside Chat с Арманом Сулейменовым (Astana Hub)
+- Source processed: Telegram document clipping + YouTube transcript `https://www.youtube.com/watch?v=VxjNwsUo9BY` (published 2026-08-07).
+- Raw:
+  - `raw/fireside-chat-arman-suleimenov-astana-hub-2026-08-07.md`
+- Added pages:
+  - `wiki/sources/fireside-chat-arman-suleimenov-2026-08-07.md`
+  - `wiki/entities/arman-suleimenov.md`
+  - `wiki/entities/nfactorial-school.md`
+  - `wiki/concepts/vibe-coding.md`
+  - `wiki/concepts/barbell-strategy.md`
+  - `wiki/concepts/high-agency.md`
+  - `wiki/concepts/idea-as-function-of-assets.md`
+  - `wiki/concepts/shokunin.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+- Notes:
+  - Thesis-level synthesis from noisy auto-transcript (confidence: medium).
+  - Key causal levers: revenue-as-reality-check, assets-first idea selection, barbell (timeless + frontier), high agency when intelligence commoditizes.
+
 ## [2026-08-04] ingest | The Plausibility of Life (Kirschner & Gerhart)
 - Source processed: Telegram cover image `img_7ff91f65864a.jpg`
 - Added pages:

@@ -19,10 +19,20 @@
 ## Sources
 - [[wiki/sources/llm-wiki-gist|LLM Wiki (Karpathy gist)]] — базовый паттерн структуры и процессов wiki.
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life (Kirschner & Gerhart)]] — evo-devo / facilitated variation; почему сложная жизнь «правдоподобна».
+- [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]] — nFactorial, vibe coding, барбелл-стратегия, high agency, idea=f(assets).
+
+## Entities
+- [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
+- [[wiki/entities/nfactorial-school|nFactorial School]] — selective build+launch+monetize incubator / education community.
 
 ## Concepts
 - [[wiki/concepts/causal-analysis|Causal analysis]] — причинно-следственные связи и уровни уверенности.
 - [[wiki/concepts/efficiency-metric|Efficiency metric]] — как измеряем эффективность решений.
+- [[wiki/concepts/vibe-coding|Vibe coding]] — LLM-first сборка прототипов: скорость vs fundamentals/users.
+- [[wiki/concepts/barbell-strategy|Barbell strategy]] — frontier tools + timeless principles; избегать «средней» зоны.
+- [[wiki/concepts/high-agency|High agency]] — инициатива/миссия/pushback как дефицит при commodity-интеллекте.
+- [[wiki/concepts/idea-as-function-of-assets|Idea = f(assets)]] — идея как функция уже имеющихся преимуществ.
+- [[wiki/concepts/shokunin|Shokunin]] — lifelong craftsmanship как антидот к tool-democratization.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
