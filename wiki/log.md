@@ -3,6 +3,21 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-11] ingest | Matt Pocock Skills (Skills For Real Engineers)
+- Source processed: https://github.com/mattpocock/skills/blob/main/README.md (+ raw README, GitHub API metadata/tree)
+- Added pages:
+  - `wiki/sources/mattpocock-skills.md`
+  - `10_Reference/tools/mattpocock-skills.md`
+- Updated:
+  - `wiki/index.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+- Notes:
+  - Composable agent skills (grill/shared language/TDD/architecture/tickets); ~213k stars at ingest.
+  - Install: Claude plugin `mattpocock-skills` or `npx skills@latest add mattpocock/skills`.
+  - Prior bare URL existed in `10_Reference/Agents/tools/ref.md`; now full source+tool notes.
+  - Hermes install: not applied at ingest (reference only).
+
 ## [2026-08-09] ingest | Fireside Chat с Арманом Сулейменовым (Astana Hub)
 - Source processed: Telegram document clipping + YouTube transcript `https://www.youtube.com/watch?v=VxjNwsUo9BY` (published 2026-08-07).
 - Raw:

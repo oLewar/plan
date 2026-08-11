@@ -20,6 +20,7 @@
 - [[wiki/sources/llm-wiki-gist|LLM Wiki (Karpathy gist)]] — базовый паттерн структуры и процессов wiki.
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life (Kirschner & Gerhart)]] — evo-devo / facilitated variation; почему сложная жизнь «правдоподобна».
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]] — nFactorial, vibe coding, барбелл-стратегия, high agency, idea=f(assets).
+- [[wiki/sources/mattpocock-skills|Matt Pocock Skills]] — composable agent skills for real engineering (grill, TDD, architecture, tickets).
 
 ## Entities
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
@@ -38,6 +39,7 @@
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
 - [[10_Reference/tools/self-hosted-open-source-tools|Self-hosted и privacy-first open-source tools]] — LocalSend, yt-dlp, Stirling-PDF, FreeTube, Syncthing, Vaultwarden, Immich, AdGuard Home, Jellyfin, Uptime Kuma.
 - [[10_Reference/tools/cloakbrowser|CloakBrowser]] — stealth Chromium для browser automation и возможные варианты интеграции с Hermes/Chappy.
+- [[10_Reference/tools/mattpocock-skills|Matt Pocock Skills]] — skills pack (Claude Code plugin / skills.sh) для engineering discipline.
 - [[10_Reference/Strategy/marketing|Marketing]] — маркетинговые принципы, naming, аудитория, elevator pitch и заметки по AI search optimization / AEO / GEO.
 
 ## Analyses
