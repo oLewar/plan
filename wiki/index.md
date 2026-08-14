@@ -21,7 +21,7 @@
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life (Kirschner & Gerhart)]] — evo-devo / facilitated variation; почему сложная жизнь «правдоподобна».
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]] — nFactorial, vibe coding, барбелл-стратегия, high agency, idea=f(assets).
 - [[wiki/sources/mattpocock-skills|Matt Pocock Skills]] — composable agent skills for real engineering (grill, TDD, architecture, tickets).
-- [[wiki/sources/x-algorithm|X For You Feed Algorithm (xai-org/x-algorithm)]] — open-source core For You ranking + visibility filtering.
+- [[wiki/sources/x-algorithm|X For You Feed Algorithm (xai-org/x-algorithm)]] — For You ranking/visibility; defaults: copy +20, reply/quote +5, follow +4, like +0.5; report −234.
 
 ## Entities
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
@@ -36,7 +36,7 @@
 - [[wiki/concepts/high-agency|High agency]] — инициатива/миссия/pushback как дефицит при commodity-интеллекте.
 - [[wiki/concepts/idea-as-function-of-assets|Idea = f(assets)]] — идея как функция уже имеющихся преимуществ.
 - [[wiki/concepts/shokunin|Shokunin]] — lifelong craftsmanship как антидот к tool-democratization.
-- [[wiki/concepts/multi-action-feed-ranking|Multi-action feed ranking]] — multi-action prediction + explicit weights; ranking ≠ visibility.
+- [[wiki/concepts/multi-action-feed-ranking|Multi-action feed ranking]] — multi-action prediction + explicit weights; X defaults not like-optimized; ranking ≠ visibility.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.

@@ -12,6 +12,36 @@ Final Score = Σ (weight_i × P(action_i))
 
 Далее обычно идут post-score adjustments: diversity по автору, OON discount, boost новых авторов, diversity re-rank (DPP / embedding neighbour penalty).
 
+## X default objective shape (public `param.rs`, 2026-08)
+
+**Что ценится (defaults, rounded human view → exact where noted):**
+
+| Action | ≈ weight |
+|---|---:|
+| Copy link | **+20** |
+| Reply / quote | **+5** |
+| Follow author | **+4** |
+| Favorite (like) | **+0.5** |
+| Open link | **+0.2** |
+
+**Что жёстко наказывается:**
+
+| Action | ≈ weight | exact in code |
+|---|---:|---|
+| Report | **-234** | -234.0 |
+| Mute author | **-59** | -58.8 |
+| Not interested | **-43** | -43.2 |
+
+**Практически игнорируется в default scoring:**
+
+- dwell time (`DwellWeight = 0.0`; continuous dwell residual tiny)
+- profile click (`ProfileClickWeight = 0.0`)
+- «AI-generated or not» — **нет** action-weight в ranking params (не objective head)
+
+Следствие: **алгоритм не оптимизируется под лайки**. Conversation + distribution (copy/share) + follow >> like; negative feedback доминирует по |magnitude|. Defaults — baseline; live experiments can change weights.
+
+Полная таблица и param names: [[wiki/sources/x-algorithm]].
+
 ## Causal structure (useful decomposition)
 
 1. **Candidate generation** — откуда вообще взялся пост (follow graph vs retrieval/clusters).
@@ -36,7 +66,8 @@ Final Score = Σ (weight_i × P(action_i))
 
 ## Links to `pro/plan` mission
 
-- Makes product trade-offs (attention vs social vs negative feedback) **inspectable** → better causal diagnosis of «почему вырос/упал reach».
+- Makes product trade-offs **inspectable** → diagnosis «почему вырос/упал reach» через heads (copy/reply/follow vs like vs mute/report), не через vanity likes.
+- Content strategy heuristic from X defaults: design for reply/quote/share loops; treat likes as weak proxy; avoid triggers that produce mute/report/not-interested.
 - Template for any ranking surface (agent tool pickers, research digests, content products in 1M Strategy): predict multiple outcomes, blend with explicit weights, filter with separate policy.
 
 ## Sources

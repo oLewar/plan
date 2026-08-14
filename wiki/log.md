@@ -3,6 +3,16 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-14] update | X algorithm default ranking weights
+- Source: user summary + verified against `home-mixer/params/param.rs` (public raw, 2026-08-14)
+- Updated pages:
+  - `wiki/sources/x-algorithm.md` — full default weight table + caveats
+  - `wiki/concepts/multi-action-feed-ranking.md` — objective-shape section
+  - `10_Reference/tools/x-algorithm.md` — short weight card
+  - `wiki/index.md` — source/concept blurbs
+- Key defaults: copy-link +20; reply/quote +5; follow +4; like +0.5; open-link +0.2; report -234; mute -58.8; not-interested -43.2; dwell/profile-click 0.0; AI-generated not a ranking weight.
+- Note: user rounded mute≈-59, not-interested≈-43; experiments can override defaults.
+
 ## [2026-08-14] ingest | X For You Feed Algorithm (xai-org/x-algorithm)
 - Source processed: https://github.com/xai-org/x-algorithm (+ raw README capture)
 - Raw:
@@ -20,7 +30,7 @@
   - Official open-source core of X For You: Thunder + Phoenix/SimClusters → multi-action ranking → visibility filtering.
   - README latest update noted: 2026-08-13 (weights, VF systems, Phoenix training/synth data, SimClusters, Under the Hood).
   - Design split ranking ≠ visibility; multi-action weighted score; Apache-2.0.
-  - Depth: README-level architecture; no full monorepo clone / param.rs weight table yet.
+  - Follow-up same day: default weight table extracted from `param.rs` (see update entry above).
 
 ## [2026-08-11] ingest | Matt Pocock Skills (Skills For Real Engineers)
 - Source processed: https://github.com/mattpocock/skills/blob/main/README.md (+ raw README, GitHub API metadata/tree)
