@@ -3,6 +3,25 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-14] ingest | X For You Feed Algorithm (xai-org/x-algorithm)
+- Source processed: https://github.com/xai-org/x-algorithm (+ raw README capture)
+- Raw:
+  - `raw/xai-org-x-algorithm-readme.md` (sha256 e0791781737a051d8dfe39923d1edb930348b83c61dc0af0728a23ac981b8a9a)
+- Added pages:
+  - `wiki/sources/x-algorithm.md`
+  - `wiki/entities/xai.md`
+  - `wiki/concepts/multi-action-feed-ranking.md`
+  - `10_Reference/tools/x-algorithm.md`
+- Updated:
+  - `wiki/index.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+- Notes:
+  - Official open-source core of X For You: Thunder + Phoenix/SimClusters → multi-action ranking → visibility filtering.
+  - README latest update noted: 2026-08-13 (weights, VF systems, Phoenix training/synth data, SimClusters, Under the Hood).
+  - Design split ranking ≠ visibility; multi-action weighted score; Apache-2.0.
+  - Depth: README-level architecture; no full monorepo clone / param.rs weight table yet.
+
 ## [2026-08-11] ingest | Matt Pocock Skills (Skills For Real Engineers)
 - Source processed: https://github.com/mattpocock/skills/blob/main/README.md (+ raw README, GitHub API metadata/tree)
 - Added pages:
