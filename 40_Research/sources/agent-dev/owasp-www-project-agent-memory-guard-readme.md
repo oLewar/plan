@@ -20,12 +20,12 @@ pypi: agent-memory-guard
 
 ### 📦 16,491+ total downloads
 
-[![agent-memory-guard on PyPI](https://pepy.tech/badge/agent-memory-guard)](https://pepy.tech/project/agent-memory-guard) [![langchain-agent-memory-guard on PyPI](https://pepy.tech/badge/langchain-agent-memory-guard)](https://pepy.tech/project/langchain-agent-memory-guard) [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clones&query=count&url=https://gist.githubusercontent.com/vgudur-dev/c04e12f68c363625faf12faaf03a03ca/raw/clone.json&logo=github)](https://github.com/OWASP/www-project-agent-memory-guard) ![Clones](https://img.shields.io/badge/clones-253-blue) [![Unique Cloners](https://img.shields.io/badge/dynamic/json?color=success&label=Unique%20Cloners&query=uniques&url=https://gist.githubusercontent.com/vgudur-dev/c04e12f68c363625faf12faaf03a03ca/raw/clone.json&logo=github)](https://github.com/OWASP/www-project-agent-memory-guard/graphs/traffic)
+[![agent-memory-guard on PyPI](../../../assets/external/pepy.tech/66768e108bde6ad6.img)](https://pepy.tech/project/agent-memory-guard) [![langchain-agent-memory-guard on PyPI](../../../assets/external/pepy.tech/6d9d3ef52464ea72.img)](https://pepy.tech/project/langchain-agent-memory-guard) [![GitHub Clones](../../../assets/external/img.shields.io/31c9026b374eab02.img)](https://github.com/OWASP/www-project-agent-memory-guard) ![Clones](../../../assets/external/img.shields.io/48ddb11033f6d173.img) [![Unique Cloners](../../../assets/external/img.shields.io/75a903e87a9d3417.img)](https://github.com/OWASP/www-project-agent-memory-guard/graphs/traffic)
 
 </div>
 
 <p align="center">
-  <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" width="140" />
+  <img src="../../../assets/external/owasp.org/77ffadf15927947f.png" alt="OWASP" width="140" />
 </p>
 
 <p align="center">
@@ -39,12 +39,12 @@ pypi: agent-memory-guard
 
 ---
 
-[![CI](https://github.com/OWASP/www-project-agent-memory-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/OWASP/www-project-agent-memory-guard/actions/workflows/ci.yml)
-[![PyPI version](https://img.shields.io/pypi/v/agent-memory-guard.svg)](https://pypi.org/project/agent-memory-guard/)
-[![Python versions](https://img.shields.io/pypi/pyversions/agent-memory-guard.svg)](https://pypi.org/project/agent-memory-guard/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/OWASP/www-project-agent-memory-guard/blob/main/LICENSE.md)
-[![OWASP Incubator](https://img.shields.io/badge/OWASP-Incubator-yellow.svg)](https://owasp.org/www-project-agent-memory-guard/)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12908/badge)](https://www.bestpractices.dev/projects/12908)
+[![CI](../../../assets/external/github.com/0b0e3d9d5c538589.svg)](https://github.com/OWASP/www-project-agent-memory-guard/actions/workflows/ci.yml)
+[![PyPI version](../../../assets/external/img.shields.io/299fe13e630f13ce.svg)](https://pypi.org/project/agent-memory-guard/)
+[![Python versions](../../../assets/external/img.shields.io/d3b5f1f3bd9ba583.svg)](https://pypi.org/project/agent-memory-guard/)
+[![License](../../../assets/external/img.shields.io/95a734eb40ed1b81.svg)](https://github.com/OWASP/www-project-agent-memory-guard/blob/main/LICENSE.md)
+[![OWASP Incubator](../../../assets/external/img.shields.io/c4e90aa4f7bc7541.svg)](https://owasp.org/www-project-agent-memory-guard/)
+[![OpenSSF Best Practices](../../../assets/external/www.bestpractices.dev/5575941382762e16.img)](https://www.bestpractices.dev/projects/12908)
 
 > **Created and led by [Vaishnavi Gudur](https://www.linkedin.com/in/vaishnavi-gudur)**, with co-leader **Anshul Rajkumar** — OWASP Agent Memory Guard.
 > Official OWASP Foundation project addressing **ASI06 (Memory & Context Poisoning)**.
@@ -56,8 +56,8 @@ pypi: agent-memory-guard
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/OWASP/www-project-agent-memory-guard/blob/main/examples/notebooks/poison_and_protect.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a>
-  <a href="https://codespaces.new/OWASP/www-project-agent-memory-guard?quickstart=1"><img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" height="20" /></a>
+  <a href="https://colab.research.google.com/github/OWASP/www-project-agent-memory-guard/blob/main/examples/notebooks/poison_and_protect.ipynb"><img src="../../../assets/external/colab.research.google.com/e79852128a5f83c9.svg" alt="Open In Colab" /></a>
+  <a href="https://codespaces.new/OWASP/www-project-agent-memory-guard?quickstart=1"><img src="../../../assets/external/github.com/87f81b2237bddd5d.svg" alt="Open in GitHub Codespaces" height="20" /></a>
   <a href="https://vgudur-amg-memory-poisoning-lab.hf.space/"><strong>▶ Try the live Memory Poisoning Lab</strong></a> — run a representative attack-and-block scenario in your browser.
 </p>
 
