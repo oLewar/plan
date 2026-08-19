@@ -21,6 +21,7 @@
 - При оценке агентных систем: измерять не только task success, но и quality of goal selection / refusal / reframe.
 - Связь с [[wiki/concepts/causal-analysis|causal analysis]]: agency = who sets the causal intervention.
 - Связь с [[wiki/concepts/vibe-coding|vibe coding]]: tools amplify agency, don’t substitute it.
+- Связь с [[wiki/concepts/human-in-the-loop-gtm|HITL GTM]]: Cowork drafts/scores, BDR still chooses who to work and owns every send.
 
 ## Status
 
@@ -29,4 +30,5 @@
 ## Sources
 
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07]]
-- Related: [[wiki/entities/arman-suleimenov]], [[wiki/concepts/shokunin]], [[wiki/concepts/barbell-strategy]]
+- [[wiki/sources/anthropic-bd-claude-cowork]]
+- Related: [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]], [[wiki/concepts/shokunin]], [[wiki/concepts/barbell-strategy]], [[wiki/concepts/human-in-the-loop-gtm]]

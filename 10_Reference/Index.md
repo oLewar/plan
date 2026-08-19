@@ -22,4 +22,7 @@
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life]] — Kirschner & Gerhart, evo-devo / facilitated variation
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat: Арман Сулейменов]] — nFactorial, vibe coding, barbell, high agency, idea=f(assets)
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] / [[wiki/entities/nfactorial-school|nFactorial School]]
+- [[10_Reference/tools/claude-cowork|Claude Cowork]] — Anthropic BD: inbound/outbound skills + HITL send
+- [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork (source)]] — John Albert, 2026-08-07
+- [[wiki/entities/anthropic|Anthropic]] / [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

@@ -3,6 +3,33 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-19] ingest | Anthropic BD uses Claude Cowork for inbound/outbound
+- Source processed: https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale (John Albert, published 2026-08-07)
+- Capture: live HTML 2026-08-19 (Firecrawl/web_extract 400 on claude.com; curl 200). Wayback sibling `20260819134644`.
+- Raw:
+  - `raw/anthropic-bd-claude-cowork-inbound-outbound.md` (sha256 `4f057909d799c3d34f4c79cf674c1d7fa06493e8d90b1ae6dc193972118c183b`)
+- Assets: 8 localized images under `assets/external/cdn.prod.website-files.com/` (article UI + OG; author marks UI as synthetic/anonymized)
+- Added pages:
+  - `wiki/sources/anthropic-bd-claude-cowork.md`
+  - `wiki/entities/anthropic.md`
+  - `wiki/concepts/human-in-the-loop-gtm.md`
+  - `10_Reference/tools/claude-cowork.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/high-agency.md`
+  - `wiki/concepts/barbell-strategy.md`
+  - `wiki/entities/xai.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Strategy/Sales.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Pattern: sales KB first → hourly inbox drafts + overnight book research → human on every send; Salesforce updates only with evidence + reject ledger.
+  - Author claims: ~5h/day inbound before; ~100 accounts covered after. Single-source, not independently audited.
+  - Do not stand up auto-outbound from this ingest.
+
 ## [2026-08-14] update | X algorithm default ranking weights
 - Source: user summary + verified against `home-mixer/params/param.rs` (public raw, 2026-08-14)
 - Updated pages:

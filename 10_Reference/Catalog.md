@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **27**
+Всего: **31**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -23,6 +23,10 @@
 - [[wiki/concepts/high-agency|High agency]]
 - [[wiki/concepts/idea-as-function-of-assets|Idea = f(assets)]]
 - [[wiki/concepts/shokunin|Shokunin]]
+- [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork (source)]]
+- [[wiki/entities/anthropic|Anthropic]]
+- [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]]
+- [[10_Reference/tools/claude-cowork|Claude Cowork]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

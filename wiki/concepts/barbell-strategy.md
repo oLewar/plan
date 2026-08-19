@@ -26,8 +26,10 @@ Middle noise     →  false certainty, FOMO churn
 - Совместимо с mission: сначала causal invariants, потом tool-leverage.
 - Защита от AI FOMO при product strategy ([[25_Projects/1M_Strategy/Overview|1M Strategy]]).
 - Партнёр к [[wiki/concepts/idea-as-function-of-assets|idea = f(assets)]].
+- GTM analog: frontier Cowork skills + timeless «не отправляй непрочитанное» ([[wiki/concepts/human-in-the-loop-gtm]]).
 
 ## Sources
 
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07]]
-- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/entities/arman-suleimenov]]
+- [[wiki/sources/anthropic-bd-claude-cowork]]
+- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]]

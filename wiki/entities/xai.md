@@ -11,6 +11,7 @@
 - Publisher of the public **X For You** ranking/visibility stack (`xai-org/x-algorithm`).
 - Overlaps mission interest: large-scale causal systems where ML scores meet hard policy filters.
 - Adjacent to AI Signal Monitor tracking of X AI accounts and distribution dynamics.
+- Contrast lab in vault: [[wiki/entities/anthropic]] (public BD/Cowork GTM case, not ranking code).
 
 ## Related
 

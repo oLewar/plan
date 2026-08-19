@@ -26,3 +26,4 @@ tags:
 - child online safety
 - agent harness / software factory / multi-agent orchestration
 - Codex / Claude Code / OpenCode / Bilge-like coding agents
+- HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]
