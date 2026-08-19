@@ -3,6 +3,29 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-19] ingest | OWASP Agent Memory Guard (ASI06)
+- Source processed: https://github.com/OWASP/www-project-agent-memory-guard (README + API/tree + pyproject 0.3.0)
+- Raw:
+  - `raw/owasp-www-project-agent-memory-guard-readme.md` (sha256 `6a26eed2ebd7ecc6d68817570259eba5ddfeaa419206fe11016b64fb54c782fd`)
+- Added pages:
+  - `wiki/sources/owasp-agent-memory-guard.md`
+  - `wiki/entities/owasp.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `10_Reference/tools/owasp-agent-memory-guard.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+- Notes:
+  - Incubator; leaders Vaishnavi Gudur + Anshul Rajkumar; Apache-2.0; PyPI `agent-memory-guard` 0.3.0.
+  - Pattern: MemoryGuard between agent and store; detectors + YAML policy; snapshots/rollback; source_class provenance.
+  - README benchmark 92.5% recall / 0% FPR / 59 µs — not re-run. ROADMAP.md stale vs tree.
+  - Hermes: reference only, no runtime wrap.
+
 ## [2026-08-19] ingest | Anthropic BD uses Claude Cowork for inbound/outbound
 - Source processed: https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale (John Albert, published 2026-08-07)
 - Capture: live HTML 2026-08-19 (Firecrawl/web_extract 400 on claude.com; curl 200). Wayback sibling `20260819134644`.

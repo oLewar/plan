@@ -23,8 +23,10 @@
 - [[wiki/sources/mattpocock-skills|Matt Pocock Skills]] — composable agent skills for real engineering (grill, TDD, architecture, tickets).
 - [[wiki/sources/x-algorithm|X For You Feed Algorithm (xai-org/x-algorithm)]] — For You ranking/visibility; defaults: copy +20, reply/quote +5, follow +4, like +0.5; report −234.
 - [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork]] — inbound/outbound at scale: KB → hourly drafts → HITL send; overnight book research.
+- [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime guard: mediate memory writes; 0.3.0; local, no API keys.
 
 ## Entities
+- [[wiki/entities/owasp|OWASP]] — ASI06 / agent-security standards home; AMG incubator.
 - [[wiki/entities/anthropic|Anthropic]] — Claude lab; internal BDR playbook on Cowork skills/schedules.
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
 - [[wiki/entities/nfactorial-school|nFactorial School]] — selective build+launch+monetize incubator / education community.
@@ -40,6 +42,7 @@
 - [[wiki/concepts/shokunin|Shokunin]] — lifelong craftsmanship как антидот к tool-democratization.
 - [[wiki/concepts/multi-action-feed-ranking|Multi-action feed ranking]] — multi-action prediction + explicit weights; X defaults not like-optimized; ranking ≠ visibility.
 - [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]] — KB + skills + schedule + human send; CRM writes need evidence and reject-ledger.
+- [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]] — persistent memory as privileged next-turn input; write-gate ≠ prompt-filter.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -49,6 +52,7 @@
 - [[10_Reference/tools/x-algorithm|X For You Feed Algorithm]] — open-source X ranking/visibility stack (xai-org/x-algorithm).
 - [[10_Reference/Strategy/marketing|Marketing]] — маркетинговые принципы, naming, аудитория, elevator pitch и заметки по AI search optimization / AEO / GEO.
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — skills/schedules/connectors; Anthropic BD inbound+outbound pattern (HITL).
+- [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — Python runtime + CLI/Action/MCP for ASI06 memory writes.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **31**
+Всего: **35**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -27,6 +27,10 @@
 - [[wiki/entities/anthropic|Anthropic]]
 - [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]]
 - [[10_Reference/tools/claude-cowork|Claude Cowork]]
+- [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard (source)]]
+- [[wiki/entities/owasp|OWASP]]
+- [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]]
+- [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

@@ -25,4 +25,7 @@
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — Anthropic BD: inbound/outbound skills + HITL send
 - [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork (source)]] — John Albert, 2026-08-07
 - [[wiki/entities/anthropic|Anthropic]] / [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]]
+- [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime memory write-gate
+- [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard (source)]] — README + tree, packaged 0.3.0
+- [[wiki/entities/owasp|OWASP]] / [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

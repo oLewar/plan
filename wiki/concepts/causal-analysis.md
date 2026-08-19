@@ -32,8 +32,10 @@
 - **Idea = f(assets)**: enabling causes of success often pre-exist in network/expertise, not in abstract ambition ([[wiki/concepts/idea-as-function-of-assets]]).
 - **Usage-without-opportunity**: product already in use + no CRM opportunity is a higher-confidence outbound cause than a cold list ([[wiki/sources/anthropic-bd-claude-cowork]]).
 - **Reject-reason ledger**: writing *why* a draft/CRM proposal failed is the causal feedback that stops the same error next cycle ([[wiki/concepts/human-in-the-loop-gtm]]).
+- **Poisoned memory → next-turn privileged input**: the cause is a successful *write*, not the current prompt; reset does not break the chain ([[wiki/concepts/memory-poisoning]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
 - `[[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07]]`
 - `[[wiki/sources/anthropic-bd-claude-cowork]]`
+- `[[wiki/sources/owasp-agent-memory-guard]]`

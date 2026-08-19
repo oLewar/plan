@@ -8,6 +8,7 @@
 - Источники в `raw/` immutable.
 - Каждая значимая мысль из исследования должна попадать в wiki-страницы.
 - Безопасность — обязательный фильтр всех действий.
+- Persistent memory (wiki / Hermes memories / SOUL) is a privileged next-turn input — treat writes as an ASI06 surface ([[wiki/concepts/memory-poisoning]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.
