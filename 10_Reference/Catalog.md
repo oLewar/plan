@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **35**
+Всего: **39**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -31,6 +31,10 @@
 - [[wiki/entities/owasp|OWASP]]
 - [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]]
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]]
+- [[wiki/sources/deepseek-harness|DeepSeek Harness (source)]]
+- [[wiki/entities/deepseek|DeepSeek]]
+- [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]]
+- [[10_Reference/tools/deepseek-harness|DeepSeek Harness]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

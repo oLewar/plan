@@ -24,7 +24,7 @@
 - Concept: [[wiki/concepts/human-in-the-loop-gtm]]
 - Tool: [[10_Reference/tools/claude-cowork]]
 - Sales: [[10_Reference/Strategy/Sales]]
-- Contrast lab: [[wiki/entities/xai]]
+- Contrast lab: [[wiki/entities/xai]], [[wiki/entities/deepseek]] (public coding harness `dsh`, not GTM).
 
 ## Sources
 

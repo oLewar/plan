@@ -3,6 +3,34 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-20] ingest | DeepSeek Harness (dsh)
+- Source processed: https://github.com/deepseek-ai/deepseek-harness (README master + architecture/AGENTS/packages/CLI/Python + npm)
+- Raw:
+  - `raw/deepseek-ai-deepseek-harness-readme.md` (sha256 `cd7f5d59b4e9c27bb6a0480b131a7e0712ac0d33dd5b3a02deba7e5318dfcc38`)
+- Added pages:
+  - `wiki/sources/deepseek-harness.md`
+  - `wiki/entities/deepseek.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `10_Reference/tools/deepseek-harness.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/entities/anthropic.md`
+  - `wiki/entities/xai.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; developer preview; breaking changes; external PRs not accepted (plugins via `dsh-plugin`).
+  - Cordis: everything is a plugin including the agent loop; profiles stack bundles (`dsh-base` first) then YAML patches.
+  - Run: `npx @deepseek-ai/dsh web` → `:3080`. npm latest `0.1.0-rc.7`, next `0.1.0-rc.8`; repo package.json `0.1.0-rc.8`.
+  - Stars ~172k (API 2026-08-20) ≠ maturity (repo created 2026-08-13).
+  - Hermes: reference only, not installed. Not cloned; not run.
+
 ## [2026-08-19] ingest | OWASP Agent Memory Guard (ASI06)
 - Source processed: https://github.com/OWASP/www-project-agent-memory-guard (README + API/tree + pyproject 0.3.0)
 - Raw:

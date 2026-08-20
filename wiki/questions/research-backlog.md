@@ -6,6 +6,7 @@
 3. Где у нас системные blind spots (темы без источников или слабо связные узлы)?
 4. Как автоматизировать lint-отчёт без потери качества?
 5. Какие write-path'ы Hermes/Chappy/`pro/plan` эквивалентны ASI06 memory (memories, SOUL, vault ingest, cron outputs) и нужен ли runtime guard?
+6. Можно ли в DeepSeek Harness реально заменить `agent-loop` / sandbox provider без форка (Hypothesis: everything-is-a-plugin)? Стоит ли это vs Hermes skills?
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -15,3 +16,4 @@
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
 - `[[wiki/sources/owasp-agent-memory-guard]]`
+- `[[wiki/sources/deepseek-harness]]`
