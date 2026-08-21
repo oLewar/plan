@@ -31,4 +31,7 @@
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]] — `dsh` plugin harness (Cordis); developer preview
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (source)]] — README + architecture, npm RC
 - [[wiki/entities/deepseek|DeepSeek]] / [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]]
+- [[10_Reference/tools/pstack|pstack]] — Cursor plugin: `/poteto-mode` playbook router
+- [[wiki/sources/pstack|pstack (source)]] — README + plugin.json 0.14.2 + setup defaults
+- [[wiki/entities/cursor|Cursor]] / [[wiki/entities/lauren-tan|Lauren Tan]] / [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

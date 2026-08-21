@@ -27,4 +27,5 @@ tags:
 - agent harness / software factory / multi-agent orchestration
 - Codex / Claude Code / OpenCode / Bilge-like coding agents
 - DeepSeek Harness (`dsh`, Cordis plugins): [[wiki/sources/deepseek-harness]], [[wiki/concepts/everything-is-a-plugin]]
+- pstack / playbook-routed Cursor agent style: [[wiki/sources/pstack]], [[wiki/concepts/playbook-routed-agent-mode]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

@@ -43,6 +43,7 @@ curated KB (FAQ + best answers, stale-flagged)
 - Совместим с [[wiki/concepts/efficiency-metric]]: режем cost повторяшек, не режем safety/trust.
 - Дополняет [[wiki/concepts/high-agency]]: агент не выбирает цель сделки, человек остаётся principal.
 - Совместим с [[wiki/concepts/barbell-strategy]]: frontier Cowork + вечный «не отправляй непрочитанное».
+- Не импортировать pstack **never-block-on-the-human** на customer send: coding autonomy ≠ GTM send ([[wiki/concepts/playbook-routed-agent-mode]]).
 
 ## Status
 

@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **39**
+Всего: **44**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -35,6 +35,11 @@
 - [[wiki/entities/deepseek|DeepSeek]]
 - [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]]
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]]
+- [[wiki/sources/pstack|pstack (source)]]
+- [[wiki/entities/cursor|Cursor]]
+- [[wiki/entities/lauren-tan|Lauren Tan (`poteto`)]]
+- [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]]
+- [[10_Reference/tools/pstack|pstack]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

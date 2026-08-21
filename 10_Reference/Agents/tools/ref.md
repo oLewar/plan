@@ -32,6 +32,8 @@ https://github.com/A-EVO-Lab/a-evolve
 
 https://github.com/mattpocock/skills
 
+https://github.com/cursor/plugins/tree/main/pstack
+
 https://github.com/artwist-polyakov/polyakov-claude-skills/tree/89ba75c820f0574c678b2df2b35695671341d4b4
 
 https://github.com/router-for-me/CLIProxyAPI

@@ -58,6 +58,7 @@
 - Паттерны **grill → shared language → tickets/spec → implement+tdd → review** хорошо ложатся на autonomous coding (issues → worktrees → evidence gates).
 - Концепты для переноса: grilling as alignment, `CONTEXT.md` as domain glossary, ADR capture, architecture survey cadence.
 - Не путать с generic «agent skills» dump-репозиториями: здесь акцент на engineering fundamentals + control, не vibe-coding process takeover.
+- Сосед по тезису «меньше slop, больше engineering»: [[wiki/sources/pstack]] (sticky playbook router on Cursor, not independently invoked skills).
 
 ## Status
 

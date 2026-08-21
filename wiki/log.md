@@ -3,6 +3,36 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-21] ingest | pstack (cursor/plugins)
+- Source processed: https://github.com/cursor/plugins/tree/main/pstack (README + plugin.json 0.14.2 + `/poteto-mode` + `/setup-pstack` + guide + GitHub API tree/commits)
+- Raw:
+  - `40_Research/sources/agent-dev/cursor-plugins-pstack-readme.md` (sha256 `7b2994ff3caa430bbdd5734e24f7b2f18afeee2dd0893e5dbbce0fca2790ce8d`; cron-routed from `raw/` inbox same day)
+- Added pages:
+  - `wiki/sources/pstack.md`
+  - `wiki/entities/cursor.md`
+  - `wiki/entities/lauren-tan.md`
+  - `wiki/concepts/playbook-routed-agent-mode.md`
+  - `10_Reference/tools/pstack.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/sources/mattpocock-skills.md`
+  - `wiki/entities/anthropic.md`
+  - `wiki/entities/deepseek.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/ref.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT (Lauren Tan); Cursor plugin, not a standalone CLI. Install: `/add-plugin pstack`.
+  - Sticky `/poteto-mode` copies playbook steps verbatim; 21 principles; default panel fable/sol/grok/opus 5.
+  - README markets 22 playbooks; tree also has `opening-a-pr.md` as shared closer (23 files).
+  - Complementary `cursor-team-kit` not ingested. Hermes: reference only.
+
 ## [2026-08-20] ingest | DeepSeek Harness (dsh)
 - Source processed: https://github.com/deepseek-ai/deepseek-harness (README master + architecture/AGENTS/packages/CLI/Python + npm)
 - Raw:

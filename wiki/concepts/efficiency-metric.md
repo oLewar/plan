@@ -23,6 +23,7 @@
 - **HITL GTM**: cut 5h/day inbox grind via hourly drafts, keep human send (trust/safety stays in the denominator) ([[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]).
 - **Memory write-gate**: cheap local ASI06 check (AMG claims µs, no API) keeps Safety from collapsing when agents persist notes/goals ([[wiki/sources/owasp-agent-memory-guard]], [[wiki/concepts/memory-poisoning]]).
 - **Plugin composition vs fork**: swapping a capability provider (sandbox/FS/LLM) is cheaper than maintaining a privileged loop fork — *if* unload/effects are real ([[wiki/sources/deepseek-harness]], [[wiki/concepts/everything-is-a-plugin]]).
+- **Playbook-routed mode**: copying named steps verbatim is cheap insurance against silent skip of evidence gates; false «done» is the expensive failure ([[wiki/sources/pstack]], [[wiki/concepts/playbook-routed-agent-mode]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -30,3 +31,4 @@
 - `[[wiki/sources/anthropic-bd-claude-cowork]]`
 - `[[wiki/sources/owasp-agent-memory-guard]]`
 - `[[wiki/sources/deepseek-harness]]`
+- `[[wiki/sources/pstack]]`

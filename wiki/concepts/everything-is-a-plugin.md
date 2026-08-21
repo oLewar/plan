@@ -33,6 +33,7 @@ Swap the provider → Bash, PTY, LSP move with it.
 | Privileged loop (typical coding CLI) | agent loop is the product | hooks / tools / skills around the loop |
 | Plugin harness (DSH claim) | loop is a plugin | mount + patch; unload is defined |
 | Hermes skills | skills/tools around a host loop | SKILL.md + tools; loop not user-replaceable |
+| Playbook-routed mode ([[wiki/concepts/playbook-routed-agent-mode]]) | host loop unchanged | sticky `/mode` + playbooks wrap the loop (pstack on Cursor) |
 
 Status of “loop is really replaceable in production”: **Hypothesis** until we run DSH and swap `dsh-agent-loop`.
 
@@ -57,7 +58,7 @@ Status of “loop is really replaceable in production”: **Hypothesis** until w
 - Source: [[wiki/sources/deepseek-harness]]
 - Entity: [[wiki/entities/deepseek]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
-- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates)
+- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace)
 
 ## Sources
 

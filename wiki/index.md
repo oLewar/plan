@@ -25,6 +25,7 @@
 - [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork]] — inbound/outbound at scale: KB → hourly drafts → HITL send; overnight book research.
 - [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime guard: mediate memory writes; 0.3.0; local, no API keys.
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (dsh)]] — plugin agent harness on Cordis; developer preview; `npx @deepseek-ai/dsh web`.
+- [[wiki/sources/pstack|pstack (cursor/plugins)]] — Cursor plugin: sticky `/poteto-mode`, 21 principles, multi-model panels; MIT 0.14.2.
 
 ## Entities
 - [[wiki/entities/deepseek|DeepSeek]] — lab; models + public harness `dsh`.
@@ -33,6 +34,8 @@
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
 - [[wiki/entities/nfactorial-school|nFactorial School]] — selective build+launch+monetize incubator / education community.
 - [[wiki/entities/xai|xAI]] — AI lab; publisher of public X For You algorithm stack.
+- [[wiki/entities/cursor|Cursor]] — AI code editor; host of official `cursor/plugins` (pstack).
+- [[wiki/entities/lauren-tan|Lauren Tan (`poteto`)]] — pstack author; React Compiler / Cursor.
 
 ## Concepts
 - [[wiki/concepts/causal-analysis|Causal analysis]] — причинно-следственные связи и уровни уверенности.
@@ -46,6 +49,7 @@
 - [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]] — KB + skills + schedule + human send; CRM writes need evidence and reject-ledger.
 - [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]] — persistent memory as privileged next-turn input; write-gate ≠ prompt-filter.
 - [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]] — no privileged agent loop; compose profiles/bundles/patches; unload = unwind effects.
+- [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]] — sticky mode matches a playbook, copies steps verbatim, routes skills; pstack `/poteto-mode`.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -57,6 +61,7 @@
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — skills/schedules/connectors; Anthropic BD inbound+outbound pattern (HITL).
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — Python runtime + CLI/Action/MCP for ASI06 memory writes.
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]] — `dsh` CLI/Web UI; Cordis plugins; npm RC.
+- [[10_Reference/tools/pstack|pstack]] — Cursor `/add-plugin pstack`; `/poteto-mode` + `/setup-pstack`.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.
