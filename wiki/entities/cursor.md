@@ -11,7 +11,7 @@
 
 - Host of **pstack** (Lauren Tan / poteto): official plugin that encodes a rigorous multi-model engineering style on top of Cursor's agent loop.
 - Adjacent research already in vault: adversarial multi-model review as a *local* Cursor plugin (`40_Research/sources/finance/joi-labcursor-multimodel-review…`) — different artifact from official `pstack`.
-- Contrast labs/products: [[wiki/entities/anthropic]] (Claude Code + Cowork), [[wiki/entities/deepseek]] (`dsh` plugin harness), Hermes/Chappy (skills around a host loop).
+- Contrast labs/products: [[wiki/entities/anthropic]] (Claude Code + Cowork), [[wiki/entities/deepseek]] (`dsh` plugin harness), [[wiki/entities/herdr]] (PTY runtime), Hermes/Chappy (skills around a host loop).
 
 ## What this vault currently knows
 
@@ -26,7 +26,7 @@
 - People: [[wiki/entities/lauren-tan]]
 - Concept: [[wiki/concepts/playbook-routed-agent-mode]]
 - Tool: [[10_Reference/tools/pstack]]
-- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/deepseek]]
+- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/deepseek]], [[wiki/entities/herdr]]
 
 ## Sources
 

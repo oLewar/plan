@@ -35,6 +35,7 @@
 - **Poisoned memory → next-turn privileged input**: the cause is a successful *write*, not the current prompt; reset does not break the chain ([[wiki/concepts/memory-poisoning]]).
 - **Loop as plugin**: if the driver is a row in a patchable tree, “we use Claude Code / Hermes” is a *composition choice*, not an identity of the product ([[wiki/concepts/everything-is-a-plugin]]).
 - **Silent skip of a named gate**: the cause of slop-ship is dropping `architect` / prove-it-works after reading a playbook, not «the model is dumb» ([[wiki/concepts/playbook-routed-agent-mode]]).
+- **UI quit ≠ process death**: if the runtime owns PTYs, closing the TUI is not a cause of a stopped agent; if a manager app owns the process, it is ([[wiki/concepts/agent-runtime-multiplexer]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -43,3 +44,4 @@
 - `[[wiki/sources/owasp-agent-memory-guard]]`
 - `[[wiki/sources/deepseek-harness]]`
 - `[[wiki/sources/pstack]]`
+- `[[wiki/sources/herdr]]`

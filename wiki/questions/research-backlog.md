@@ -8,6 +8,7 @@
 5. Какие write-path'ы Hermes/Chappy/`pro/plan` эквивалентны ASI06 memory (memories, SOUL, vault ingest, cron outputs) и нужен ли runtime guard?
 6. Можно ли в DeepSeek Harness реально заменить `agent-loop` / sandbox provider без форка (Hypothesis: everything-is-a-plugin)? Стоит ли это vs Hermes skills?
 7. Стоит ли портировать pstack-паттерн (verbatim playbook steps + named principles + multi-model interrogate) в Hermes/Chappy, или достаточно process-borrow? Fusion остаётся explicit-request-only.
+8. Нужен ли Herdr как outer runtime для параллельных Hermes/Claude/Codex pane (Hypothesis: agent-runtime multiplexer beats tmux here)? Не ставить, пока нет явного запроса и smoke-test.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -19,3 +20,4 @@
 - `[[wiki/sources/owasp-agent-memory-guard]]`
 - `[[wiki/sources/deepseek-harness]]`
 - `[[wiki/sources/pstack]]`
+- `[[wiki/sources/herdr]]`

@@ -34,6 +34,7 @@ Swap the provider → Bash, PTY, LSP move with it.
 | Plugin harness (DSH claim) | loop is a plugin | mount + patch; unload is defined |
 | Hermes skills | skills/tools around a host loop | SKILL.md + tools; loop not user-replaceable |
 | Playbook-routed mode ([[wiki/concepts/playbook-routed-agent-mode]]) | host loop unchanged | sticky `/mode` + playbooks wrap the loop (pstack on Cursor) |
+| Agent-runtime multiplexer ([[wiki/concepts/agent-runtime-multiplexer]]) | host loop unchanged; **place** is the product | attach/detach around existing CLIs (Herdr) |
 
 Status of “loop is really replaceable in production”: **Hypothesis** until we run DSH and swap `dsh-agent-loop`.
 
@@ -58,7 +59,7 @@ Status of “loop is really replaceable in production”: **Hypothesis** until w
 - Source: [[wiki/sources/deepseek-harness]]
 - Entity: [[wiki/entities/deepseek]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
-- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace)
+- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace), [[wiki/concepts/agent-runtime-multiplexer]] (place ≠ loop)
 
 ## Sources
 

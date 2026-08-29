@@ -26,8 +26,10 @@
 - [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime guard: mediate memory writes; 0.3.0; local, no API keys.
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (dsh)]] — plugin agent harness on Cordis; developer preview; `npx @deepseek-ai/dsh web`.
 - [[wiki/sources/pstack|pstack (cursor/plugins)]] — Cursor plugin: sticky `/poteto-mode`, 21 principles, multi-model panels; MIT 0.14.2.
+- [[wiki/sources/herdr|Herdr (herdrdev/herdr)]] — agent-runtime multiplexer; Apache-2.0; v0.8.2; server owns PTYs; Hermes is a first-class agent.
 
 ## Entities
+- [[wiki/entities/herdr|Herdr]] — YC F26 runtime; org `herdrdev`; founder Can (`ogulcancelik`).
 - [[wiki/entities/deepseek|DeepSeek]] — lab; models + public harness `dsh`.
 - [[wiki/entities/owasp|OWASP]] — ASI06 / agent-security standards home; AMG incubator.
 - [[wiki/entities/anthropic|Anthropic]] — Claude lab; internal BDR playbook on Cowork skills/schedules.
@@ -50,6 +52,7 @@
 - [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]] — persistent memory as privileged next-turn input; write-gate ≠ prompt-filter.
 - [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]] — no privileged agent loop; compose profiles/bundles/patches; unload = unwind effects.
 - [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]] — sticky mode matches a playbook, copies steps verbatim, routes skills; pstack `/poteto-mode`.
+- [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]] — server owns PTYs + semantic agent state; UI is a client; Herdr.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -62,6 +65,7 @@
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — Python runtime + CLI/Action/MCP for ASI06 memory writes.
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]] — `dsh` CLI/Web UI; Cordis plugins; npm RC.
 - [[10_Reference/tools/pstack|pstack]] — Cursor `/add-plugin pstack`; `/poteto-mode` + `/setup-pstack`.
+- [[10_Reference/tools/herdr|Herdr]] — `herdr` TUI/server; `herdr integration install hermes`; reference only.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

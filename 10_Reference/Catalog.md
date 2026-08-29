@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **44**
+Всего: **48**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -40,6 +40,10 @@
 - [[wiki/entities/lauren-tan|Lauren Tan (`poteto`)]]
 - [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]]
 - [[10_Reference/tools/pstack|pstack]]
+- [[wiki/sources/herdr|Herdr (source)]]
+- [[wiki/entities/herdr|Herdr]]
+- [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]]
+- [[10_Reference/tools/herdr|Herdr]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

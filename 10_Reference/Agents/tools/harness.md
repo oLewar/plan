@@ -9,3 +9,8 @@ https://github.com/deepseek-ai/deepseek-harness
 https://deepseek.com/harness
 
 Wiki: [[wiki/sources/deepseek-harness]] · [[10_Reference/tools/deepseek-harness]]
+
+https://github.com/herdrdev/herdr
+https://herdr.dev/
+
+Wiki: [[wiki/sources/herdr]] · [[10_Reference/tools/herdr]]

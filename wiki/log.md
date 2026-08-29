@@ -3,6 +3,34 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-29] ingest | Herdr (herdrdev/herdr)
+- Source processed: https://herdr.dev/ + https://github.com/herdrdev/herdr (README master + docs: concepts/agents/session-state/integrations/automation/socket/plugins/install/remote/skill/compare + agent-guide.md + YC blog + Cargo.toml + GitHub API)
+- Raw:
+  - `raw/herdrdev-herdr-readme.md` (sha256 `d590c81b14ff17a5922e3cb9da1a12652263fc596e451d413c423b7bf099fc2c`)
+- Added pages:
+  - `wiki/sources/herdr.md`
+  - `wiki/entities/herdr.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `10_Reference/tools/herdr.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/playbook-routed-agent-mode.md`
+  - `wiki/entities/deepseek.md`
+  - `wiki/entities/cursor.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Apache-2.0 Rust multiplexer; latest **v0.8.2** (2026-08-19). Stars 33397 (API 2026-08-29). YC F26; runtime stays open.
+  - Server owns PTYs; TUI is a client. Does not wrap Claude/Codex/Hermes. Hermes: official session integration, screen-manifest state; docs min version `2` vs `5`.
+  - Plugins unsandboxed; `pane_history` off by default (secrets). Hermes/Chappy: reference only, not installed.
+
 ## [2026-08-21] ingest | pstack (cursor/plugins)
 - Source processed: https://github.com/cursor/plugins/tree/main/pstack (README + plugin.json 0.14.2 + `/poteto-mode` + `/setup-pstack` + guide + GitHub API tree/commits)
 - Raw:

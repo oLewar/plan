@@ -34,4 +34,7 @@
 - [[10_Reference/tools/pstack|pstack]] — Cursor plugin: `/poteto-mode` playbook router
 - [[wiki/sources/pstack|pstack (source)]] — README + plugin.json 0.14.2 + setup defaults
 - [[wiki/entities/cursor|Cursor]] / [[wiki/entities/lauren-tan|Lauren Tan]] / [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]]
+- [[10_Reference/tools/herdr|Herdr]] — agent-runtime multiplexer; Hermes official session integration
+- [[wiki/sources/herdr|Herdr (source)]] — README + docs + GitHub API, v0.8.2
+- [[wiki/entities/herdr|Herdr]] / [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]
