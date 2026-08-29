@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **48**
+Всего: **52**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -44,6 +44,10 @@
 - [[wiki/entities/herdr|Herdr]]
 - [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]]
 - [[10_Reference/tools/herdr|Herdr]]
+- [[wiki/sources/prime-agent|Prime Agent (source)]]
+- [[wiki/entities/prime-intellect|Prime Intellect]]
+- [[wiki/concepts/continual-harness|Continual harness]]
+- [[10_Reference/tools/prime-agent|Prime Agent]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

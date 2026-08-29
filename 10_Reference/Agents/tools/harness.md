@@ -14,3 +14,9 @@ https://github.com/herdrdev/herdr
 https://herdr.dev/
 
 Wiki: [[wiki/sources/herdr]] · [[10_Reference/tools/herdr]]
+
+https://github.com/PrimeIntellect-ai/prime-agent
+https://www.primeintellect.ai/blog/prime-agent
+https://arxiv.org/abs/2608.23552
+
+Wiki: [[wiki/sources/prime-agent]] · [[10_Reference/tools/prime-agent]]

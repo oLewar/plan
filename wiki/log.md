@@ -3,6 +3,35 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-29] ingest | Prime Agent (PrimeIntellect-ai/prime-agent)
+- Source processed: https://github.com/PrimeIntellect-ai/prime-agent (README main + docs index/architecture/rlm/long-running/skills + package.json ×2 + LICENSE + blog + arXiv abstract + GitHub API + herdr-agent-state.ts)
+- Raw:
+  - `raw/PrimeIntellect-ai-prime-agent-readme.md` (sha256 `968b64da5dbd48cabc25f3f0ae0bf36ba3227c115d045d1d89bdf98b790645ec`)
+- Added pages:
+  - `wiki/sources/prime-agent.md`
+  - `wiki/entities/prime-intellect.md`
+  - `wiki/concepts/continual-harness.md`
+  - `10_Reference/tools/prime-agent.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `wiki/entities/herdr.md`
+  - `wiki/entities/deepseek.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; hard fork of `pi`; latest **v0.8.1** (2026-08-26). Stars 19049 (API 2026-08-29). Paper arXiv:2608.23552 (abstract only).
+  - Model tool = persistent IPython; `rlm()` admits children; `/refine` edits supplemental H; base prompt immutable. Daemon owns execution. Not a sandbox.
+  - Built-in Herdr reporter (no-op unless `HERDR_ENV=1`). Factorio blog: `/refine` stored cheat skills. Hermes: reference only, not installed.
+
 ## [2026-08-29] ingest | Herdr (herdrdev/herdr)
 - Source processed: https://herdr.dev/ + https://github.com/herdrdev/herdr (README master + docs: concepts/agents/session-state/integrations/automation/socket/plugins/install/remote/skill/compare + agent-guide.md + YC blog + Cargo.toml + GitHub API)
 - Raw:

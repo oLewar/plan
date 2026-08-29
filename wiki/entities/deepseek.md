@@ -11,7 +11,7 @@
 
 - Publisher of public **agent harness** with plugin/Cordis architecture — peer to Claude Code / Hermes for 1M / software-factory research.
 - Already tracked as lab in [[40_Research/ai-signal-monitor/x-ai-accounts]] (`@deepseek_ai`, Liang Wenfeng, researchers) — this entity is the **product/lab** node, not the X list.
-- Contrast labs in vault: [[wiki/entities/anthropic]] (Claude Code + Cowork GTM), [[wiki/entities/xai]] (Grok + X ranking code), [[wiki/entities/cursor]] (pstack style wrap, loop stays Cursor), [[wiki/entities/herdr]] (PTY runtime, loop stays the CLI).
+- Contrast labs in vault: [[wiki/entities/anthropic]] (Claude Code + Cowork GTM), [[wiki/entities/xai]] (Grok + X ranking code), [[wiki/entities/cursor]] (pstack style wrap, loop stays Cursor), [[wiki/entities/herdr]] (PTY runtime, loop stays the CLI), [[wiki/entities/prime-intellect]] (RLM REPL + `/refine`).
 
 ## What this vault currently knows
 
@@ -25,7 +25,7 @@
 - Concept: [[wiki/concepts/everything-is-a-plugin]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
 - Strategy: [[25_Projects/1M_Strategy/Links]]
-- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/xai]], [[wiki/entities/cursor]], [[wiki/entities/herdr]]
+- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/xai]], [[wiki/entities/cursor]], [[wiki/entities/herdr]], [[wiki/entities/prime-intellect]]
 
 ## Sources
 

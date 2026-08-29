@@ -25,6 +25,7 @@
 - **Plugin composition vs fork**: swapping a capability provider (sandbox/FS/LLM) is cheaper than maintaining a privileged loop fork — *if* unload/effects are real ([[wiki/sources/deepseek-harness]], [[wiki/concepts/everything-is-a-plugin]]).
 - **Playbook-routed mode**: copying named steps verbatim is cheap insurance against silent skip of evidence gates; false «done» is the expensive failure ([[wiki/sources/pstack]], [[wiki/concepts/playbook-routed-agent-mode]]).
 - **Runtime vs viewer**: one blocked-sidebar glance is cheaper than polling terminals; false `blocked` that auto-answers is the expensive failure ([[wiki/sources/herdr]], [[wiki/concepts/agent-runtime-multiplexer]]).
+- **Continual harness**: cheap to persist a lesson from the trajectory; expensive if `/refine` writes an ungated cheat/poison into next-turn memory ([[wiki/sources/prime-agent]], [[wiki/concepts/continual-harness]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -34,3 +35,4 @@
 - `[[wiki/sources/deepseek-harness]]`
 - `[[wiki/sources/pstack]]`
 - `[[wiki/sources/herdr]]`
+- `[[wiki/sources/prime-agent]]`

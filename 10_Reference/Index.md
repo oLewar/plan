@@ -37,4 +37,7 @@
 - [[10_Reference/tools/herdr|Herdr]] — agent-runtime multiplexer; Hermes official session integration
 - [[wiki/sources/herdr|Herdr (source)]] — README + docs + GitHub API, v0.8.2
 - [[wiki/entities/herdr|Herdr]] / [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]]
+- [[10_Reference/tools/prime-agent|Prime Agent]] — RLM harness; `/refine`; built-in Herdr reporter
+- [[wiki/sources/prime-agent|Prime Agent (source)]] — README + architecture/rlm docs + v0.8.1
+- [[wiki/entities/prime-intellect|Prime Intellect]] / [[wiki/concepts/continual-harness|Continual harness]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

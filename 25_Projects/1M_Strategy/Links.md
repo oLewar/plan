@@ -29,4 +29,5 @@ tags:
 - DeepSeek Harness (`dsh`, Cordis plugins): [[wiki/sources/deepseek-harness]], [[wiki/concepts/everything-is-a-plugin]]
 - pstack / playbook-routed Cursor agent style: [[wiki/sources/pstack]], [[wiki/concepts/playbook-routed-agent-mode]]
 - Herdr / agent-runtime multiplexer (PTY server, not a loop): [[wiki/sources/herdr]], [[wiki/concepts/agent-runtime-multiplexer]]
+- Prime Agent / continual RLM harness (`/refine`, daemon workers): [[wiki/sources/prime-agent]], [[wiki/concepts/continual-harness]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

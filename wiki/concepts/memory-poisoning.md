@@ -51,4 +51,4 @@ memory store →  injected on next turn as "what we already know"
 ## Sources
 
 - [[wiki/sources/owasp-agent-memory-guard]]
-- Related: [[wiki/entities/owasp]], [[10_Reference/tools/owasp-agent-memory-guard]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/efficiency-metric]]
+- Related: [[wiki/entities/owasp]], [[10_Reference/tools/owasp-agent-memory-guard]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/continual-harness]] (Prime Agent `/refine` is a first-class self-write; Factorio RCON cheat skills are the cautionary case)
