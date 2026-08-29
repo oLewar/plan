@@ -26,13 +26,13 @@ Prime Agent: A Self-Improving RLM Harness
 
 <p align="center">
   <a href="https://github.com/PrimeIntellect-ai/prime-agent/actions/workflows/ci.yml">
-    <img src="https://github.com/PrimeIntellect-ai/prime-agent/actions/workflows/ci.yml/badge.svg" alt="CI" />
+    <img src="../../../assets/external/github.com/45b361238c140911.svg" alt="CI" />
   </a>
   <a href="https://github.com/PrimeIntellect-ai/prime-agent/actions/workflows/build-binaries.yml">
-    <img src="https://github.com/PrimeIntellect-ai/prime-agent/actions/workflows/build-binaries.yml/badge.svg" alt="Build Binaries" />
+    <img src="../../../assets/external/github.com/edcd6e250aff9a29.svg" alt="Build Binaries" />
   </a>
   <a href="https://arxiv.org/abs/2608.23552">
-    <img src="https://img.shields.io/badge/arXiv-2608.23552-b31b1b.svg" alt="arXiv" />
+    <img src="../../../assets/external/img.shields.io/2047acf8f427faf0.svg" alt="arXiv" />
   </a>
 </p>
 
