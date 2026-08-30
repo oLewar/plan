@@ -16,7 +16,7 @@ title: oMLX
 <p align="center"><b>LLM inference, optimized for your Mac</b><br>Continuous batching and tiered KV caching, managed directly from your menu bar.</p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/jundot"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+<a href="https://www.buymeacoffee.com/jundot"><img src="../../../assets/external/cdn.buymeacoffee.com/2d5a22738a80127b.png" alt="Buy Me A Coffee" height="40"></a>
 </p>
 
 <p align="center">
