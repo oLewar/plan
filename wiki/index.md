@@ -28,6 +28,7 @@
 - [[wiki/sources/pstack|pstack (cursor/plugins)]] — Cursor plugin: sticky `/poteto-mode`, 21 principles, multi-model panels; MIT 0.14.2.
 - [[wiki/sources/herdr|Herdr (herdrdev/herdr)]] — agent-runtime multiplexer; Apache-2.0; v0.8.2; server owns PTYs; Hermes is a first-class agent.
 - [[wiki/sources/prime-agent|Prime Agent (PrimeIntellect-ai/prime-agent)]] — self-improving RLM harness; MIT v0.8.1; persistent IPython + `/refine`.
+- [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]] — Jentzen/Kuckuck/von Wurstemberger; v3 737 pp.; ANN + composed error + PINNs.
 
 ## Entities
 - [[wiki/entities/prime-intellect|Prime Intellect]] — lab; Prime Agent + prime-rl / verifiers (latter not ingested).
@@ -56,6 +57,7 @@
 - [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]] — sticky mode matches a playbook, copies steps verbatim, routes skills; pstack `/poteto-mode`.
 - [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]] — server owns PTYs + semantic agent state; UI is a client; Herdr.
 - [[wiki/concepts/continual-harness|Continual harness]] — agent CRUD on supplemental prompts/memories/skills/subagents; `/refine`; base prompt frozen.
+- [[wiki/concepts/composed-error-analysis|Composed error analysis]] — overall ANN error = approximation + optimization + generalization.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.

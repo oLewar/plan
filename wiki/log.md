@@ -3,6 +3,30 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-30] ingest | Mathematical Introduction to Deep Learning (arXiv:2310.20360)
+- Source processed: https://arxiv.org/abs/2310.20360 (v3 abs + PDF outline 298 bookmarks + author comment) + https://github.com/introdeeplearning/book (README + GitHub API)
+- Raw:
+  - `raw/arxiv-2310.20360-abstract.md` (sha256 `d45e4f0cf0a59242eef5b286f40931728b8b512bcb12b17ef630c437a7421cf2`)
+  - `raw/introdeeplearning-book-readme.md` (sha256 `d1dfab2247464a5939414d00364bfca0fbf853ecc1615b222fc05986ffcbf553`)
+- Added pages:
+  - `wiki/sources/mathematical-introduction-to-deep-learning.md`
+  - `wiki/concepts/composed-error-analysis.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/barbell-strategy.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+- Notes:
+  - Preprint textbook; **v3** 2025-07-15; **737 pages** / 33 figs / 45 codes / 87 exercises. Authors: Jentzen, Kuckuck, von Wurstemberger.
+  - Six parts: ANNs + calculus; approximation; optimization (GF/GD/SGD, backprop, KL, BN; v3 adds Nadam/AdamW/Shampoo/Muon/AMSGrad); generalization; composed error; PINN/DGM/DKM for PDEs.
+  - PDF 9 299 734 B, sha256 `6c1edc5b72efff2244ac1506abb9045c752e56992d4a77803a966a14d4670684` — **not** committed (canonical on arXiv). Depth: abstract + v3 TOC, not chapter proofs. Companion code README-level; repo has no SPDX license.
+
 ## [2026-08-29] ingest | Prime Agent (PrimeIntellect-ai/prime-agent)
 - Source processed: https://github.com/PrimeIntellect-ai/prime-agent (README main + docs index/architecture/rlm/long-running/skills + package.json ×2 + LICENSE + blog + arXiv abstract + GitHub API + herdr-agent-state.ts)
 - Raw:

@@ -20,6 +20,8 @@
 - [[wiki/sources/x-algorithm|X For You Feed Algorithm (source)]] — architecture + multi-action ranking notes
 - [[wiki/entities/xai|xAI]] / [[wiki/concepts/multi-action-feed-ranking|Multi-action feed ranking]]
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life]] — Kirschner & Gerhart, evo-devo / facilitated variation
+- [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning]] — Jentzen et al., arXiv:2310.20360 v3; ANN math + composed error
+- [[wiki/concepts/composed-error-analysis|Composed error analysis]] — approximation + optimization + generalization
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat: Арман Сулейменов]] — nFactorial, vibe coding, barbell, high agency, idea=f(assets)
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] / [[wiki/entities/nfactorial-school|nFactorial School]]
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — Anthropic BD: inbound/outbound skills + HITL send

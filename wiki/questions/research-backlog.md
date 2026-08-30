@@ -10,6 +10,7 @@
 7. Стоит ли портировать pstack-паттерн (verbatim playbook steps + named principles + multi-model interrogate) в Hermes/Chappy, или достаточно process-borrow? Fusion остаётся explicit-request-only.
 8. Нужен ли Herdr как outer runtime для параллельных Hermes/Claude/Codex pane (Hypothesis: agent-runtime multiplexer beats tmux here)? Не ставить, пока нет явного запроса и smoke-test.
 9. Стоит ли заимствовать Continual Harness (`/refine` + harness CRUD) vs держать SOUL/memories human-gated (Hypothesis: ungated refine poisons skills — Factorio RCON)? Paper PDF ещё не читали.
+10. Стоит ли читать Jentzen et al. (arXiv:2310.20360) дальше TOC — с Ch.14–15 (composed error) как минимальный рычаг, или Cost 737 стр. не окупается vs текущих harness-осей?
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -23,3 +24,4 @@
 - `[[wiki/sources/pstack]]`
 - `[[wiki/sources/herdr]]`
 - `[[wiki/sources/prime-agent]]`
+- `[[wiki/sources/mathematical-introduction-to-deep-learning]]`

@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **94**
+Всего: **96**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -98,3 +98,5 @@
 - [[wiki/analyses/repo-operating-model|Operating model for `pro/plan`]]
 - [[wiki/questions/research-backlog|Research backlog]]
 - [[wiki/sources/llm-wiki-gist|LLM Wiki (Karpathy gist)]]
+- [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]]
+- [[wiki/concepts/composed-error-analysis|Composed error analysis]]
