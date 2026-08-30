@@ -38,6 +38,7 @@
 - **UI quit ≠ process death**: if the runtime owns PTYs, closing the TUI is not a cause of a stopped agent; if a manager app owns the process, it is ([[wiki/concepts/agent-runtime-multiplexer]]).
 - **Trajectory → harness write**: `/refine` makes the *previous run* a cause of the *next prompt*; same loop stores tactics *and* exploits ([[wiki/concepts/continual-harness]]).
 - **Three-term training error**: «модель плохая» может быть approximation (класс слишком узкий), optimization (не нашли параметр) или generalization (выборка ≠ распределение) — разные причины ([[wiki/concepts/composed-error-analysis]]).
+- **Slow local LLM ≠ one cause**: missing Metal kernels (silent generic fallback), cold KV miss, or model not pinned — different fixes ([[wiki/concepts/tiered-kv-cache]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -49,3 +50,4 @@
 - `[[wiki/sources/herdr]]`
 - `[[wiki/sources/prime-agent]]`
 - `[[wiki/sources/mathematical-introduction-to-deep-learning]]`
+- `[[wiki/sources/omlx]]`

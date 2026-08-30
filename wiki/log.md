@@ -3,6 +3,39 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-30] ingest | oMLX (jundot/omlx)
+- Source processed: https://github.com/jundot/omlx (README main + pyproject.toml + omlx/_version.py + LICENSE head + GitHub API repo/release/HEAD)
+- Raw:
+  - `raw/jundot-omlx-readme.md` (sha256 `231de2c1266513fd125408fbe3d0b5519dedaf84b41b6bb458d8a20c1bfad774`)
+- Added pages:
+  - `wiki/sources/omlx.md`
+  - `wiki/entities/omlx.md`
+  - `wiki/concepts/tiered-kv-cache.md`
+  - `10_Reference/tools/omlx.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Assets:
+  - `assets/external/github.com/4ce67aac66b801c0.svg` (dark icon)
+  - `assets/external/github.com/398777b9c82ae66b.svg` (light icon)
+  - `assets/external/github.com/fe6736c62ebdd804.png` (hot/cold cache)
+- Notes:
+  - Apache-2.0; **v0.6.4** (2026-08-29). Stars 21040 (API 2026-08-30). Created 2026-02-13. Alpha classifiers; 1191 open issues.
+  - Apple Silicon / macOS 15+ only. FastAPI OpenAI+Anthropic on `:8000`. Hot RAM + SSD KV. Default max concurrent 8. Memory cap RAM−8GB.
+  - Custom kernels not in plain pip; GLM-5.2 30× is author claim. Hermes one-click Integrations: README only, not smoked.
+  - This Linux host: reference only, not installed.
+
 ## [2026-08-30] ingest | Mathematical Introduction to Deep Learning (arXiv:2310.20360)
 - Source processed: https://arxiv.org/abs/2310.20360 (v3 abs + PDF outline 298 bookmarks + author comment) + https://github.com/introdeeplearning/book (README + GitHub API)
 - Raw:

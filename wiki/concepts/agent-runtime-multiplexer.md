@@ -4,7 +4,7 @@
 
 A **runtime** for coding agents is a background server that owns real terminal processes (PTYs). Every UI — TUI, CLI, SSH, phone, future desktop/web — is a **client**. Quitting the viewer must not kill the herd. The runtime also knows which panes are agents and whether each is `working`, `blocked`, `done`, or `idle`, so wait/notify is semantic, not «process up».
 
-Canonical public case in vault: [[wiki/sources/herdr]].
+Canonical public case in vault: [[wiki/sources/herdr]]. Not the same as a **model server** ([[wiki/sources/omlx]] / [[wiki/concepts/tiered-kv-cache]]): Herdr owns PTYs; oMLX owns weights and KV.
 
 ## Mechanism (from Herdr docs)
 

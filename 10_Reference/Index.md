@@ -42,4 +42,7 @@
 - [[10_Reference/tools/prime-agent|Prime Agent]] — RLM harness; `/refine`; built-in Herdr reporter
 - [[wiki/sources/prime-agent|Prime Agent (source)]] — README + architecture/rlm docs + v0.8.1
 - [[wiki/entities/prime-intellect|Prime Intellect]] / [[wiki/concepts/continual-harness|Continual harness]]
+- [[10_Reference/tools/omlx|oMLX]] — Apple Silicon LLM server; RAM+SSD KV; OpenAI/Anthropic `:8000`
+- [[wiki/sources/omlx|oMLX (source)]] — README + pyproject + v0.6.4
+- [[wiki/entities/omlx|oMLX]] / [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

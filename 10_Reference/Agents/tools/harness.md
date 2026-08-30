@@ -20,3 +20,8 @@ https://www.primeintellect.ai/blog/prime-agent
 https://arxiv.org/abs/2608.23552
 
 Wiki: [[wiki/sources/prime-agent]] · [[10_Reference/tools/prime-agent]]
+
+https://github.com/jundot/omlx
+https://omlx.ai/
+
+Wiki: [[wiki/sources/omlx]] · [[10_Reference/tools/omlx]] (Apple Silicon inference, not a harness)

@@ -60,7 +60,7 @@ Status of “loop is really replaceable in production”: **Hypothesis** until w
 - Source: [[wiki/sources/deepseek-harness]]
 - Entity: [[wiki/entities/deepseek]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
-- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace), [[wiki/concepts/agent-runtime-multiplexer]] (place ≠ loop), [[wiki/concepts/continual-harness]] (self-edit supplemental state ≠ swap the loop)
+- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace), [[wiki/concepts/agent-runtime-multiplexer]] (place ≠ loop), [[wiki/concepts/continual-harness]] (self-edit supplemental state ≠ swap the loop), [[wiki/concepts/tiered-kv-cache]] (local weights/KV ≠ loop)
 
 ## Sources
 

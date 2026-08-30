@@ -11,6 +11,7 @@
 8. Нужен ли Herdr как outer runtime для параллельных Hermes/Claude/Codex pane (Hypothesis: agent-runtime multiplexer beats tmux here)? Не ставить, пока нет явного запроса и smoke-test.
 9. Стоит ли заимствовать Continual Harness (`/refine` + harness CRUD) vs держать SOUL/memories human-gated (Hypothesis: ungated refine poisons skills — Factorio RCON)? Paper PDF ещё не читали.
 10. Стоит ли читать Jentzen et al. (arXiv:2310.20360) дальше TOC — с Ch.14–15 (composed error) как минимальный рычаг, или Cost 737 стр. не окупается vs текущих harness-осей?
+11. Нужен ли oMLX как local OpenAI backend для Hermes/Claude Code на Mac (Hypothesis: SSD KV restore beats recompute for long sessions)? На этом Linux-хосте не ставить. One-click Hermes integration не проверяли.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -25,3 +26,4 @@
 - `[[wiki/sources/herdr]]`
 - `[[wiki/sources/prime-agent]]`
 - `[[wiki/sources/mathematical-introduction-to-deep-learning]]`
+- `[[wiki/sources/omlx]]`

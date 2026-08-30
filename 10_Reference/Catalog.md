@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **54**
+Всего: **58**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -50,6 +50,10 @@
 - [[wiki/entities/prime-intellect|Prime Intellect]]
 - [[wiki/concepts/continual-harness|Continual harness]]
 - [[10_Reference/tools/prime-agent|Prime Agent]]
+- [[wiki/sources/omlx|oMLX (source)]]
+- [[wiki/entities/omlx|oMLX]]
+- [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
+- [[10_Reference/tools/omlx|oMLX]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]
