@@ -15,6 +15,7 @@
 - A harness can *refine its own supplemental state* from the trajectory; Prime Agent `/refine` is the public case — writes are an ASI06 surface ([[wiki/concepts/continual-harness]]).
 - Supervised DL training error decomposes into approximation + optimization + generalization; do not collapse them into one label ([[wiki/concepts/composed-error-analysis]]).
 - Local coding-agent inference can persist KV across RAM and SSD; oMLX is the public Apple Silicon case — this Linux host cannot run it ([[wiki/concepts/tiered-kv-cache]]).
+- A diagram can be a fail-closed **typed JSON IR** compiled to HTML; Archify is the public case — not a fifth harness axis, not installed here ([[wiki/concepts/typed-ir-artifact-delivery]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

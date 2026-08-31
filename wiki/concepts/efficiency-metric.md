@@ -28,6 +28,7 @@
 - **Continual harness**: cheap to persist a lesson from the trajectory; expensive if `/refine` writes an ungated cheat/poison into next-turn memory ([[wiki/sources/prime-agent]], [[wiki/concepts/continual-harness]]).
 - **Composed error**: чинить не тот член (optimizer vs capacity vs data) = высокий Cost при нулевом Confidence gain ([[wiki/sources/mathematical-introduction-to-deep-learning]], [[wiki/concepts/composed-error-analysis]]).
 - **SSD KV restore vs recompute**: cheap on prefix hit after restart; expensive if kernels were never built (silent 30× claim on GLM-5.2) ([[wiki/sources/omlx]], [[wiki/concepts/tiered-kv-cache]]).
+- **Fail-closed diagram vs Mermaid loop**: one validated HTML + share card is cheap; a lying architecture slide is expensive causal noise ([[wiki/sources/archify]], [[wiki/concepts/typed-ir-artifact-delivery]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -40,3 +41,4 @@
 - `[[wiki/sources/prime-agent]]`
 - `[[wiki/sources/mathematical-introduction-to-deep-learning]]`
 - `[[wiki/sources/omlx]]`
+- `[[wiki/sources/archify]]`

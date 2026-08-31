@@ -45,4 +45,7 @@
 - [[10_Reference/tools/omlx|oMLX]] — Apple Silicon LLM server; RAM+SSD KV; OpenAI/Anthropic `:8000`
 - [[wiki/sources/omlx|oMLX (source)]] — README + pyproject + v0.6.4
 - [[wiki/entities/omlx|oMLX]] / [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
+- [[10_Reference/tools/archify|Archify]] — typed JSON-IR diagrams; fail-closed `deliver`; MIT v2.16.0
+- [[wiki/sources/archify|Archify (source)]] — README + SKILL.md + package 2.16.0
+- [[wiki/entities/archify|Archify]] / [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

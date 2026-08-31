@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **58**
+Всего: **62**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -54,6 +54,10 @@
 - [[wiki/entities/omlx|oMLX]]
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
 - [[10_Reference/tools/omlx|oMLX]]
+- [[wiki/sources/archify|Archify (source)]]
+- [[wiki/entities/archify|Archify]]
+- [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]
+- [[10_Reference/tools/archify|Archify]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

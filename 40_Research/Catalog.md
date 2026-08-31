@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **99**
+Всего: **102**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -103,3 +103,6 @@
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]]
 - [[wiki/entities/omlx|oMLX]]
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
+- [[wiki/sources/archify|Archify (tt-a1i/archify)]]
+- [[wiki/entities/archify|Archify]]
+- [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]

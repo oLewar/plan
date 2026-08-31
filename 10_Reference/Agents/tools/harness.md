@@ -25,3 +25,8 @@ https://github.com/jundot/omlx
 https://omlx.ai/
 
 Wiki: [[wiki/sources/omlx]] · [[10_Reference/tools/omlx]] (Apple Silicon inference, not a harness)
+
+https://github.com/tt-a1i/archify
+https://tt-a1i.github.io/archify/
+
+Wiki: [[wiki/sources/archify]] · [[10_Reference/tools/archify]] (diagram compiler, not a harness)

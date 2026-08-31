@@ -64,7 +64,7 @@ Status of «Herdr is strictly better than tmux for this host»: **Hypothesis** u
 - Source: [[wiki/sources/herdr]]
 - Entity: [[wiki/entities/herdr]]
 - Tool: [[10_Reference/tools/herdr]]
-- Adjacent: [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/continual-harness]] (Prime Agent daemon owns the *agent*, Herdr owns the *PTY*), [[wiki/concepts/human-in-the-loop-gtm]] (blocked pane still needs a human on approvals)
+- Adjacent: [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/continual-harness]] (Prime Agent daemon owns the *agent*, Herdr owns the *PTY*), [[wiki/concepts/human-in-the-loop-gtm]] (blocked pane still needs a human on approvals), [[wiki/concepts/typed-ir-artifact-delivery]] (diagram compiler ≠ PTY runtime)
 
 ## Sources
 

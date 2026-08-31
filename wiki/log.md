@@ -3,6 +3,36 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-08-31] ingest | Archify (tt-a1i/archify)
+- Source processed: https://github.com/tt-a1i/archify (README main + SKILL.md + package.json + skill-release.json + stable.json + DESIGN/PRODUCT heads + schemas README + DSH README/package.json + CHANGELOG 2.16.0 + GitHub API repo/releases/commits/tree)
+- Raw:
+  - `raw/tt-a1i-archify-readme.md` (inbox; cron may move)
+  - `40_Research/sources/agent-dev/tt-a1i-archify-readme.md` (durable; sha256 `0e0c937ef9291adebbaea1522023aebabb8675ea8405304e38d211c6da7ad006`)
+- Added pages:
+  - `wiki/sources/archify.md`
+  - `wiki/entities/archify.md`
+  - `wiki/concepts/typed-ir-artifact-delivery.md`
+  - `10_Reference/tools/archify.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; **v2.16.0** (2026-08-30). Stars 37516 (API 2026-08-31). Created 2026-04-15. HEAD `2bfb471` after the tag.
+  - Five typed IR modes; fail-closed `deliver`; `visual-check` ≠ perceptual pass. Update GET is reminder-only.
+  - DSH community plugin `@tt-a1i/archify-dsh@0.1.0` freezes **Archify 2.14**.
+  - Not a fifth harness axis. This host: reference only, not installed.
+
 ## [2026-08-30] ingest | oMLX (jundot/omlx)
 - Source processed: https://github.com/jundot/omlx (README main + pyproject.toml + omlx/_version.py + LICENSE head + GitHub API repo/release/HEAD)
 - Raw:
