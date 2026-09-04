@@ -30,3 +30,8 @@ https://github.com/tt-a1i/archify
 https://tt-a1i.github.io/archify/
 
 Wiki: [[wiki/sources/archify]] · [[10_Reference/tools/archify]] (diagram compiler, not a harness)
+
+https://github.com/0x4m4/hexstrike-ai
+https://www.hexstrike.com/
+
+Wiki: [[wiki/sources/hexstrike-ai]] · [[10_Reference/tools/hexstrike-ai]] (offensive MCP broker, not a harness; do not install)

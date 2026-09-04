@@ -48,4 +48,7 @@
 - [[10_Reference/tools/archify|Archify]] — typed JSON-IR diagrams; fail-closed `deliver`; MIT v2.16.0
 - [[wiki/sources/archify|Archify (source)]] — README + SKILL.md + package 2.16.0
 - [[wiki/entities/archify|Archify]] / [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]
+- [[10_Reference/tools/hexstrike-ai|HexStrike AI]] — offensive MCP+Flask CLI broker; MIT v6.0; do not install
+- [[wiki/sources/hexstrike-ai|HexStrike AI (source)]] — README + two-script tree + route/tool inventory
+- [[wiki/entities/0x4m4|0x4m4]] / [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

@@ -31,8 +31,10 @@
 - [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]] — Jentzen/Kuckuck/von Wurstemberger; v3 737 pp.; ANN + composed error + PINNs.
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]] — Apple Silicon LLM server; continuous batching + RAM/SSD KV cache; OpenAI/Anthropic API; v0.6.4.
 - [[wiki/sources/archify|Archify (tt-a1i/archify)]] — typed JSON-IR diagrams → fail-closed HTML; MIT v2.16.0; not a Mermaid theme.
+- [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]] — offensive MCP+Flask CLI broker; MIT v6.0; not 12 LLM agents.
 
 ## Entities
+- [[wiki/entities/0x4m4|0x4m4 / Muhammad Osama]] — HexStrike author; OTT Cybersecurity LLC (GitHub company).
 - [[wiki/entities/archify|Archify / `tt-a1i`]] — diagram-compiler skill; community DSH plugin frozen at 2.14.
 - [[wiki/entities/omlx|oMLX / Jun Kim (`jundot`)]] — Apple Silicon inference server; Apache-2.0; Hermes listed as Integrations client.
 - [[wiki/entities/prime-intellect|Prime Intellect]] — lab; Prime Agent + prime-rl / verifiers (latter not ingested).
@@ -64,6 +66,7 @@
 - [[wiki/concepts/composed-error-analysis|Composed error analysis]] — overall ANN error = approximation + optimization + generalization.
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]] — hot RAM + cold SSD paged KV; prefix restore after restart; oMLX.
 - [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]] — schema+layout gates before last-good HTML; Archify.
+- [[wiki/concepts/mcp-tool-broker|MCP tool broker]] — LLM stdio → local API → subprocess; HexStrike; bind/auth/generic-command are the safety facts.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -80,6 +83,7 @@
 - [[10_Reference/tools/prime-agent|Prime Agent]] — `prime-agent` CLI; RLM REPL + daemon; reference only.
 - [[10_Reference/tools/omlx|oMLX]] — `omlx serve` on Apple Silicon; `:8000/v1`; reference only (wrong OS here).
 - [[10_Reference/tools/archify|Archify]] — `npx skills add tt-a1i/archify`; `archify deliver`; reference only.
+- [[10_Reference/tools/hexstrike-ai|HexStrike AI]] — FastMCP + Flask `:8888`; `execute_command`; reference only, do not install.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

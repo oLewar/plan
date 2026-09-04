@@ -10,6 +10,8 @@
 - [[wiki/concepts/tiered-kv-cache]]
 - [[wiki/sources/archify]]
 - [[wiki/concepts/typed-ir-artifact-delivery]]
+- [[wiki/sources/hexstrike-ai]]
+- [[wiki/concepts/mcp-tool-broker]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

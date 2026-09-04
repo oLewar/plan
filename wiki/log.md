@@ -3,6 +3,33 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-04] ingest | HexStrike AI (0x4m4/hexstrike-ai)
+- Source processed: https://github.com/0x4m4/hexstrike-ai (README master + LICENSE + requirements.txt + hexstrike-ai-mcp.json + class/route/`@mcp.tool` inventory on hexstrike_server.py / hexstrike_mcp.py + GitHub API repo/user/tree/commits; hexstrike.com / 0x4m4.com / overthetop.ae fetched)
+- Raw: `raw/0x4m4-hexstrike-ai-readme.md` (inbox; cron may move). sha256 `362d1d09f5d454d8d77eb08d42f9306afe84c48bc46f99a93fd29796a5787fa1` (31084 bytes, LF)
+- Added pages:
+  - `wiki/sources/hexstrike-ai.md`
+  - `wiki/entities/0x4m4.md`
+  - `wiki/concepts/mcp-tool-broker.md`
+  - `10_Reference/tools/hexstrike-ai.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; README **v6.0**; **no tags/releases**. HEAD `d689933` 2026-08-03. Stars **11529** (API 2026-09-04). Created 2025-07-10.
+  - Tree is 15 blobs / two scripts. «12+ AI agents» = Python classes + score tables. Health inventory 125 binaries; MCP 151 registrations / 149 unique; Flask 156 routes.
+  - Flask `app.run(host="0.0.0.0")`, no auth; MCP `execute_command` → `shell=True`. hexstrike.com = GitHub redirect. v7.0 not in tree.
+  - This host: reference only, not installed. Not a harness axis.
+
 ## [2026-08-31] ingest | Archify (tt-a1i/archify)
 - Source processed: https://github.com/tt-a1i/archify (README main + SKILL.md + package.json + skill-release.json + stable.json + DESIGN/PRODUCT heads + schemas README + DSH README/package.json + CHANGELOG 2.16.0 + GitHub API repo/releases/commits/tree)
 - Raw:

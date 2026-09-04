@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **62**
+Всего: **66**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -58,6 +58,10 @@
 - [[wiki/entities/archify|Archify]]
 - [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]
 - [[10_Reference/tools/archify|Archify]]
+- [[wiki/sources/hexstrike-ai|HexStrike AI (source)]]
+- [[wiki/entities/0x4m4|0x4m4 / Muhammad Osama]]
+- [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
+- [[10_Reference/tools/hexstrike-ai|HexStrike AI]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

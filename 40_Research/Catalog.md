@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **102**
+Всего: **105**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -106,3 +106,6 @@
 - [[wiki/sources/archify|Archify (tt-a1i/archify)]]
 - [[wiki/entities/archify|Archify]]
 - [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]]
+- [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]]
+- [[wiki/entities/0x4m4|0x4m4]]
+- [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
