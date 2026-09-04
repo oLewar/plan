@@ -11,14 +11,14 @@ title: HexStrike AI MCP Agents v6.0
 # HexStrike AI MCP Agents v6.0
 ### AI-Powered MCP Cybersecurity Automation Platform
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![MCP](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Version](https://img.shields.io/badge/Version-6.0.0-orange.svg)](https://github.com/0x4m4/hexstrike-ai/releases)
-[![Tools](https://img.shields.io/badge/Security%20Tools-150%2B-brightgreen.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Agents](https://img.shields.io/badge/AI%20Agents-12%2B-purple.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social)](https://github.com/0x4m4/hexstrike-ai)
+[![Python](../../../assets/external/img.shields.io/036eb9f1825be5f3.svg)](https://www.python.org/)
+[![License](../../../assets/external/img.shields.io/8fe252f76dc2a000.svg)](LICENSE)
+[![Security](../../../assets/external/img.shields.io/5e3ecca448b23d66.svg)](https://github.com/0x4m4/hexstrike-ai)
+[![MCP](../../../assets/external/img.shields.io/211a426d6ff03355.svg)](https://github.com/0x4m4/hexstrike-ai)
+[![Version](../../../assets/external/img.shields.io/3f33482054c32ffe.svg)](https://github.com/0x4m4/hexstrike-ai/releases)
+[![Tools](../../../assets/external/img.shields.io/07f5a146874c6a6a.svg)](https://github.com/0x4m4/hexstrike-ai)
+[![Agents](../../../assets/external/img.shields.io/82afeb93e4dce1ea.svg)](https://github.com/0x4m4/hexstrike-ai)
+[![Stars](../../../assets/external/img.shields.io/00e12b7a9fd02841.img)](https://github.com/0x4m4/hexstrike-ai)
 
 **Advanced AI-powered penetration testing MCP framework with 150+ security tools and 12+ autonomous AI agents**
 
@@ -761,7 +761,7 @@ MIT License - see LICENSE file for details.
 
 ## 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=0x4m4/hexstrike-ai&type=Date)](https://star-history.com/#0x4m4/hexstrike-ai&Date)
+[![Star History Chart](../../../assets/external/api.star-history.com/8866ebe6c97aca98.img)](https://star-history.com/#0x4m4/hexstrike-ai&Date)
 
 ### **📊 Project Statistics**
 
