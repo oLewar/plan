@@ -3,6 +3,32 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-09] ingest | tgrep (microsoft/tgrep)
+- Source processed: https://github.com/microsoft/tgrep (README main + AGENTS.md + BENCHMARKS.md takeaways + LICENSE + workspace/tgrep-cli/tgrep-core Cargo.toml + .gitignore + GitHub API repo/releases/tags/commits/recursive tree)
+- Raw: `raw/microsoft-tgrep-readme.md` (inbox; cron may move). sha256 `4b8007db13a078a70f497df02deece7423695ec7f08b49297c74d8b297d20e98` (44418 bytes, CRLF)
+- Added pages:
+  - `wiki/sources/tgrep.md`
+  - `wiki/entities/microsoft.md`
+  - `wiki/concepts/trigram-index-search.md`
+  - `10_Reference/tools/tgrep.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; **v1.0.5** (2026-09-08). HEAD `50f5d8f6a5` 2026-09-09 (past tag). Stars **2430** (API 2026-09-09). Created 2026-04-03.
+  - Tree 98 blobs / 15 trees. Workspace crates `tgrep-core` + `tgrep-cli`. Author `Shengyu Fu`.
+  - Cold `serve` answers empty until first publish. Default 64 MiB cap. Author benches: 17/18 cells win vs ripgrep; k8s Linux 0.93×.
+  - Copilot CLI integration = README claim, not smoked. This host: `rg` present, tgrep not installed. Not a harness axis.
+
 ## [2026-09-04] ingest | HexStrike AI (0x4m4/hexstrike-ai)
 - Source processed: https://github.com/0x4m4/hexstrike-ai (README master + LICENSE + requirements.txt + hexstrike-ai-mcp.json + class/route/`@mcp.tool` inventory on hexstrike_server.py / hexstrike_mcp.py + GitHub API repo/user/tree/commits; hexstrike.com / 0x4m4.com / overthetop.ae fetched)
 - Raw: `raw/0x4m4-hexstrike-ai-readme.md` (inbox; cron may move). sha256 `362d1d09f5d454d8d77eb08d42f9306afe84c48bc46f99a93fd29796a5787fa1` (31084 bytes, LF)

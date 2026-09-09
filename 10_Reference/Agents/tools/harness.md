@@ -35,3 +35,7 @@ https://github.com/0x4m4/hexstrike-ai
 https://www.hexstrike.com/
 
 Wiki: [[wiki/sources/hexstrike-ai]] · [[10_Reference/tools/hexstrike-ai]] (offensive MCP broker, not a harness; do not install)
+
+https://github.com/microsoft/tgrep
+
+Wiki: [[wiki/sources/tgrep]] · [[10_Reference/tools/tgrep]] (trigram grep index, not a harness; not installed)

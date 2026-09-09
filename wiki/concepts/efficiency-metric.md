@@ -30,6 +30,7 @@
 - **SSD KV restore vs recompute**: cheap on prefix hit after restart; expensive if kernels were never built (silent 30× claim on GLM-5.2) ([[wiki/sources/omlx]], [[wiki/concepts/tiered-kv-cache]]).
 - **Fail-closed diagram vs Mermaid loop**: one validated HTML + share card is cheap; a lying architecture slide is expensive causal noise ([[wiki/sources/archify]], [[wiki/concepts/typed-ir-artifact-delivery]]).
 - **Offensive MCP broker**: README 24× scan tables look high-Impact; unauthenticated `shell=True` on `0.0.0.0` drives Safety→0 on a shared host ([[wiki/sources/hexstrike-ai]], [[wiki/concepts/mcp-tool-broker]]).
+- **Trigram index vs scan**: cheap on large selective queries after `serve`; expensive if you pay TCP delivery on tens of thousands of matches, or wait on a cold empty index ([[wiki/sources/tgrep]], [[wiki/concepts/trigram-index-search]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -44,3 +45,4 @@
 - `[[wiki/sources/omlx]]`
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
+- `[[wiki/sources/tgrep]]`

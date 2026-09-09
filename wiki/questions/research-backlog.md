@@ -14,6 +14,7 @@
 11. Нужен ли oMLX как local OpenAI backend для Hermes/Claude Code на Mac (Hypothesis: SSD KV restore beats recompute for long sessions)? На этом Linux-хосте не ставить. One-click Hermes integration не проверяли.
 12. Стоит ли ставить Archify как Hermes skill vs оставить Mermaid в vault (Hypothesis: fail-closed JSON IR beats pretty-but-lying diagrams)? Не ставить, пока нет явного запроса. DSH-бандл = 2.14, skill HEAD = 2.16.
 13. Нужен ли offensive MCP-broker (HexStrike) как lab backend (Hypothesis: named scanner wrappers without `execute_command` + loopback + auth can be useful; as shipped Safety≈0)? Не ставить на этот хост. v7.0 / hexstrike.com desktop — Unknown, not in tree.
+14. Стоит ли ставить tgrep как grep-backend для агента на больших worktree (Hypothesis: candidate pruning beats `rg` on 100k+ files; loses on high match-volume / small Linux trees)? Не ставить, пока нет явного запроса. Copilot CLI integration не проверяли.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -31,3 +32,4 @@
 - `[[wiki/sources/omlx]]`
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
+- `[[wiki/sources/tgrep]]`

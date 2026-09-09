@@ -51,4 +51,7 @@
 - [[10_Reference/tools/hexstrike-ai|HexStrike AI]] — offensive MCP+Flask CLI broker; MIT v6.0; do not install
 - [[wiki/sources/hexstrike-ai|HexStrike AI (source)]] — README + two-script tree + route/tool inventory
 - [[wiki/entities/0x4m4|0x4m4]] / [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
+- [[10_Reference/tools/tgrep|tgrep]] — trigram-indexed grep + `serve`; MIT v1.0.5; reference only
+- [[wiki/sources/tgrep|tgrep (source)]] — README + AGENTS.md + v1.0.5
+- [[wiki/entities/microsoft|Microsoft]] / [[wiki/concepts/trigram-index-search|Trigram-index search]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

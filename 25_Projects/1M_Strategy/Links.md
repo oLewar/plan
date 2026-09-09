@@ -33,4 +33,5 @@ tags:
 - oMLX / Apple Silicon local inference (RAM+SSD KV, OpenAI API): [[wiki/sources/omlx]], [[wiki/concepts/tiered-kv-cache]]
 - Archify / fail-closed typed-IR diagrams (agent skill, not a harness): [[wiki/sources/archify]], [[wiki/concepts/typed-ir-artifact-delivery]]
 - HexStrike / offensive MCP tool broker (not a harness; do not install): [[wiki/sources/hexstrike-ai]], [[wiki/concepts/mcp-tool-broker]]
+- tgrep / trigram-indexed local grep (not a harness; not installed): [[wiki/sources/tgrep]], [[wiki/concepts/trigram-index-search]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

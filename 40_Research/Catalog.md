@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **105**
+Всего: **108**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -109,3 +109,6 @@
 - [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]]
 - [[wiki/entities/0x4m4|0x4m4]]
 - [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
+- [[wiki/sources/tgrep|tgrep (microsoft/tgrep)]]
+- [[wiki/entities/microsoft|Microsoft]]
+- [[wiki/concepts/trigram-index-search|Trigram-index search]]

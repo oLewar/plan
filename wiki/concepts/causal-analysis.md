@@ -41,6 +41,7 @@
 - **Slow local LLM ≠ one cause**: missing Metal kernels (silent generic fallback), cold KV miss, or model not pinned — different fixes ([[wiki/concepts/tiered-kv-cache]]).
 - **Pretty diagram ≠ true map**: invented edges, reach sold as blast radius, or `visual-check` sold as a pass are different lies; fail-closed IR delivery keeps last-good HTML ([[wiki/concepts/typed-ir-artifact-delivery]]).
 - **MCP ≠ sandbox**: the cause of host RCE is a generic `execute_command` + bind/auth, not «the model has tools»; lookup tables branded as agents are a separate lie ([[wiki/concepts/mcp-tool-broker]]).
+- **Empty grep ≠ missing symbol**: cold `tgrep serve`, incomplete on-disk index, membership-flag mismatch, 64 MiB cap, or an index-bypass flag are different causes ([[wiki/concepts/trigram-index-search]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -55,3 +56,4 @@
 - `[[wiki/sources/omlx]]`
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
+- `[[wiki/sources/tgrep]]`

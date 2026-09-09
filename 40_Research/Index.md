@@ -12,6 +12,8 @@
 - [[wiki/concepts/typed-ir-artifact-delivery]]
 - [[wiki/sources/hexstrike-ai]]
 - [[wiki/concepts/mcp-tool-broker]]
+- [[wiki/sources/tgrep]]
+- [[wiki/concepts/trigram-index-search]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

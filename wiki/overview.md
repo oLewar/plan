@@ -17,6 +17,7 @@
 - Local coding-agent inference can persist KV across RAM and SSD; oMLX is the public Apple Silicon case — this Linux host cannot run it ([[wiki/concepts/tiered-kv-cache]]).
 - A diagram can be a fail-closed **typed JSON IR** compiled to HTML; Archify is the public case — not a fifth harness axis, not installed here ([[wiki/concepts/typed-ir-artifact-delivery]]).
 - MCP is a **transport**, not a sandbox: a tool broker can be unauthenticated `shell=True` on `0.0.0.0`; HexStrike is the public anti-pattern — not installed here ([[wiki/concepts/mcp-tool-broker]]).
+- Local code search can be **trigram-indexed** instead of O(bytes) per query; tgrep is the public case — empty cold serve ≠ missing symbol; not installed here ([[wiki/concepts/trigram-index-search]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **66**
+Всего: **70**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -62,6 +62,10 @@
 - [[wiki/entities/0x4m4|0x4m4 / Muhammad Osama]]
 - [[wiki/concepts/mcp-tool-broker|MCP tool broker]]
 - [[10_Reference/tools/hexstrike-ai|HexStrike AI]]
+- [[wiki/sources/tgrep|tgrep (source)]]
+- [[wiki/entities/microsoft|Microsoft]]
+- [[wiki/concepts/trigram-index-search|Trigram-index search]]
+- [[10_Reference/tools/tgrep|tgrep]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]
