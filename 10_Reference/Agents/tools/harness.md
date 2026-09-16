@@ -39,3 +39,8 @@ Wiki: [[wiki/sources/hexstrike-ai]] · [[10_Reference/tools/hexstrike-ai]] (offe
 https://github.com/microsoft/tgrep
 
 Wiki: [[wiki/sources/tgrep]] · [[10_Reference/tools/tgrep]] (trigram grep index, not a harness; not installed)
+
+https://github.com/alphaXiv/OpenResearch
+https://openresearch.sh/
+
+Wiki: [[wiki/sources/openresearch]] · [[10_Reference/tools/openresearch]] (git-native experiment tree / dashboard, not a harness; not installed; no Hermes adapter)

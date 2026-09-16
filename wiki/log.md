@@ -3,6 +3,42 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-16] ingest | OpenResearch (alphaXiv/OpenResearch)
+- Source processed: https://github.com/alphaXiv/OpenResearch (README main + AGENTS.md + SKILL.md + SYSTEM_PROMPT.md + CLAUDE.md + LICENSE + Cargo.toml + dist-workspace.toml + docs/local-models.md + docs/windows.md + .gitignore + GitHub API repo/releases/tags/commits/org/recursive tree + sampled src/main.rs, store.rs, config.rs, telemetry.rs, local/{git,harness,datadir}.rs, commands/{mod,serve,telemetry,install_skills,up/harness_setup}.rs, ui/package.json, six agent-skills/orx-*/SKILL.md)
+- Raw: `raw/alphaXiv-OpenResearch-readme.md` (inbox; cron may move). sha256 `0c9042c88d535e3d061dd16e7a3a672ba3e06f25026ab81a92c6b48692bde752` (5645 bytes, LF)
+- Added pages:
+  - `wiki/sources/openresearch.md`
+  - `wiki/entities/alphaxiv.md`
+  - `wiki/concepts/git-native-experiment-tree.md`
+  - `10_Reference/tools/openresearch.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/continual-harness.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `wiki/concepts/playbook-routed-agent-mode.md`
+  - `wiki/concepts/trigram-index-search.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `wiki/entities/prime-intellect.md`
+  - `wiki/entities/herdr.md`
+  - `wiki/entities/deepseek.md`
+  - `wiki/entities/cursor.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; **v0.2.3** (2026-09-16). HEAD `325eb509dc8e` 2026-09-16 (past tag `c5f2c02cca63`). Stars **3858** (API 2026-09-16). Created 2026-06-07.
+  - Tree 513 blobs / 68 trees. Crate `openresearch-cli` bin `orx`. Dashboard `:4791`, serve `:4790`. SQLite `orx.db`.
+  - Harness registry: Claude Code, Codex, OpenCode, Cursor. **No Hermes adapter.**
+  - Remote bind/auth: README vs clap help disagree → Unknown. Official-build telemetry opt-out. This host: not installed. Not a harness axis.
+
 ## [2026-09-09] ingest | tgrep (microsoft/tgrep)
 - Source processed: https://github.com/microsoft/tgrep (README main + AGENTS.md + BENCHMARKS.md takeaways + LICENSE + workspace/tgrep-cli/tgrep-core Cargo.toml + .gitignore + GitHub API repo/releases/tags/commits/recursive tree)
 - Raw: `raw/microsoft-tgrep-readme.md` (inbox; cron may move). sha256 `4b8007db13a078a70f497df02deece7423695ec7f08b49297c74d8b297d20e98` (44418 bytes, CRLF)

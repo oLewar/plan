@@ -26,7 +26,7 @@
 - People: [[wiki/entities/lauren-tan]]
 - Concept: [[wiki/concepts/playbook-routed-agent-mode]]
 - Tool: [[10_Reference/tools/pstack]]
-- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/deepseek]], [[wiki/entities/herdr]]
+- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/deepseek]], [[wiki/entities/herdr]], [[wiki/entities/alphaxiv]]
 
 ## Sources
 

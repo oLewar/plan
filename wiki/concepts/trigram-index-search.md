@@ -55,7 +55,7 @@ Not a harness axis.
 - Source: [[wiki/sources/tgrep]]
 - Entity: [[wiki/entities/microsoft]]
 - Tool: [[10_Reference/tools/tgrep]]
-- Adjacent: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]]
+- Adjacent: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/git-native-experiment-tree]] (search index ≠ experiment lineage)
 
 ## Sources
 

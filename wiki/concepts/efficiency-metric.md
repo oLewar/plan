@@ -31,6 +31,7 @@
 - **Fail-closed diagram vs Mermaid loop**: one validated HTML + share card is cheap; a lying architecture slide is expensive causal noise ([[wiki/sources/archify]], [[wiki/concepts/typed-ir-artifact-delivery]]).
 - **Offensive MCP broker**: README 24× scan tables look high-Impact; unauthenticated `shell=True` on `0.0.0.0` drives Safety→0 on a shared host ([[wiki/sources/hexstrike-ai]], [[wiki/concepts/mcp-tool-broker]]).
 - **Trigram index vs scan**: cheap on large selective queries after `serve`; expensive if you pay TCP delivery on tens of thousands of matches, or wait on a cold empty index ([[wiki/sources/tgrep]], [[wiki/concepts/trigram-index-search]]).
+- **Git-native experiment tree**: cheap to freeze a measured baseline and stack children; expensive if you rewrite the node that produced the number, or infer from status without logs ([[wiki/sources/openresearch]], [[wiki/concepts/git-native-experiment-tree]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -46,3 +47,4 @@
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
 - `[[wiki/sources/tgrep]]`
+- `[[wiki/sources/openresearch]]`

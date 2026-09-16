@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **70**
+Всего: **74**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -66,6 +66,10 @@
 - [[wiki/entities/microsoft|Microsoft]]
 - [[wiki/concepts/trigram-index-search|Trigram-index search]]
 - [[10_Reference/tools/tgrep|tgrep]]
+- [[wiki/sources/openresearch|OpenResearch (source)]]
+- [[wiki/entities/alphaxiv|alphaXiv]]
+- [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]
+- [[10_Reference/tools/openresearch|OpenResearch]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

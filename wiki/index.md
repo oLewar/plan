@@ -33,8 +33,10 @@
 - [[wiki/sources/archify|Archify (tt-a1i/archify)]] — typed JSON-IR diagrams → fail-closed HTML; MIT v2.16.0; not a Mermaid theme.
 - [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]] — offensive MCP+Flask CLI broker; MIT v6.0; not 12 LLM agents.
 - [[wiki/sources/tgrep|tgrep (microsoft/tgrep)]] — trigram-indexed grep + optional TCP serve; MIT v1.0.5; not a harness.
+- [[wiki/sources/openresearch|OpenResearch (alphaXiv/OpenResearch)]] — local-first research workspace (`orx`); MIT v0.2.3; git experiment tree; not a harness.
 
 ## Entities
+- [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
 - [[wiki/entities/microsoft|Microsoft]] — GitHub org; publisher of tgrep (search index, not a loop).
 - [[wiki/entities/0x4m4|0x4m4 / Muhammad Osama]] — HexStrike author; OTT Cybersecurity LLC (GitHub company).
 - [[wiki/entities/archify|Archify / `tt-a1i`]] — diagram-compiler skill; community DSH plugin frozen at 2.14.
@@ -70,6 +72,7 @@
 - [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]] — schema+layout gates before last-good HTML; Archify.
 - [[wiki/concepts/mcp-tool-broker|MCP tool broker]] — LLM stdio → local API → subprocess; HexStrike; bind/auth/generic-command are the safety facts.
 - [[wiki/concepts/trigram-index-search|Trigram-index search]] — candidates via 3-grams, then regex; tgrep; empty serve ≠ no symbol.
+- [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]] — freeze answered nodes; fixed run contract; stacked bushes; OpenResearch.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -88,6 +91,7 @@
 - [[10_Reference/tools/archify|Archify]] — `npx skills add tt-a1i/archify`; `archify deliver`; reference only.
 - [[10_Reference/tools/hexstrike-ai|HexStrike AI]] — FastMCP + Flask `:8888`; `execute_command`; reference only, do not install.
 - [[10_Reference/tools/tgrep|tgrep]] — `tgrep index` / `serve` / search; MIT v1.0.5; reference only, not installed.
+- [[10_Reference/tools/openresearch|OpenResearch]] — `orx up` / experiment tree; MIT v0.2.3; reference only, not installed.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

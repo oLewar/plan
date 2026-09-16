@@ -25,7 +25,7 @@
 - Concept: [[wiki/concepts/everything-is-a-plugin]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
 - Strategy: [[25_Projects/1M_Strategy/Links]]
-- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/xai]], [[wiki/entities/cursor]], [[wiki/entities/herdr]], [[wiki/entities/prime-intellect]]
+- Contrast: [[wiki/entities/anthropic]], [[wiki/entities/xai]], [[wiki/entities/cursor]], [[wiki/entities/herdr]], [[wiki/entities/prime-intellect]], [[wiki/entities/alphaxiv]]
 
 ## Sources
 

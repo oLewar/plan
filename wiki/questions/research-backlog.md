@@ -15,6 +15,7 @@
 12. Стоит ли ставить Archify как Hermes skill vs оставить Mermaid в vault (Hypothesis: fail-closed JSON IR beats pretty-but-lying diagrams)? Не ставить, пока нет явного запроса. DSH-бандл = 2.14, skill HEAD = 2.16.
 13. Нужен ли offensive MCP-broker (HexStrike) как lab backend (Hypothesis: named scanner wrappers without `execute_command` + loopback + auth can be useful; as shipped Safety≈0)? Не ставить на этот хост. v7.0 / hexstrike.com desktop — Unknown, not in tree.
 14. Стоит ли ставить tgrep как grep-backend для агента на больших worktree (Hypothesis: candidate pruning beats `rg` on 100k+ files; loses on high match-volume / small Linux trees)? Не ставить, пока нет явного запроса. Copilot CLI integration не проверяли.
+15. Стоит ли ставить OpenResearch/`orx` как outer research workspace (Hypothesis: freeze-on-answer + stacked bushes beats spreadsheet+tmux for eval lineage)? Не ставить: нет Hermes-адаптера; pipe-to-sh + official telemetry; remote bind/auth **Unknown**. Process-borrow правил — да.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -33,3 +34,4 @@
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
 - `[[wiki/sources/tgrep]]`
+- `[[wiki/sources/openresearch]]`

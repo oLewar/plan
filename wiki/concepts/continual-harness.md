@@ -35,6 +35,7 @@ Formalism used by PI: H = (ρ, G, K, M) — prompts, subagents, skills, memory. 
 | Plugin harness ([[wiki/concepts/everything-is-a-plugin]]) | which plugins are mounted | Human profile/patch |
 | Playbook-routed mode ([[wiki/concepts/playbook-routed-agent-mode]]) | nothing in the loop; steps are copied | Human sticky `/mode` |
 | **Continual harness** | supplemental H from trajectory | Agent + `/refine` (rollback exists; write-gate is weak) |
+| Git-native experiment tree ([[wiki/concepts/git-native-experiment-tree]]) | child *branches* after a measured node | Human/agent creating a child; freeze is the gate |
 
 Status of «self-refine beats hand-written skills in production coding»: **Hypothesis** (author evals; Factorio also refined a *cheat*).
 
@@ -60,7 +61,7 @@ Status of «self-refine beats hand-written skills in production coding»: **Hypo
 - Source: [[wiki/sources/prime-agent]]
 - Entity: [[wiki/entities/prime-intellect]]
 - Tool: [[10_Reference/tools/prime-agent]]
-- Adjacent: [[wiki/concepts/memory-poisoning]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/playbook-routed-agent-mode]]
+- Adjacent: [[wiki/concepts/memory-poisoning]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/git-native-experiment-tree]] (OpenResearch freezes a *branch*, `/refine` mutates next-turn *prompt*)
 
 ## Sources
 

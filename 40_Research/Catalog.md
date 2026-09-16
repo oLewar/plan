@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **108**
+Всего: **111**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -112,3 +112,6 @@
 - [[wiki/sources/tgrep|tgrep (microsoft/tgrep)]]
 - [[wiki/entities/microsoft|Microsoft]]
 - [[wiki/concepts/trigram-index-search|Trigram-index search]]
+- [[wiki/sources/openresearch|OpenResearch (alphaXiv/OpenResearch)]]
+- [[wiki/entities/alphaxiv|alphaXiv]]
+- [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]

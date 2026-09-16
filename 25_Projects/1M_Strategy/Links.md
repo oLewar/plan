@@ -34,4 +34,5 @@ tags:
 - Archify / fail-closed typed-IR diagrams (agent skill, not a harness): [[wiki/sources/archify]], [[wiki/concepts/typed-ir-artifact-delivery]]
 - HexStrike / offensive MCP tool broker (not a harness; do not install): [[wiki/sources/hexstrike-ai]], [[wiki/concepts/mcp-tool-broker]]
 - tgrep / trigram-indexed local grep (not a harness; not installed): [[wiki/sources/tgrep]], [[wiki/concepts/trigram-index-search]]
+- OpenResearch / git-native experiment tree (`orx`; not a harness; not installed; no Hermes adapter): [[wiki/sources/openresearch]], [[wiki/concepts/git-native-experiment-tree]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

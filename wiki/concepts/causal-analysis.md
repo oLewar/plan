@@ -42,6 +42,7 @@
 - **Pretty diagram ≠ true map**: invented edges, reach sold as blast radius, or `visual-check` sold as a pass are different lies; fail-closed IR delivery keeps last-good HTML ([[wiki/concepts/typed-ir-artifact-delivery]]).
 - **MCP ≠ sandbox**: the cause of host RCE is a generic `execute_command` + bind/auth, not «the model has tools»; lookup tables branded as agents are a separate lie ([[wiki/concepts/mcp-tool-broker]]).
 - **Empty grep ≠ missing symbol**: cold `tgrep serve`, incomplete on-disk index, membership-flag mismatch, 64 MiB cap, or an index-bypass flag are different causes ([[wiki/concepts/trigram-index-search]]).
+- **Failed experiment ≠ one cause**: empty run (repair same node), answered-but-bad (freeze + child), status-without-log (not evidence), dirty uncommitted tree (never ran) ([[wiki/concepts/git-native-experiment-tree]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -57,3 +58,4 @@
 - `[[wiki/sources/archify]]`
 - `[[wiki/sources/hexstrike-ai]]`
 - `[[wiki/sources/tgrep]]`
+- `[[wiki/sources/openresearch]]`

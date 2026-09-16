@@ -54,4 +54,7 @@
 - [[10_Reference/tools/tgrep|tgrep]] — trigram-indexed grep + `serve`; MIT v1.0.5; reference only
 - [[wiki/sources/tgrep|tgrep (source)]] — README + AGENTS.md + v1.0.5
 - [[wiki/entities/microsoft|Microsoft]] / [[wiki/concepts/trigram-index-search|Trigram-index search]]
+- [[10_Reference/tools/openresearch|OpenResearch]] — `orx` dashboard + git experiment tree; MIT v0.2.3; reference only
+- [[wiki/sources/openresearch|OpenResearch (source)]] — README + SKILL/AGENTS + Cargo.toml 0.2.3 + tree
+- [[wiki/entities/alphaxiv|alphaXiv]] / [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]
