@@ -1,5 +1,5 @@
 # Raw Ingest Report (latest)
 
-- moved files: **0**
-- localized docs: **0**
+- moved files: **3**
+- localized docs: **1**
 - failed image downloads: **0**
