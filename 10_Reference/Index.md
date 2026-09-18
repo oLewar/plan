@@ -57,4 +57,13 @@
 - [[10_Reference/tools/openresearch|OpenResearch]] — `orx` dashboard + git experiment tree; MIT v0.2.3; reference only
 - [[wiki/sources/openresearch|OpenResearch (source)]] — README + SKILL/AGENTS + Cargo.toml 0.2.3 + tree
 - [[wiki/entities/alphaxiv|alphaXiv]] / [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]
+- [[10_Reference/tools/browser-harness|Browser Harness]] — CDP CLI; MIT v0.1.13; reference only
+- [[wiki/sources/browser-harness|Browser Harness (source)]] — README + SKILL/install + pyproject 0.1.13 + tree
+- [[wiki/entities/browser-use|Browser Use]] / [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
+- [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]] — indexed action policy; MIT 0.1.0; reference only
+- [[wiki/sources/jev-ultrafast|Jev Ultrafast (source)]] — README + agent.py + design/performance + tree
+- [[wiki/concepts/indexed-action-space|Indexed action space]]
+- [[10_Reference/tools/logika|Logika]] — Chelpanov skill; MIT 2.0.0; reference only
+- [[wiki/sources/logika|Logika (source)]] — SKILL.md + AGENTS.md + plugin.json 2.0.0
+- [[wiki/entities/pavel-rykov|Pavel Rykov]] / [[wiki/concepts/formal-logic-skill|Formal-logic skill]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

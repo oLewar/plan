@@ -13,7 +13,7 @@
 ## Relevance
 
 - Public **agent runtime / multiplexer**: server owns terminals; coding CLIs (including **Hermes Agent**) keep running when the TUI detaches.
-- Adjacent to vault harness research: [[wiki/entities/deepseek]] replaces the *loop*; [[wiki/entities/cursor]] / pstack wraps *style*; [[wiki/entities/prime-intellect]] self-edits supplemental harness; [[wiki/entities/alphaxiv]] records *lineage*; Herdr wraps *place*.
+- Adjacent to vault harness research: [[wiki/entities/deepseek]] replaces the *loop*; [[wiki/entities/cursor]] / pstack wraps *style*; [[wiki/entities/prime-intellect]] self-edits supplemental harness; [[wiki/entities/alphaxiv]] records *lineage*; [[wiki/entities/browser-use]] owns *CDP*; Herdr wraps *place*.
 - Direct Chappy surface: official `herdr integration install hermes` + `hermes --resume <id>`.
 
 ## What this vault currently knows
@@ -29,7 +29,7 @@
 - Source: [[wiki/sources/herdr]]
 - Concept: [[wiki/concepts/agent-runtime-multiplexer]]
 - Tool: [[10_Reference/tools/herdr]]
-- Contrast: [[wiki/entities/deepseek]], [[wiki/entities/cursor]], [[wiki/entities/anthropic]], [[wiki/entities/prime-intellect]], [[wiki/entities/alphaxiv]]
+- Contrast: [[wiki/entities/deepseek]], [[wiki/entities/cursor]], [[wiki/entities/anthropic]], [[wiki/entities/prime-intellect]], [[wiki/entities/alphaxiv]], [[wiki/entities/browser-use]]
 
 ## Sources
 

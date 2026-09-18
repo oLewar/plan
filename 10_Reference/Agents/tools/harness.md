@@ -44,3 +44,16 @@ https://github.com/alphaXiv/OpenResearch
 https://openresearch.sh/
 
 Wiki: [[wiki/sources/openresearch]] · [[10_Reference/tools/openresearch]] (git-native experiment tree / dashboard, not a harness; not installed; no Hermes adapter)
+
+https://github.com/browser-use/browser-harness
+https://browser-harness.com
+
+Wiki: [[wiki/sources/browser-harness]] · [[10_Reference/tools/browser-harness]] (CDP helper CLI, not a harness; not installed)
+
+https://github.com/browser-use/jev-ultrafast
+
+Wiki: [[wiki/sources/jev-ultrafast]] · [[10_Reference/tools/jev-ultrafast]] (indexed action-space policy on Browser Harness, not a harness; not installed)
+
+https://github.com/EvilFreelancer/logika
+
+Wiki: [[wiki/sources/logika]] · [[10_Reference/tools/logika]] (Chelpanov formal-logic skill, not a harness; not installed)

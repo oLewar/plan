@@ -36,6 +36,7 @@ Detection stack:
 | Classic multiplexer (tmux / Zellij) | PTYs | Survive detach | No agent semantics |
 | Manager / dashboard app | A window | Usually die with the app | External |
 | **Agent-runtime multiplexer** | PTYs **and** agent state | Survive detach | Unchanged; runtime waits on `blocked` |
+| Self-healing CDP harness ([[wiki/concepts/self-healing-cdp-harness]]) | Chrome websocket | Dies with Chrome/daemon, not with the TUI | Unchanged; this is browser I/O |
 
 Status of «Herdr is strictly better than tmux for this host»: **Hypothesis** until installed and smoked.
 
@@ -64,7 +65,7 @@ Status of «Herdr is strictly better than tmux for this host»: **Hypothesis** u
 - Source: [[wiki/sources/herdr]]
 - Entity: [[wiki/entities/herdr]]
 - Tool: [[10_Reference/tools/herdr]]
-- Adjacent: [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/continual-harness]] (Prime Agent daemon owns the *agent*, Herdr owns the *PTY*), [[wiki/concepts/git-native-experiment-tree]] (OpenResearch owns *lineage*, Herdr owns *place*), [[wiki/concepts/human-in-the-loop-gtm]] (blocked pane still needs a human on approvals), [[wiki/concepts/typed-ir-artifact-delivery]] (diagram compiler ≠ PTY runtime)
+- Adjacent: [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/continual-harness]] (Prime Agent daemon owns the *agent*, Herdr owns the *PTY*), [[wiki/concepts/git-native-experiment-tree]] (OpenResearch owns *lineage*, Herdr owns *place*), [[wiki/concepts/self-healing-cdp-harness]] (Browser Harness owns *CDP*, Herdr owns *PTY*), [[wiki/concepts/human-in-the-loop-gtm]] (blocked pane still needs a human on approvals), [[wiki/concepts/typed-ir-artifact-delivery]] (diagram compiler ≠ PTY runtime)
 
 ## Sources
 

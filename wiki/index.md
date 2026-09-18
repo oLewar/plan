@@ -34,8 +34,13 @@
 - [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]] — offensive MCP+Flask CLI broker; MIT v6.0; not 12 LLM agents.
 - [[wiki/sources/tgrep|tgrep (microsoft/tgrep)]] — trigram-indexed grep + optional TCP serve; MIT v1.0.5; not a harness.
 - [[wiki/sources/openresearch|OpenResearch (alphaXiv/OpenResearch)]] — local-first research workspace (`orx`); MIT v0.2.3; git experiment tree; not a harness.
+- [[wiki/sources/browser-harness|Browser Harness (browser-use/browser-harness)]] — CDP CLI + writable `agent_helpers.py`; MIT v0.1.13; not a harness axis.
+- [[wiki/sources/jev-ultrafast|Jev Ultrafast (browser-use/jev-ultrafast)]] — indexed action-space policy on Browser Harness; MIT 0.1.0, no tags; not a harness.
+- [[wiki/sources/logika|Logika (EvilFreelancer/logika)]] — Chelpanov formal-logic skill; MIT 2.0.0; review/fix; not a harness.
 
 ## Entities
+- [[wiki/entities/browser-use|Browser Use]] — org; Browser Harness + Jev Ultrafast; browser I/O, not a loop.
+- [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]] — logika / rpa-skills; Chelpanov skill pack.
 - [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
 - [[wiki/entities/microsoft|Microsoft]] — GitHub org; publisher of tgrep (search index, not a loop).
 - [[wiki/entities/0x4m4|0x4m4 / Muhammad Osama]] — HexStrike author; OTT Cybersecurity LLC (GitHub company).
@@ -73,6 +78,9 @@
 - [[wiki/concepts/mcp-tool-broker|MCP tool broker]] — LLM stdio → local API → subprocess; HexStrike; bind/auth/generic-command are the safety facts.
 - [[wiki/concepts/trigram-index-search|Trigram-index search]] — candidates via 3-grams, then regex; tgrep; empty serve ≠ no symbol.
 - [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]] — freeze answered nodes; fixed run contract; stacked bushes; OpenResearch.
+- [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]] — daemon holds Chrome websocket; agent writes helpers, not the core; Browser Harness.
+- [[wiki/concepts/indexed-action-space|Indexed action space]] — closed ops + observed element index; DONE ≠ success; Jev.
+- [[wiki/concepts/formal-logic-skill|Formal-logic skill]] — form vs matter; named fallacies; Chelpanov via logika.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -92,6 +100,9 @@
 - [[10_Reference/tools/hexstrike-ai|HexStrike AI]] — FastMCP + Flask `:8888`; `execute_command`; reference only, do not install.
 - [[10_Reference/tools/tgrep|tgrep]] — `tgrep index` / `serve` / search; MIT v1.0.5; reference only, not installed.
 - [[10_Reference/tools/openresearch|OpenResearch]] — `orx up` / experiment tree; MIT v0.2.3; reference only, not installed.
+- [[10_Reference/tools/browser-harness|Browser Harness]] — `browser-harness` CDP CLI; MIT v0.1.13; reference only, not installed.
+- [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]] — typed browser policy; MIT 0.1.0; reference only, not installed.
+- [[10_Reference/tools/logika|Logika]] — `/logika` / `/logika:review`; MIT 2.0.0; reference only, not installed.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

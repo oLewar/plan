@@ -3,6 +3,70 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-18] ingest | Browser Harness (browser-use/browser-harness)
+- Source processed: https://github.com/browser-use/browser-harness (README main + SKILL.md + install.md + AGENTS.md + CLAUDE.md + pyproject.toml + plugin.json + MCP.md + sampled run.py/helpers.py/daemon.py/admin.py/telemetry.py/paths.py/mcp_server.py + GitHub API repo/release/tags/commits/org/recursive tree)
+- Raw: cron already moved to `40_Research/sources/agent-dev/browser-use-browser-harness-readme.md` (`601822e`). GitHub README sha256 `ee3cdce98e1163125222e61895228faeb188b100b61347369923be250105aab9` (2952 B, LF); after banner localization durable body sha256 `1bc61f1ce063cb01bacf833a3a170dde5e87c283b07e88d524bb41bbe11e7089` (2936 B). Wiki ingest does not re-add the capture.
+- Added pages:
+  - `wiki/sources/browser-harness.md`
+  - `wiki/entities/browser-use.md`
+  - `wiki/concepts/self-healing-cdp-harness.md`
+  - `10_Reference/tools/browser-harness.md`
+- Notes:
+  - MIT; **v0.1.13** (PyPI + GitHub 2026-09-04). HEAD `afbcc381b963` 2026-09-07 (past tag `c24e5072ee66`). Stars **17663** (API 2026-09-18). Created 2026-04-17.
+  - Tree 190 blobs / 113 trees. Skill contract in SKILL.md (~14 KB); README is marketing (~3 KB).
+  - Not a harness axis (browser I/O). This host: CLI not on PATH; Hermes `browser_exec` already uses the same helper names. Not installed.
+  - Telemetry opt-out PostHog EU; `cli_event` can include task string. plugin.json **0.1.0** ≠ PyPI. npm `browser-harness@0.0.58` is a different package.
+  - Domain skills (97 site dirs) off unless `BH_DOMAIN_SKILLS=1`.
+
+## [2026-09-18] ingest | Jev Ultrafast (browser-use/jev-ultrafast)
+- Source processed: https://github.com/browser-use/jev-ultrafast (README main + AGENTS.md + design.md + performance.md + pyproject.toml + .env.example + sampled agent.py/model.py/browser.py/questions.py/demo.py/examples/flights.py + flights-measurement.json + GitHub API repo/commits/tree)
+- Raw: cron already moved to `40_Research/sources/agent-dev/browser-use-jev-ultrafast-readme.md` (`601822e`). sha256 `fa269c28298a17792e9ed8738b4269e757d24f38ab83087908fcd256de458cfe` (8401 bytes, LF). Wiki ingest does not re-add the capture.
+- Added pages:
+  - `wiki/sources/jev-ultrafast.md`
+  - `wiki/concepts/indexed-action-space.md`
+  - `10_Reference/tools/jev-ultrafast.md`
+- Notes:
+  - MIT; pyproject **0.1.0**; **no git tags / no PyPI**. HEAD `452c1ad2dd62` 2026-09-17. Stars **3316** (API 2026-09-18). Created 2026-09-16.
+  - Tree 40 blobs / 6 trees. Pins `browser-harness==0.1.13`. Entity shared with Browser Harness.
+  - Author Flights recording **7073 ms**; matched median 9.450→7.092 s (3/3 pairs). DONE is not success. Not a harness axis. Not installed.
+
+## [2026-09-18] ingest | Logika (EvilFreelancer/logika)
+- Source processed: https://github.com/EvilFreelancer/logika (README main + SKILL.md + AGENTS.md + three plugin.json + commands/review.md + references heads + LICENSE + .gitignore + GitHub API repo/user/commits/tree + rpa-skills metadata)
+- Raw: cron already moved to `40_Research/sources/finance/EvilFreelancer-logika-readme.md` (`601822e`; finance route, not agent-dev). sha256 `6d70589be40da4784bdf6560725c75377b0c6635d3f0875eafc34db54f02efc0` (5824 bytes, LF). Wiki ingest does not re-add the capture.
+- Added pages:
+  - `wiki/sources/logika.md`
+  - `wiki/entities/pavel-rykov.md`
+  - `wiki/concepts/formal-logic-skill.md`
+  - `10_Reference/tools/logika.md`
+- Updated (all three ingestions):
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/continual-harness.md`
+  - `wiki/concepts/agent-runtime-multiplexer.md`
+  - `wiki/concepts/playbook-routed-agent-mode.md`
+  - `wiki/concepts/git-native-experiment-tree.md`
+  - `wiki/concepts/trigram-index-search.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `wiki/entities/deepseek.md`
+  - `wiki/entities/herdr.md`
+  - `wiki/entities/prime-intellect.md`
+  - `wiki/entities/cursor.md`
+  - `wiki/entities/alphaxiv.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - MIT; **2.0.0** in SKILL.md + Claude/Cursor/Codex plugin.json. **No tags.** HEAD `6554244dcc4b` 2026-08-02. Stars **140** (API 2026-09-18). Created 2026-06-26.
+  - Tree 16 blobs / 6 trees. `source/` (full Chelpanov text) is gitignored — not in public snapshot. `docs/konspekt.md` is.
+  - Skill pack, not a CLI/harness. Hermes not a listed target. Not installed. npm `logika@1.0.0` is unrelated.
+
 ## [2026-09-16] ingest | OpenResearch (alphaXiv/OpenResearch)
 - Source processed: https://github.com/alphaXiv/OpenResearch (README main + AGENTS.md + SKILL.md + SYSTEM_PROMPT.md + CLAUDE.md + LICENSE + Cargo.toml + dist-workspace.toml + docs/local-models.md + docs/windows.md + .gitignore + GitHub API repo/releases/tags/commits/org/recursive tree + sampled src/main.rs, store.rs, config.rs, telemetry.rs, local/{git,harness,datadir}.rs, commands/{mod,serve,telemetry,install_skills,up/harness_setup}.rs, ui/package.json, six agent-skills/orx-*/SKILL.md)
 - Raw: `raw/alphaXiv-OpenResearch-readme.md` (inbox; cron may move). sha256 `0c9042c88d535e3d061dd16e7a3a672ba3e06f25026ab81a92c6b48692bde752` (5645 bytes, LF)

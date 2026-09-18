@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **74**
+Всего: **85**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -70,6 +70,17 @@
 - [[wiki/entities/alphaxiv|alphaXiv]]
 - [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]
 - [[10_Reference/tools/openresearch|OpenResearch]]
+- [[wiki/sources/browser-harness|Browser Harness (source)]]
+- [[wiki/entities/browser-use|Browser Use]]
+- [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
+- [[10_Reference/tools/browser-harness|Browser Harness]]
+- [[wiki/sources/jev-ultrafast|Jev Ultrafast (source)]]
+- [[wiki/concepts/indexed-action-space|Indexed action space]]
+- [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]]
+- [[wiki/sources/logika|Logika (source)]]
+- [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]]
+- [[wiki/concepts/formal-logic-skill|Formal-logic skill]]
+- [[10_Reference/tools/logika|Logika]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

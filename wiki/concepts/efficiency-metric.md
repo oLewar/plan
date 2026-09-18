@@ -32,6 +32,9 @@
 - **Offensive MCP broker**: README 24× scan tables look high-Impact; unauthenticated `shell=True` on `0.0.0.0` drives Safety→0 on a shared host ([[wiki/sources/hexstrike-ai]], [[wiki/concepts/mcp-tool-broker]]).
 - **Trigram index vs scan**: cheap on large selective queries after `serve`; expensive if you pay TCP delivery on tens of thousands of matches, or wait on a cold empty index ([[wiki/sources/tgrep]], [[wiki/concepts/trigram-index-search]]).
 - **Git-native experiment tree**: cheap to freeze a measured baseline and stack children; expensive if you rewrite the node that produced the number, or infer from status without logs ([[wiki/sources/openresearch]], [[wiki/concepts/git-native-experiment-tree]]).
+- **CDP helper lane**: AX-tree click is cheaper than screenshot-only computer-use; a second local daemon for sequential work is the expensive Allow-prompt ([[wiki/sources/browser-harness]], [[wiki/concepts/self-healing-cdp-harness]]).
+- **Indexed ops**: one TypeSafe round-trip + text LLM only on TYPE_TEXT is cheap vs serial plan-then-click; treating 7.1 s as a SLA is expensive noise ([[wiki/sources/jev-ultrafast]], [[wiki/concepts/indexed-action-space]]).
+- **Named-fallacy table**: cheaper than unscoped «проверь текст»; inventing facts in fix-mode is the expensive material error ([[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -48,3 +51,6 @@
 - `[[wiki/sources/hexstrike-ai]]`
 - `[[wiki/sources/tgrep]]`
 - `[[wiki/sources/openresearch]]`
+- `[[wiki/sources/browser-harness]]`
+- `[[wiki/sources/jev-ultrafast]]`
+- `[[wiki/sources/logika]]`

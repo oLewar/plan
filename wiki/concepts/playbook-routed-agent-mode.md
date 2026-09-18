@@ -52,7 +52,7 @@ Sticky: stays on across turns when a playbook matches or the task needs rigor; s
 
 - Source: [[wiki/sources/pstack]]
 - Tool: [[10_Reference/tools/pstack]]
-- Neighbors: [[wiki/sources/mattpocock-skills]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/human-in-the-loop-gtm]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/git-native-experiment-tree]]
+- Neighbors: [[wiki/sources/mattpocock-skills]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/human-in-the-loop-gtm]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/git-native-experiment-tree]], [[wiki/concepts/formal-logic-skill]] (procedure skill, not a playbook router), [[wiki/concepts/indexed-action-space]]
 - Entities: [[wiki/entities/lauren-tan]], [[wiki/entities/cursor]]
 
 ## Sources

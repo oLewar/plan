@@ -12,7 +12,7 @@
 
 - Publisher of **Prime Agent**: self-improving RLM coding/eval harness (MIT, v0.8.1 at ingest).
 - Already appears as *people* in [[40_Research/ai-signal-monitor/x-ai-accounts]] (`@hallerite`, `@eliebakouch`, `@kalomaze`, alumni). This entity is the **lab/product** node.
-- Contrast labs in vault: [[wiki/entities/anthropic]] (Claude Code + Cowork), [[wiki/entities/deepseek]] (`dsh` plugin loop), [[wiki/entities/herdr]] (PTY runtime), [[wiki/entities/cursor]] (pstack style wrap), [[wiki/entities/alphaxiv]] (OpenResearch lineage workspace, not a loop).
+- Contrast labs in vault: [[wiki/entities/anthropic]] (Claude Code + Cowork), [[wiki/entities/deepseek]] (`dsh` plugin loop), [[wiki/entities/herdr]] (PTY runtime), [[wiki/entities/cursor]] (pstack style wrap), [[wiki/entities/alphaxiv]] (OpenResearch lineage workspace, not a loop), [[wiki/entities/browser-use]] (browser I/O, not a loop).
 
 ## What this vault currently knows
 
@@ -26,7 +26,7 @@
 - Source: [[wiki/sources/prime-agent]]
 - Concept: [[wiki/concepts/continual-harness]]
 - Tool: [[10_Reference/tools/prime-agent]]
-- Contrast: [[wiki/entities/deepseek]], [[wiki/entities/herdr]], [[wiki/entities/anthropic]], [[wiki/entities/cursor]], [[wiki/entities/alphaxiv]]
+- Contrast: [[wiki/entities/deepseek]], [[wiki/entities/herdr]], [[wiki/entities/anthropic]], [[wiki/entities/cursor]], [[wiki/entities/alphaxiv]], [[wiki/entities/browser-use]]
 
 ## Sources
 

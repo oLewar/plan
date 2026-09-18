@@ -19,6 +19,9 @@
 - MCP is a **transport**, not a sandbox: a tool broker can be unauthenticated `shell=True` on `0.0.0.0`; HexStrike is the public anti-pattern — not installed here ([[wiki/concepts/mcp-tool-broker]]).
 - Local code search can be **trigram-indexed** instead of O(bytes) per query; tgrep is the public case — empty cold serve ≠ missing symbol; not installed here ([[wiki/concepts/trigram-index-search]]).
 - Measured research variants can live as a **git-native experiment tree** (freeze answered nodes, fixed run command, stacked bushes); OpenResearch/`orx` is the public case — wraps Claude/Codex/OpenCode/Cursor, not Hermes; not installed here ([[wiki/concepts/git-native-experiment-tree]]).
+- A coding agent can drive a **real Chrome** through a frozen CDP helper CLI while writing only `agent_helpers.py`; Browser Harness is the public case — not a fifth harness axis; not installed here ([[wiki/concepts/self-healing-cdp-harness]]).
+- A browser policy can be a **closed operation set + observed element index** (text LLM only for `TYPE_TEXT`); Jev Ultrafast is the public case — DONE is not proof; not installed here ([[wiki/concepts/indexed-action-space]]).
+- Argument-checking can be a **portable skill** that names form vs matter and fallacies (RU+Latin); logika/Chelpanov is the public case — not a harness; not installed here ([[wiki/concepts/formal-logic-skill]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

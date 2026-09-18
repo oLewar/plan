@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **111**
+Всего: **119**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -115,3 +115,11 @@
 - [[wiki/sources/openresearch|OpenResearch (alphaXiv/OpenResearch)]]
 - [[wiki/entities/alphaxiv|alphaXiv]]
 - [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]]
+- [[wiki/sources/browser-harness|Browser Harness (browser-use/browser-harness)]]
+- [[wiki/entities/browser-use|Browser Use]]
+- [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
+- [[wiki/sources/jev-ultrafast|Jev Ultrafast (browser-use/jev-ultrafast)]]
+- [[wiki/concepts/indexed-action-space|Indexed action space]]
+- [[wiki/sources/logika|Logika (EvilFreelancer/logika)]]
+- [[wiki/entities/pavel-rykov|Pavel Rykov]]
+- [[wiki/concepts/formal-logic-skill|Formal-logic skill]]

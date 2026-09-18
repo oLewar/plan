@@ -43,6 +43,9 @@
 - **MCP ≠ sandbox**: the cause of host RCE is a generic `execute_command` + bind/auth, not «the model has tools»; lookup tables branded as agents are a separate lie ([[wiki/concepts/mcp-tool-broker]]).
 - **Empty grep ≠ missing symbol**: cold `tgrep serve`, incomplete on-disk index, membership-flag mismatch, 64 MiB cap, or an index-bypass flag are different causes ([[wiki/concepts/trigram-index-search]]).
 - **Failed experiment ≠ one cause**: empty run (repair same node), answered-but-bad (freeze + child), status-without-log (not evidence), dirty uncommitted tree (never ran) ([[wiki/concepts/git-native-experiment-tree]]).
+- **Browser failed ≠ one cause**: inspect-tick off, stale daemon, Snap Chromium, Cloud timeout, domain-skills never enabled ([[wiki/concepts/self-healing-cdp-harness]]).
+- **DONE ≠ success**: the model's stop token is not the page predicate; independent checks own the claim ([[wiki/concepts/indexed-action-space]]).
+- **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -59,3 +62,6 @@
 - `[[wiki/sources/hexstrike-ai]]`
 - `[[wiki/sources/tgrep]]`
 - `[[wiki/sources/openresearch]]`
+- `[[wiki/sources/browser-harness]]`
+- `[[wiki/sources/jev-ultrafast]]`
+- `[[wiki/sources/logika]]`

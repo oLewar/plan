@@ -13,7 +13,7 @@
 ## Relevance
 
 - Publisher of **OpenResearch** (`orx`): local-first research workspace that wraps coding-agent CLIs and records a git-native experiment tree.
-- Distinct from vault harness vendors ([[wiki/entities/deepseek]], [[wiki/entities/herdr]], [[wiki/entities/prime-intellect]], [[wiki/entities/cursor]]). Owns **lineage + dashboard + compute routing**, not an agent loop.
+- Distinct from vault harness vendors ([[wiki/entities/deepseek]], [[wiki/entities/herdr]], [[wiki/entities/prime-intellect]], [[wiki/entities/cursor]], [[wiki/entities/browser-use]]). Owns **lineage + dashboard + compute routing**, not an agent loop.
 - Already appears as an X account in the signal monitor (2026-06-18: «High fidelity research»; autoresearch agents for arXiv ingest). This entity is the **org/product** node.
 - Do not confuse with **OpenResearcher** (Zhuofeng Li / HF papers in the same monitor file) — different product, not ingested.
 
@@ -28,7 +28,7 @@
 - Source: [[wiki/sources/openresearch]]
 - Concept: [[wiki/concepts/git-native-experiment-tree]]
 - Tool: [[10_Reference/tools/openresearch]]
-- Contrast: [[wiki/entities/prime-intellect]], [[wiki/entities/herdr]], [[wiki/entities/deepseek]], [[wiki/entities/cursor]]
+- Contrast: [[wiki/entities/prime-intellect]], [[wiki/entities/herdr]], [[wiki/entities/deepseek]], [[wiki/entities/cursor]], [[wiki/entities/browser-use]]
 
 ## Sources
 
