@@ -8,6 +8,7 @@
 | Cloud | https://cloud.browser-use.com |
 | X | [@browser_use](https://x.com/browser_use) (org `twitter_username`) |
 | First wiki sources | [[wiki/sources/browser-harness]], [[wiki/sources/jev-ultrafast]] |
+| Adjacent catalog | [[wiki/sources/jev-usage-examples]] (other orgs' Jev backends; not Browser Use products) |
 | License (these two repos) | MIT, «Copyright (c) 2026 Browser Use» |
 
 ## Relevance
@@ -20,12 +21,13 @@
 ## What this vault currently knows
 
 - Browser Harness **v0.1.13** (PyPI + GitHub 2026-09-04). HEAD `afbcc381b963` (2026-09-07). Stars **17663** (API 2026-09-18). Repo created 2026-04-17.
-- Jev Ultrafast pyproject **0.1.0**, no tags. HEAD `452c1ad2dd62` (2026-09-17). Stars **3316**. Repo created 2026-09-16. Pins `browser-harness==0.1.13`.
+- Jev Ultrafast pyproject **0.1.0**, no tags. HEAD `452c1ad2dd62` (2026-09-17). Stars **3316** at first ingest (2026-09-18); **17303** on 2026-09-22 (API). Repo created 2026-09-16. Pins `browser-harness==0.1.13`.
 - This Hermes host: CLI **not on PATH**. `browser_exec` tool already speaks a Browser Use-shaped helper API — reference only, no second install.
+- A 20-repo Jev *usage* catalog lives at [[wiki/sources/jev-usage-examples]] — only item 1 is this org.
 
 ## Related
 
-- Sources: [[wiki/sources/browser-harness]], [[wiki/sources/jev-ultrafast]]
+- Sources: [[wiki/sources/browser-harness]], [[wiki/sources/jev-ultrafast]], [[wiki/sources/jev-usage-examples]]
 - Concepts: [[wiki/concepts/self-healing-cdp-harness]], [[wiki/concepts/indexed-action-space]]
 - Tools: [[10_Reference/tools/browser-harness]], [[10_Reference/tools/jev-ultrafast]]
 - Contrast: [[wiki/entities/herdr]], [[wiki/entities/deepseek]], [[wiki/entities/prime-intellect]], [[wiki/entities/cursor]]
@@ -34,3 +36,4 @@
 
 - [[wiki/sources/browser-harness]]
 - [[wiki/sources/jev-ultrafast]]
+- [[wiki/sources/jev-usage-examples]]

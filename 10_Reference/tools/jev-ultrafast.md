@@ -5,6 +5,7 @@ Browser **policy**: TypeSafe Jev picks operation + observed element in one reque
 - Full wiki source: [[wiki/sources/jev-ultrafast]]
 - Entity: [[wiki/entities/browser-use]]
 - Concept: [[wiki/concepts/indexed-action-space]]
+- Other Jev backends (catalog): [[wiki/sources/jev-usage-examples]]
 - GitHub: https://github.com/browser-use/jev-ultrafast
 - License: MIT
 - Version at ingest: pyproject **0.1.0**; **no git tags / no PyPI**; HEAD `452c1ad2dd62` (2026-09-17); stars **3316** (API 2026-09-18)

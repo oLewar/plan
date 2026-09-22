@@ -74,6 +74,7 @@ goal
 - Efficiency: one TypeSafe round-trip per cycle vs serial operation-then-target; no default screenshots in the library loop ([[wiki/concepts/efficiency-metric]]).
 - Honest steal without install: «model output never becomes selectors» + independent DONE check. Do not treat 7.1 s Flights as a product SLA.
 - Not a Hermes adapter. Needs `TYPESAFE_API_KEY` + text-model key + live Chrome via Browser Harness.
+- Sibling catalog of **other** Jev backends (not this loop): [[wiki/sources/jev-usage-examples]] (20 public repos, 2026-09-22).
 
 ## Status
 
@@ -87,6 +88,7 @@ goal
 - Concept: [[wiki/concepts/indexed-action-space]]
 - Runtime it sits on: [[wiki/sources/browser-harness]]
 - Tool card: [[10_Reference/tools/jev-ultrafast]]
+- Examples catalog: [[wiki/sources/jev-usage-examples]]
 
 ## Sources / provenance
 

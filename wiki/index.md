@@ -36,6 +36,7 @@
 - [[wiki/sources/openresearch|OpenResearch (alphaXiv/OpenResearch)]] — local-first research workspace (`orx`); MIT v0.2.3; git experiment tree; not a harness.
 - [[wiki/sources/browser-harness|Browser Harness (browser-use/browser-harness)]] — CDP CLI + writable `agent_helpers.py`; MIT v0.1.13; not a harness axis.
 - [[wiki/sources/jev-ultrafast|Jev Ultrafast (browser-use/jev-ultrafast)]] — indexed action-space policy on Browser Harness; MIT 0.1.0, no tags; not a harness.
+- [[wiki/sources/jev-usage-examples|Jev usage examples]] — catalog of 20 public Jev backends (compaction, MCP, routing, games, LP…); not 20 architecture ingests.
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]] — Chelpanov formal-logic skill; MIT 2.0.0; review/fix; not a harness.
 
 ## Entities

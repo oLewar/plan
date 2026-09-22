@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **119**
+Всего: **120**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -119,6 +119,7 @@
 - [[wiki/entities/browser-use|Browser Use]]
 - [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
 - [[wiki/sources/jev-ultrafast|Jev Ultrafast (browser-use/jev-ultrafast)]]
+- [[wiki/sources/jev-usage-examples|Jev usage examples]]
 - [[wiki/concepts/indexed-action-space|Indexed action space]]
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]]
 - [[wiki/entities/pavel-rykov|Pavel Rykov]]

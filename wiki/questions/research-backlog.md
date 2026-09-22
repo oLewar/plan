@@ -17,7 +17,7 @@
 14. Стоит ли ставить tgrep как grep-backend для агента на больших worktree (Hypothesis: candidate pruning beats `rg` on 100k+ files; loses on high match-volume / small Linux trees)? Не ставить, пока нет явного запроса. Copilot CLI integration не проверяли.
 15. Стоит ли ставить OpenResearch/`orx` как outer research workspace (Hypothesis: freeze-on-answer + stacked bushes beats spreadsheet+tmux for eval lineage)? Не ставить: нет Hermes-адаптера; pipe-to-sh + official telemetry; remote bind/auth **Unknown**. Process-borrow правил — да.
 16. Нужен ли отдельный `browser-harness` CLI рядом с Hermes `browser_exec` (Hypothesis: writable `agent_helpers.py` compounds; Safety: local Chrome = user cookies + opt-out PostHog `task` field)? Не ставить. Process-borrow AX-tree clicks — да.
-17. Стоит ли Jev/TypeSafe как browser policy (Hypothesis: indexed ops beat free CDP Python for form/nav)? Не ставить: paid TypeSafe + text-model keys; 7.1 s Flights is 3-pair author data. DONE-check steal — да.
+17. Стоит ли Jev/TypeSafe как browser policy (Hypothesis: indexed ops beat free CDP Python for form/nav)? Не ставить: paid TypeSafe + text-model keys; 7.1 s Flights is 3-pair author data. DONE-check steal — да. Adjacent backends: [[wiki/sources/jev-usage-examples]] — compaction/MCP/Canny closer to evidence gates than the Flights demo; still not install.
 18. Портировать ли logika/Chelpanov review format в Hermes (Hypothesis: named fallacies beat unscoped «проверь текст» for wiki/GTM drafts)? Не копировать SKILL.md в `~/.hermes/skills` без запроса. Шаблон отчёта — process-borrow.
 
 ## Next actions
@@ -40,4 +40,5 @@
 - `[[wiki/sources/openresearch]]`
 - `[[wiki/sources/browser-harness]]`
 - `[[wiki/sources/jev-ultrafast]]`
+- `[[wiki/sources/jev-usage-examples]]`
 - `[[wiki/sources/logika]]`

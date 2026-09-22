@@ -19,6 +19,7 @@
 - [[wiki/sources/browser-harness]]
 - [[wiki/concepts/self-healing-cdp-harness]]
 - [[wiki/sources/jev-ultrafast]]
+- [[wiki/sources/jev-usage-examples]]
 - [[wiki/concepts/indexed-action-space]]
 - [[wiki/sources/logika]]
 - [[wiki/concepts/formal-logic-skill]]

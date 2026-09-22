@@ -57,10 +57,12 @@ Status of «7.1 s Flights is a general browser SLA»: **Refuted** as a general c
 - Causal hygiene: **choice ≠ generation**. Bound the action space when the failure mode is hallucinated selectors ([[wiki/concepts/causal-analysis]]).
 - Efficiency: skip pixels in the default loop; pay a text LLM only for fields ([[wiki/concepts/efficiency-metric]]).
 - Honest steal: independent DONE check + «no selectors from the model» — without standing up TypeSafe or pinning `browser-harness==0.1.13` on this host.
+- The same *closed question + code owns workflow* pattern shows up outside the browser: compaction, MCP tools, Codex routing, desktop AX, games, LP gates. Catalog: [[wiki/sources/jev-usage-examples]]. Those are judgment backends, not a fifth harness axis.
 
 ## Related
 
 - Source: [[wiki/sources/jev-ultrafast]]
+- Examples: [[wiki/sources/jev-usage-examples]]
 - Runtime it requires: [[wiki/sources/browser-harness]], [[wiki/concepts/self-healing-cdp-harness]]
 - Entity: [[wiki/entities/browser-use]]
 - Tool: [[10_Reference/tools/jev-ultrafast]]
@@ -69,3 +71,4 @@ Status of «7.1 s Flights is a general browser SLA»: **Refuted** as a general c
 ## Sources
 
 - [[wiki/sources/jev-ultrafast]]
+- [[wiki/sources/jev-usage-examples]]

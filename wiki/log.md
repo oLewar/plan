@@ -3,6 +3,35 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-22] ingest | Jev usage examples (20 public repos)
+- Source processed: user list of 20 GitHub URLs as **examples of Jev use**, not 20 architecture ingests. GitHub API `/repos` + README + recursive trees for all 20; extra files for json-render Jev docs, Prism `engine/jev-*.ts`, Canny § Jev, agent-desktop `skills/jev-desktop/SKILL.md`, jev-review README, several package/Cargo/pyproject versions.
+- Item 1 [[wiki/sources/jev-ultrafast]] already ingested 2026-09-18; README drifted 8401→8650 B (waitlist banner). Not re-ingested.
+- No `raw/` inbox for 2–20 (catalog class; would race cron 20×).
+- Added pages:
+  - `wiki/sources/jev-usage-examples.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/log.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/sources/jev-ultrafast.md`
+  - `wiki/concepts/indexed-action-space.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/entities/browser-use.md`
+  - `10_Reference/tools/jev-ultrafast.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Stars 2026-09-22 API. json-render 18025 Apache-2.0 v0.21.0 (Jev composer experimental/unreleased). jev-ultrafast 17303 (was 3316 on 2026-09-18).
+  - License API `None`: blink, typesafe-mario, OneVOneJev, killmyidea.
+  - Hermes: typesafe-mcp does **not** list it; jev-codex-router reads `~/.hermes/.env` for the TypeSafe key; Prism can POST Hermes HTTP for alerts. Jev never drives Prism ENTER/EXIT.
+  - Not a fifth harness axis. None of 2–20 installed. Author speed/money tables stay labelled.
+
 ## [2026-09-18] ingest | Browser Harness (browser-use/browser-harness)
 - Source processed: https://github.com/browser-use/browser-harness (README main + SKILL.md + install.md + AGENTS.md + CLAUDE.md + pyproject.toml + plugin.json + MCP.md + sampled run.py/helpers.py/daemon.py/admin.py/telemetry.py/paths.py/mcp_server.py + GitHub API repo/release/tags/commits/org/recursive tree)
 - Raw: cron already moved to `40_Research/sources/agent-dev/browser-use-browser-harness-readme.md` (`601822e`). GitHub README sha256 `ee3cdce98e1163125222e61895228faeb188b100b61347369923be250105aab9` (2952 B, LF); after banner localization durable body sha256 `1bc61f1ce063cb01bacf833a3a170dde5e87c283b07e88d524bb41bbe11e7089` (2936 B). Wiki ingest does not re-add the capture.

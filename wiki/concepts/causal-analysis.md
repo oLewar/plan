@@ -64,4 +64,5 @@
 - `[[wiki/sources/openresearch]]`
 - `[[wiki/sources/browser-harness]]`
 - `[[wiki/sources/jev-ultrafast]]`
+- `[[wiki/sources/jev-usage-examples]]`
 - `[[wiki/sources/logika]]`

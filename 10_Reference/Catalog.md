@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **85**
+Всего: **86**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -75,6 +75,7 @@
 - [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
 - [[10_Reference/tools/browser-harness|Browser Harness]]
 - [[wiki/sources/jev-ultrafast|Jev Ultrafast (source)]]
+- [[wiki/sources/jev-usage-examples|Jev usage examples]]
 - [[wiki/concepts/indexed-action-space|Indexed action space]]
 - [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]]
 - [[wiki/sources/logika|Logika (source)]]

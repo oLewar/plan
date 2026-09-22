@@ -62,6 +62,7 @@
 - [[wiki/entities/browser-use|Browser Use]] / [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]]
 - [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]] — indexed action policy; MIT 0.1.0; reference only
 - [[wiki/sources/jev-ultrafast|Jev Ultrafast (source)]] — README + agent.py + design/performance + tree
+- [[wiki/sources/jev-usage-examples|Jev usage examples]] — 20 public Jev backends (catalog)
 - [[wiki/concepts/indexed-action-space|Indexed action space]]
 - [[10_Reference/tools/logika|Logika]] — Chelpanov skill; MIT 2.0.0; reference only
 - [[wiki/sources/logika|Logika (source)]] — SKILL.md + AGENTS.md + plugin.json 2.0.0
