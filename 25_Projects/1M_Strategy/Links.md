@@ -39,4 +39,5 @@ tags:
 - Jev Ultrafast / indexed action space (not a harness; not installed): [[wiki/sources/jev-ultrafast]], [[wiki/concepts/indexed-action-space]]
 - Jev usage examples (20 public backends; catalog, not 20 products): [[wiki/sources/jev-usage-examples]]
 - Logika / Chelpanov formal-logic skill (not a harness; not installed): [[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]
+- RRSI / regularized harness-diff search (not `/refine`, not a fifth axis; not installed): [[wiki/sources/rrsi]], [[wiki/concepts/regularized-harness-search]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

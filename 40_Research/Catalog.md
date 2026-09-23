@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **120**
+Всего: **123**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -124,3 +124,6 @@
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]]
 - [[wiki/entities/pavel-rykov|Pavel Rykov]]
 - [[wiki/concepts/formal-logic-skill|Formal-logic skill]]
+- [[wiki/sources/rrsi|RRSI (google-research/rrsi)]]
+- [[wiki/entities/google-research|Google Research]]
+- [[wiki/concepts/regularized-harness-search|Regularized harness search]]

@@ -41,4 +41,4 @@ prime-agent shutdown [--force]
 
 ## Mental model
 
-REPL + daemon + self-editing *supplemental* harness. Contrast loop-replace ([[wiki/concepts/everything-is-a-plugin]]), PTY runtime ([[wiki/concepts/agent-runtime-multiplexer]]), playbook wrap ([[wiki/concepts/playbook-routed-agent-mode]]).
+REPL + daemon + self-editing *supplemental* harness. Contrast loop-replace ([[wiki/concepts/everything-is-a-plugin]]), PTY runtime ([[wiki/concepts/agent-runtime-multiplexer]]), playbook wrap ([[wiki/concepts/playbook-routed-agent-mode]]), measured harness-diff search ([[wiki/concepts/regularized-harness-search]] — RRSI can reject; `/refine` writes).

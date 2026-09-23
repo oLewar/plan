@@ -3,6 +3,39 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-23] ingest | RRSI (google-research/rrsi)
+- Source processed: https://github.com/google-research/rrsi (README main + pyproject.toml + `rrsi/{__init__,config,selection,schedule,components,critic,llm}.py` + `loop.round` sketch + `domains/{coding,workspace,eng}/{rrsi.json,README.md}` + arXiv abs API 2609.24972 + GitHub API repo/languages/tree/commits/tags). Not cloned. Not installed.
+- Raw: cron `f4921ae` moved inbox to `40_Research/sources/finance/google-research-rrsi-readme.md` (theme route finance, not agent-dev). Body sha256 `4822dae4f4bf69a4502bfbf23ebbf80aeccd65e1f0cefde3652cafda586cfac8` (12070 B, LF) still matches GitHub README. No `__2` sibling. Wiki does not re-add the capture.
+- Added pages:
+  - `wiki/sources/rrsi.md`
+  - `wiki/entities/google-research.md`
+  - `wiki/concepts/regularized-harness-search.md`
+  - `10_Reference/tools/rrsi.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/log.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/continual-harness.md`
+  - `wiki/concepts/everything-is-a-plugin.md`
+  - `wiki/concepts/git-native-experiment-tree.md`
+  - `wiki/concepts/memory-poisoning.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/entities/prime-intellect.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/tools/prime-agent.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Package 0.1.0, **zero tags**. Stars 174 / forks 14 (API 2026-09-23). HEAD `e4d1a7a0388e` (2026-09-22). Tree 128 blobs.
+  - Not a fifth harness axis. Not `/refine`: incumbent is a commit; critic + `S* - delta` + token rule can keep `H_t`. Coding `w_s=0`.
+  - Author table (Opus 4.8 vs H_0) and abstract +14.1 / +4.7 / −30% tokens stay author claims. PDF not read.
+  - Do not point the loop at SOUL/memories.
+
 ## [2026-09-22] ingest | Jev usage examples (20 public repos)
 - Source processed: user list of 20 GitHub URLs as **examples of Jev use**, not 20 architecture ingests. GitHub API `/repos` + README + recursive trees for all 20; extra files for json-render Jev docs, Prism `engine/jev-*.ts`, Canny § Jev, agent-desktop `skills/jev-desktop/SKILL.md`, jev-review README, several package/Cargo/pyproject versions.
 - Item 1 [[wiki/sources/jev-ultrafast]] already ingested 2026-09-18; README drifted 8401→8650 B (waitlist banner). Not re-ingested.

@@ -46,6 +46,7 @@
 - **Browser failed ≠ one cause**: inspect-tick off, stale daemon, Snap Chromium, Cloud timeout, domain-skills never enabled ([[wiki/concepts/self-healing-cdp-harness]]).
 - **DONE ≠ success**: the model's stop token is not the page predicate; independent checks own the claim ([[wiki/concepts/indexed-action-space]]).
 - **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
+- **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`

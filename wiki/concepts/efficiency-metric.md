@@ -35,6 +35,7 @@
 - **CDP helper lane**: AX-tree click is cheaper than screenshot-only computer-use; a second local daemon for sequential work is the expensive Allow-prompt ([[wiki/sources/browser-harness]], [[wiki/concepts/self-healing-cdp-harness]]).
 - **Indexed ops**: one TypeSafe round-trip + text LLM only on TYPE_TEXT is cheap vs serial plan-then-click; treating 7.1 s as a SLA is expensive noise ([[wiki/sources/jev-ultrafast]], [[wiki/concepts/indexed-action-space]]). Other Jev backends (compaction, Canny done-gate) are cheaper process-borrows than standing up TypeSafe ([[wiki/sources/jev-usage-examples]]).
 - **Named-fallacy table**: cheaper than unscoped «проверь текст»; inventing facts in fix-mode is the expensive material error ([[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]).
+- **Regularized harness search**: cheap to reject a within-noise or leaky harness diff before another full eval; expensive if the loop is pointed at SOUL/memories (that is the overfit the critic exists to catch) ([[wiki/sources/rrsi]], [[wiki/concepts/regularized-harness-search]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`

@@ -38,6 +38,7 @@ Formalism used by PI: H = (ρ, G, K, M) — prompts, subagents, skills, memory. 
 | Git-native experiment tree ([[wiki/concepts/git-native-experiment-tree]]) | child *branches* after a measured node | Human/agent creating a child; freeze is the gate |
 | Self-healing CDP harness ([[wiki/concepts/self-healing-cdp-harness]]) | `agent_helpers.py` (task helpers, not identity) | Agent, scoped to browser workspace |
 | Indexed action space ([[wiki/concepts/indexed-action-space]]) | nothing in the loop; policy is code | Human running Jev; DONE still needs a checker |
+| Regularized harness search ([[wiki/concepts/regularized-harness-search]]) | a candidate harness diff in a worktree | Critic + noise floor + token budget; else keep `H_t` (RRSI) |
 
 Status of «self-refine beats hand-written skills in production coding»: **Hypothesis** (author evals; Factorio also refined a *cheat*).
 
@@ -63,7 +64,7 @@ Status of «self-refine beats hand-written skills in production coding»: **Hypo
 - Source: [[wiki/sources/prime-agent]]
 - Entity: [[wiki/entities/prime-intellect]]
 - Tool: [[10_Reference/tools/prime-agent]]
-- Adjacent: [[wiki/concepts/memory-poisoning]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/git-native-experiment-tree]] (OpenResearch freezes a *branch*, `/refine` mutates next-turn *prompt*), [[wiki/concepts/self-healing-cdp-harness]] (helper file ≠ identity CRUD)
+- Adjacent: [[wiki/concepts/memory-poisoning]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/git-native-experiment-tree]] (OpenResearch freezes a *branch*, `/refine` mutates next-turn *prompt*), [[wiki/concepts/self-healing-cdp-harness]] (helper file ≠ identity CRUD), [[wiki/concepts/regularized-harness-search]] (RRSI measures a harness diff and can reject it; not a next-turn memory write)
 
 ## Sources
 

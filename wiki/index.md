@@ -38,8 +38,10 @@
 - [[wiki/sources/jev-ultrafast|Jev Ultrafast (browser-use/jev-ultrafast)]] — indexed action-space policy on Browser Harness; MIT 0.1.0, no tags; not a harness.
 - [[wiki/sources/jev-usage-examples|Jev usage examples]] — catalog of 20 public Jev backends (compaction, MCP, routing, games, LP…); not 20 architecture ingests.
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]] — Chelpanov formal-logic skill; MIT 2.0.0; review/fix; not a harness.
+- [[wiki/sources/rrsi|RRSI (google-research/rrsi)]] — regularized harness-diff search; Apache-2.0 0.1.0, no tags; not a fifth axis.
 
 ## Entities
+- [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
 - [[wiki/entities/browser-use|Browser Use]] — org; Browser Harness + Jev Ultrafast; browser I/O, not a loop.
 - [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]] — logika / rpa-skills; Chelpanov skill pack.
 - [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
@@ -73,6 +75,7 @@
 - [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]] — sticky mode matches a playbook, copies steps verbatim, routes skills; pstack `/poteto-mode`.
 - [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]] — server owns PTYs + semantic agent state; UI is a client; Herdr.
 - [[wiki/concepts/continual-harness|Continual harness]] — agent CRUD on supplemental prompts/memories/skills/subagents; `/refine`; base prompt frozen.
+- [[wiki/concepts/regularized-harness-search|Regularized harness search]] — annealed edit budget + leakage critic + noise/token gate; RRSI; not `/refine`.
 - [[wiki/concepts/composed-error-analysis|Composed error analysis]] — overall ANN error = approximation + optimization + generalization.
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]] — hot RAM + cold SSD paged KV; prefix restore after restart; oMLX.
 - [[wiki/concepts/typed-ir-artifact-delivery|Typed IR artifact delivery]] — schema+layout gates before last-good HTML; Archify.
@@ -104,6 +107,7 @@
 - [[10_Reference/tools/browser-harness|Browser Harness]] — `browser-harness` CDP CLI; MIT v0.1.13; reference only, not installed.
 - [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]] — typed browser policy; MIT 0.1.0; reference only, not installed.
 - [[10_Reference/tools/logika|Logika]] — `/logika` / `/logika:review`; MIT 2.0.0; reference only, not installed.
+- [[10_Reference/tools/rrsi|RRSI]] — `rrsi.py --domain … run`; Apache-2.0 0.1.0; reference only, not installed.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

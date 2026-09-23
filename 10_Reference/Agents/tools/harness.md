@@ -59,3 +59,9 @@ Catalog of other Jev backends: [[wiki/sources/jev-usage-examples]] (20 repos; no
 https://github.com/EvilFreelancer/logika
 
 Wiki: [[wiki/sources/logika]] · [[10_Reference/tools/logika]] (Chelpanov formal-logic skill, not a harness; not installed)
+
+https://github.com/google-research/rrsi
+https://arxiv.org/abs/2609.24972
+https://regularized-rsi.com/
+
+Wiki: [[wiki/sources/rrsi]] · [[10_Reference/tools/rrsi]] (regularized harness-diff search, not a fifth axis; not installed; do not point at SOUL)

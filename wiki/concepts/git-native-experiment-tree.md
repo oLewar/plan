@@ -69,7 +69,7 @@ Status of «OpenResearch is strictly better than a spreadsheet + tmux for this h
 - Source: [[wiki/sources/openresearch]]
 - Entity: [[wiki/entities/alphaxiv]]
 - Tool: [[10_Reference/tools/openresearch]]
-- Adjacent: [[wiki/concepts/continual-harness]], [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/self-healing-cdp-harness]], [[wiki/concepts/memory-poisoning]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]]
+- Adjacent: [[wiki/concepts/continual-harness]], [[wiki/concepts/regularized-harness-search]] (RRSI also uses worktrees, but the gate is critic+floor+token budget on a harness diff, and a non-win keeps `H_t`), [[wiki/concepts/agent-runtime-multiplexer]], [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/playbook-routed-agent-mode]], [[wiki/concepts/self-healing-cdp-harness]], [[wiki/concepts/memory-poisoning]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]]
 
 ## Sources
 

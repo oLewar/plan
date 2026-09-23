@@ -22,6 +22,7 @@
 - A coding agent can drive a **real Chrome** through a frozen CDP helper CLI while writing only `agent_helpers.py`; Browser Harness is the public case — not a fifth harness axis; not installed here ([[wiki/concepts/self-healing-cdp-harness]]).
 - A browser policy can be a **closed operation set + observed element index** (text LLM only for `TYPE_TEXT`); Jev Ultrafast is the public case — DONE is not proof; not installed here ([[wiki/concepts/indexed-action-space]]). The same judgment-backend pattern has a 20-repo catalog ([[wiki/sources/jev-usage-examples]]) — still not a harness axis.
 - Argument-checking can be a **portable skill** that names form vs matter and fallacies (RU+Latin); logika/Chelpanov is the public case — not a harness; not installed here ([[wiki/concepts/formal-logic-skill]]).
+- Harness *diffs* can be searched offline and rejected for leakage, noise, or token cost; RRSI is the public case — frozen model, not `/refine`, not installed here ([[wiki/concepts/regularized-harness-search]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **86**
+Всего: **90**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -82,6 +82,10 @@
 - [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]]
 - [[wiki/concepts/formal-logic-skill|Formal-logic skill]]
 - [[10_Reference/tools/logika|Logika]]
+- [[wiki/sources/rrsi|RRSI (source)]]
+- [[wiki/entities/google-research|Google Research]]
+- [[wiki/concepts/regularized-harness-search|Regularized harness search]]
+- [[10_Reference/tools/rrsi|RRSI]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

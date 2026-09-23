@@ -23,6 +23,8 @@
 - [[wiki/concepts/indexed-action-space]]
 - [[wiki/sources/logika]]
 - [[wiki/concepts/formal-logic-skill]]
+- [[wiki/sources/rrsi]]
+- [[wiki/concepts/regularized-harness-search]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

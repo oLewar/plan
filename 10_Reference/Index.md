@@ -67,4 +67,7 @@
 - [[10_Reference/tools/logika|Logika]] — Chelpanov skill; MIT 2.0.0; reference only
 - [[wiki/sources/logika|Logika (source)]] — SKILL.md + AGENTS.md + plugin.json 2.0.0
 - [[wiki/entities/pavel-rykov|Pavel Rykov]] / [[wiki/concepts/formal-logic-skill|Formal-logic skill]]
+- [[10_Reference/tools/rrsi|RRSI]] — regularized harness search; Apache-2.0 0.1.0; reference only, not installed
+- [[wiki/sources/rrsi|RRSI (source)]] — README + selection/schedule + three `rrsi.json` + arXiv abstract
+- [[wiki/entities/google-research|Google Research]] / [[wiki/concepts/regularized-harness-search|Regularized harness search]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

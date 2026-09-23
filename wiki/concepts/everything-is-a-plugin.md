@@ -40,6 +40,7 @@ Swap the provider → Bash, PTY, LSP move with it.
 | Self-healing CDP harness ([[wiki/concepts/self-healing-cdp-harness]]) | host loop unchanged; **browser I/O** is the product | daemon + writable `agent_helpers.py` (Browser Harness) |
 | Indexed action space ([[wiki/concepts/indexed-action-space]]) | host loop unchanged; **policy** over observed nodes | op + index; no selectors from the model (Jev) |
 | Formal-logic skill ([[wiki/concepts/formal-logic-skill]]) | host loop unchanged; **procedure** | Chelpanov review/fix (logika) |
+| Regularized harness search ([[wiki/concepts/regularized-harness-search]]) | host loop unchanged; **search** over harness diffs | critic + noise/token gate (RRSI); not `/refine` |
 
 Status of “loop is really replaceable in production”: **Hypothesis** until we run DSH and swap `dsh-agent-loop`.
 
@@ -64,7 +65,7 @@ Status of “loop is really replaceable in production”: **Hypothesis** until w
 - Source: [[wiki/sources/deepseek-harness]]
 - Entity: [[wiki/entities/deepseek]]
 - Tool: [[10_Reference/tools/deepseek-harness]]
-- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace), [[wiki/concepts/agent-runtime-multiplexer]] (place ≠ loop), [[wiki/concepts/continual-harness]] (self-edit supplemental state ≠ swap the loop), [[wiki/concepts/git-native-experiment-tree]] (freeze measured variants ≠ swap the loop), [[wiki/concepts/self-healing-cdp-harness]] (browser I/O ≠ swap the loop), [[wiki/concepts/indexed-action-space]] (typed ops ≠ swap the loop), [[wiki/concepts/formal-logic-skill]] (procedure skill ≠ swap the loop), [[wiki/concepts/tiered-kv-cache]] (local weights/KV ≠ loop), [[wiki/concepts/typed-ir-artifact-delivery]] (community DSH skill snapshot ≠ latest Archify; still not a loop)
+- Adjacent: [[wiki/concepts/high-agency]], [[wiki/concepts/barbell-strategy]] (frontier harness + timeless gates), [[wiki/concepts/playbook-routed-agent-mode]] (style wrap ≠ runtime replace), [[wiki/concepts/agent-runtime-multiplexer]] (place ≠ loop), [[wiki/concepts/continual-harness]] (self-edit supplemental state ≠ swap the loop), [[wiki/concepts/git-native-experiment-tree]] (freeze measured variants ≠ swap the loop), [[wiki/concepts/regularized-harness-search]] (measure a harness diff ≠ swap the loop), [[wiki/concepts/self-healing-cdp-harness]] (browser I/O ≠ swap the loop), [[wiki/concepts/indexed-action-space]] (typed ops ≠ swap the loop), [[wiki/concepts/formal-logic-skill]] (procedure skill ≠ swap the loop), [[wiki/concepts/tiered-kv-cache]] (local weights/KV ≠ loop), [[wiki/concepts/typed-ir-artifact-delivery]] (community DSH skill snapshot ≠ latest Archify; still not a loop)
 
 ## Sources
 
