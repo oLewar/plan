@@ -27,6 +27,8 @@
 - [[wiki/concepts/regularized-harness-search]]
 - [[wiki/sources/clm]]
 - [[wiki/concepts/contrastive-action-ranker]]
+- [[wiki/sources/sutskever-30-implementations]]
+- [[wiki/concepts/numpy-paper-toy]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

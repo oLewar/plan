@@ -40,10 +40,12 @@
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]] — Chelpanov formal-logic skill; MIT 2.0.0; review/fix; not a harness.
 - [[wiki/sources/rrsi|RRSI (google-research/rrsi)]] — regularized harness-diff search; Apache-2.0 0.1.0, no tags; not a fifth axis.
 - [[wiki/sources/clm|CLM (Contrastive-LM/CLM)]] — local System One ranker; Apache-2.0 0.1.0, no tags; same wire as Jev; not a harness.
+- [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (pageman)]] — 30 NumPy notebooks for Sutskever's list; no license, no tags; 6/30 update weights; not a library.
 
 ## Entities
 - [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
 - [[wiki/entities/contrastive-lm|Contrastive-LM]] — org; CLM local System One ranker; not a loop vendor.
+- [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]] — author of the Sutskever-30 NumPy notebooks; not Sutskever; not a lab.
 - [[wiki/entities/browser-use|Browser Use]] — org; Browser Harness + Jev Ultrafast; browser I/O, not a loop.
 - [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]] — logika / rpa-skills; Chelpanov skill pack.
 - [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
@@ -88,6 +90,7 @@
 - [[wiki/concepts/indexed-action-space|Indexed action space]] — closed ops + observed element index; DONE ≠ success; Jev.
 - [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]] — embed state and each candidate; softmax; CLM; same wire as Jev, local weights.
 - [[wiki/concepts/formal-logic-skill|Formal-logic skill]] — form vs matter; named fallacies; Chelpanov via logika.
+- [[wiki/concepts/numpy-paper-toy|NumPy paper toy]] — see the op on synthetic data; a file is not a reproduction; Sutskever-30.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -112,6 +115,7 @@
 - [[10_Reference/tools/logika|Logika]] — `/logika` / `/logika:review`; MIT 2.0.0; reference only, not installed.
 - [[10_Reference/tools/rrsi|RRSI]] — `rrsi.py --domain … run`; Apache-2.0 0.1.0; reference only, not installed.
 - [[10_Reference/tools/clm|CLM]] — `clm-serve` + vLLM pooling; Apache-2.0 0.1.0; reference only, not installed.
+- [[10_Reference/tools/sutskever-30-implementations|Sutskever 30 implementations]] — Jupyter notebooks; no SPDX; reference only, not cloned.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

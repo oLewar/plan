@@ -21,6 +21,7 @@
 18. Портировать ли logika/Chelpanov review format в Hermes (Hypothesis: named fallacies beat unscoped «проверь текст» for wiki/GTM drafts)? Не копировать SKILL.md в `~/.hermes/skills` без запроса. Шаблон отчёта — process-borrow.
 19. Заимствовать ли RRSI selection (noise floor + token budget + leakage critic, coding `w_s=0`) вместо ungated `/refine` (Hypothesis: measured reject beats trajectory→SOUL)? Не ставить и не направлять цикл на `SOUL.md` / memories. Process-borrow чеклиста — да. PDF ещё не читали. Числа README — author claims.
 20. Ставить ли CLM как локальный System One вместо hosted Jev (Hypothesis: same wire, no API key, cache makes repeated actions cheap)? Не ставить: нужен vLLM+GPU; 9× / 87.6% / 81.6% — author claims. T-Rex 5/5 survival is with the planner shield on (CLM agrees 0.658, Jev 0.987). Process-borrow: don't quote a shielded score as the model's.
+21. Читать ли ноутбуки pageman/sutskever-30 как учебник (Hypothesis: seeing the op in NumPy beats another framework tutorial)? Не ставить и не клонировать без запроса. Бейдж 30/30 — число файлов: цикл с обновлением весов в 6 (`02`,`05`,`09`,`18`,`26`,`27`), сохранённых выводов 0. Paper 22 — нарисованный степенной закон, не замер. Process-borrow: карта механизмов — да; цитировать как воспроизведение статьи — нет.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -46,3 +47,4 @@
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/rrsi]]`
 - `[[wiki/sources/clm]]`
+- `[[wiki/sources/sutskever-30-implementations]]`

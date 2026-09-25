@@ -3,6 +3,34 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-25] ingest | Sutskever 30 implementations (pageman)
+- Source processed: https://github.com/pageman/sutskever-30-implementations (README main + GitHub API repo/languages/tree/commits/tags/releases + all 30 `.ipynb` and root `.py` downloaded and censused as source). Not cloned. Not executed. Gumroad Colab page not fetched. Sibling repos `Sutskever-Agent` and `sutskever-30-beyond-numpy` API-card only.
+- Raw inbox: `raw/pageman-sutskever-30-implementations-readme.md`. README sha256 `fe4c68a3b5d53d9bdb84f2da9fcb4bce9ef57ab8e8acd211eeb0b6f8ac02cbcc` (23411 B, LF). Cron may move it; do not dual-write.
+- Added pages:
+  - `wiki/sources/sutskever-30-implementations.md`
+  - `wiki/entities/paul-pajo.md`
+  - `wiki/concepts/numpy-paper-toy.md`
+  - `10_Reference/tools/sutskever-30-implementations.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/log.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/barbell-strategy.md`
+  - `wiki/concepts/composed-error-analysis.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - No SPDX license, no tags, no releases. Stars 4575 / forks 591 (API 2026-09-25). HEAD `225cba7b0362` (2026-03-15). Tree 88 blobs. README claims NumPy-only and 30/30.
+  - Census: saved cell outputs **0/30**. A loop that updates weights is in **6** (`02`, `05`, `09`, `18`, `26`, `27`). Paper 13 is a forward block. Paper 22 simulates scaling curves. SciPy imports in a minority; JAX/TF appear as "port this" notes.
+  - Not a harness. Not installed. Do not cite a notebook as a reproduction of the paper.
+
 ## [2026-09-25] ingest | CLM (Contrastive-LM/CLM)
 - Source processed: https://github.com/Contrastive-LM/CLM (README main + pyproject.toml + `src/clm/{__init__,schema,engine,client,heads}.py` + `examples/t_rex/README.md` + `trex/backends.py` + `results/{clm,jev}_realtime.json` + `docs/FINETUNING.md` head + GitHub API repo/languages/tree/commits/tags). Not cloned. Not installed. Blog and weight file not fetched. Org API not fetched.
 - Raw inbox: `raw/Contrastive-LM-CLM-readme.md`. README sha256 `e0f9a2a5016a314f6f963ca1d759f044895f5ca4bb134cc4e8e3e3f2a1a1483e` (21687 B, LF). Cron may move it; do not dual-write.

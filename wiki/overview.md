@@ -23,6 +23,7 @@
 - A browser policy can be a **closed operation set + observed element index** (text LLM only for `TYPE_TEXT`); Jev Ultrafast is the public case — DONE is not proof; not installed here ([[wiki/concepts/indexed-action-space]]). The same judgment-backend pattern has a 20-repo catalog ([[wiki/sources/jev-usage-examples]]) — still not a harness axis. A local speaker of the same System One wire is CLM ([[wiki/concepts/contrastive-action-ranker]]) — not installed here.
 - Argument-checking can be a **portable skill** that names form vs matter and fallacies (RU+Latin); logika/Chelpanov is the public case — not a harness; not installed here ([[wiki/concepts/formal-logic-skill]]).
 - Harness *diffs* can be searched offline and rejected for leakage, noise, or token cost; RRSI is the public case — frozen model, not `/refine`, not installed here ([[wiki/concepts/regularized-harness-search]]).
+- A paper notebook can show the operation in NumPy without reproducing the paper; Sutskever-30 is the public case — 6/30 update weights, 0/30 saved outputs ([[wiki/concepts/numpy-paper-toy]]). Not cloned here.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

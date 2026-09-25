@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **126**
+Всего: **129**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -130,3 +130,6 @@
 - [[wiki/sources/clm|CLM (Contrastive-LM/CLM)]]
 - [[wiki/entities/contrastive-lm|Contrastive-LM]]
 - [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]
+- [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (pageman)]]
+- [[wiki/entities/paul-pajo|Paul Pajo]]
+- [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]

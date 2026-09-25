@@ -71,3 +71,7 @@ https://contrastive-lm.notion.site
 https://huggingface.co/Contrastive-LM/CLM-v0.1-8B
 
 Wiki: [[wiki/sources/clm]] · [[10_Reference/tools/clm]] (local System One ranker, same wire as Jev; not a harness; not installed)
+
+https://github.com/pageman/sutskever-30-implementations
+
+Wiki: [[wiki/sources/sutskever-30-implementations]] · [[10_Reference/tools/sutskever-30-implementations]] (NumPy notebooks for a reading list; not a harness; not cloned; do not cite as reproductions)

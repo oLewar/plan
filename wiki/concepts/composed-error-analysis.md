@@ -35,4 +35,4 @@ Status of the three-term split as a *useful causal map*: **Confirmed** in this s
 ## Sources
 
 - [[wiki/sources/mathematical-introduction-to-deep-learning]]
-- Related: [[wiki/concepts/causal-analysis]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/barbell-strategy]]
+- Related: [[wiki/concepts/causal-analysis]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/barbell-strategy]], [[wiki/concepts/numpy-paper-toy]]

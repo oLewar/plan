@@ -33,4 +33,5 @@ Middle noise     →  false certainty, FOMO churn
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07]]
 - [[wiki/sources/anthropic-bd-claude-cowork]]
 - [[wiki/sources/mathematical-introduction-to-deep-learning]] — timeless math pole: ANN calculus + three-term error, vs frontier harness FOMO
-- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/composed-error-analysis]], [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]]
+- [[wiki/sources/sutskever-30-implementations]] — timeless *list*, toy NumPy pole: see the op; do not cite the unrun notebook
+- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/composed-error-analysis]], [[wiki/concepts/numpy-paper-toy]], [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]]
