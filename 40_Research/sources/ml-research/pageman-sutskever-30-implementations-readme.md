@@ -10,9 +10,9 @@ bytes: 23411
 
 **Comprehensive toy implementations of the 30 foundational papers recommended by Ilya Sutskever**
 
-[![Implementations](https://img.shields.io/badge/Implementations-30%2F30-brightgreen)](https://github.com/pageman/sutskever-30-implementations)
-[![Coverage](https://img.shields.io/badge/Coverage-100%25-blue)](https://github.com/pageman/sutskever-30-implementations)
-[![Python](https://img.shields.io/badge/Python-NumPy%20Only-yellow)](https://numpy.org/)
+[![Implementations](../../../assets/external/img.shields.io/44bb2801b01e2d23.img)](https://github.com/pageman/sutskever-30-implementations)
+[![Coverage](../../../assets/external/img.shields.io/4e079c393790a2ae.img)](https://github.com/pageman/sutskever-30-implementations)
+[![Python](../../../assets/external/img.shields.io/73b28ea11aedfffe.img)](https://numpy.org/)
 
 [**Buy the Google Colab Code for this Repo at Gumroad**](https://pageman.gumroad.com/l/sutskever30colabcode)
 
