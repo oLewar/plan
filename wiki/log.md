@@ -3,6 +3,34 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-25] ingest | CLM (Contrastive-LM/CLM)
+- Source processed: https://github.com/Contrastive-LM/CLM (README main + pyproject.toml + `src/clm/{__init__,schema,engine,client,heads}.py` + `examples/t_rex/README.md` + `trex/backends.py` + `results/{clm,jev}_realtime.json` + `docs/FINETUNING.md` head + GitHub API repo/languages/tree/commits/tags). Not cloned. Not installed. Blog and weight file not fetched. Org API not fetched.
+- Raw inbox: `raw/Contrastive-LM-CLM-readme.md`. README sha256 `e0f9a2a5016a314f6f963ca1d759f044895f5ca4bb134cc4e8e3e3f2a1a1483e` (21687 B, LF). Cron may move it; do not dual-write.
+- Added pages:
+  - `wiki/sources/clm.md`
+  - `wiki/entities/contrastive-lm.md`
+  - `wiki/concepts/contrastive-action-ranker.md`
+  - `10_Reference/tools/clm.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/log.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/indexed-action-space.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Package 0.1.0, **zero tags**. Stars 947 / forks 71 (API 2026-09-25). HEAD `bb42c6c5bf91` (2026-09-24). Tree 46 blobs.
+  - Local System One ranker (Qwen3-8B pooling + two ~20M heads). Same `POST /v1/systemone` wire as Jev. Not a harness axis. Not installed.
+  - Shipped T-Rex JSON: both 5/5 survived with shield on. CLM planner agreement 0.658, p50 16.5 ms; Jev (`jev-1.13.0`) agreement 0.987, p50 149.8 ms. Summary `shield_interventions` 4883 (CLM) ≠ sum of per-seed field 364.
+  - README 9× / DeepSWE 81.6% (38 held-out) / TB2.1 87.6% (30 held-out) stay author claims.
+
 ## [2026-09-23] ingest | RRSI (google-research/rrsi)
 - Source processed: https://github.com/google-research/rrsi (README main + pyproject.toml + `rrsi/{__init__,config,selection,schedule,components,critic,llm}.py` + `loop.round` sketch + `domains/{coding,workspace,eng}/{rrsi.json,README.md}` + arXiv abs API 2609.24972 + GitHub API repo/languages/tree/commits/tags). Not cloned. Not installed.
 - Raw: cron `f4921ae` moved inbox to `40_Research/sources/finance/google-research-rrsi-readme.md` (theme route finance, not agent-dev). Body sha256 `4822dae4f4bf69a4502bfbf23ebbf80aeccd65e1f0cefde3652cafda586cfac8` (12070 B, LF) still matches GitHub README. No `__2` sibling. Wiki does not re-add the capture.

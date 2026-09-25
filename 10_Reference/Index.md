@@ -70,4 +70,7 @@
 - [[10_Reference/tools/rrsi|RRSI]] — regularized harness search; Apache-2.0 0.1.0; reference only, not installed
 - [[wiki/sources/rrsi|RRSI (source)]] — README + selection/schedule + three `rrsi.json` + arXiv abstract
 - [[wiki/entities/google-research|Google Research]] / [[wiki/concepts/regularized-harness-search|Regularized harness search]]
+- [[10_Reference/tools/clm|CLM]] — local System One ranker; Apache-2.0 0.1.0; reference only, not installed
+- [[wiki/sources/clm|CLM (source)]] — README + schema/heads + T-Rex JSON
+- [[wiki/entities/contrastive-lm|Contrastive-LM]] / [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

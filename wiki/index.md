@@ -39,9 +39,11 @@
 - [[wiki/sources/jev-usage-examples|Jev usage examples]] — catalog of 20 public Jev backends (compaction, MCP, routing, games, LP…); not 20 architecture ingests.
 - [[wiki/sources/logika|Logika (EvilFreelancer/logika)]] — Chelpanov formal-logic skill; MIT 2.0.0; review/fix; not a harness.
 - [[wiki/sources/rrsi|RRSI (google-research/rrsi)]] — regularized harness-diff search; Apache-2.0 0.1.0, no tags; not a fifth axis.
+- [[wiki/sources/clm|CLM (Contrastive-LM/CLM)]] — local System One ranker; Apache-2.0 0.1.0, no tags; same wire as Jev; not a harness.
 
 ## Entities
 - [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
+- [[wiki/entities/contrastive-lm|Contrastive-LM]] — org; CLM local System One ranker; not a loop vendor.
 - [[wiki/entities/browser-use|Browser Use]] — org; Browser Harness + Jev Ultrafast; browser I/O, not a loop.
 - [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]] — logika / rpa-skills; Chelpanov skill pack.
 - [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
@@ -84,6 +86,7 @@
 - [[wiki/concepts/git-native-experiment-tree|Git-native experiment tree]] — freeze answered nodes; fixed run contract; stacked bushes; OpenResearch.
 - [[wiki/concepts/self-healing-cdp-harness|Self-healing CDP harness]] — daemon holds Chrome websocket; agent writes helpers, not the core; Browser Harness.
 - [[wiki/concepts/indexed-action-space|Indexed action space]] — closed ops + observed element index; DONE ≠ success; Jev.
+- [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]] — embed state and each candidate; softmax; CLM; same wire as Jev, local weights.
 - [[wiki/concepts/formal-logic-skill|Formal-logic skill]] — form vs matter; named fallacies; Chelpanov via logika.
 
 ## Reference standards
@@ -108,6 +111,7 @@
 - [[10_Reference/tools/jev-ultrafast|Jev Ultrafast]] — typed browser policy; MIT 0.1.0; reference only, not installed.
 - [[10_Reference/tools/logika|Logika]] — `/logika` / `/logika:review`; MIT 2.0.0; reference only, not installed.
 - [[10_Reference/tools/rrsi|RRSI]] — `rrsi.py --domain … run`; Apache-2.0 0.1.0; reference only, not installed.
+- [[10_Reference/tools/clm|CLM]] — `clm-serve` + vLLM pooling; Apache-2.0 0.1.0; reference only, not installed.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

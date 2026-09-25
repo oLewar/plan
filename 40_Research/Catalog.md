@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **123**
+Всего: **126**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -127,3 +127,6 @@
 - [[wiki/sources/rrsi|RRSI (google-research/rrsi)]]
 - [[wiki/entities/google-research|Google Research]]
 - [[wiki/concepts/regularized-harness-search|Regularized harness search]]
+- [[wiki/sources/clm|CLM (Contrastive-LM/CLM)]]
+- [[wiki/entities/contrastive-lm|Contrastive-LM]]
+- [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]

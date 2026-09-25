@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **90**
+Всего: **94**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -86,6 +86,10 @@
 - [[wiki/entities/google-research|Google Research]]
 - [[wiki/concepts/regularized-harness-search|Regularized harness search]]
 - [[10_Reference/tools/rrsi|RRSI]]
+- [[wiki/sources/clm|CLM (source)]]
+- [[wiki/entities/contrastive-lm|Contrastive-LM]]
+- [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]
+- [[10_Reference/tools/clm|CLM]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

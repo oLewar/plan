@@ -58,6 +58,7 @@ Status of «7.1 s Flights is a general browser SLA»: **Refuted** as a general c
 - Efficiency: skip pixels in the default loop; pay a text LLM only for fields ([[wiki/concepts/efficiency-metric]]).
 - Honest steal: independent DONE check + «no selectors from the model» — without standing up TypeSafe or pinning `browser-harness==0.1.13` on this host.
 - The same *closed question + code owns workflow* pattern shows up outside the browser: compaction, MCP tools, Codex routing, desktop AX, games, LP gates. Catalog: [[wiki/sources/jev-usage-examples]]. Those are judgment backends, not a fifth harness axis.
+- A **local** speaker of the same `POST /v1/systemone` wire is [[wiki/sources/clm]] (frozen encoder + contrastive heads). It ranks texts you pass in; it does not replace the browser index. Shipped T-Rex survival is with a planner shield on.
 
 ## Related
 
@@ -66,9 +67,10 @@ Status of «7.1 s Flights is a general browser SLA»: **Refuted** as a general c
 - Runtime it requires: [[wiki/sources/browser-harness]], [[wiki/concepts/self-healing-cdp-harness]]
 - Entity: [[wiki/entities/browser-use]]
 - Tool: [[10_Reference/tools/jev-ultrafast]]
-- Adjacent: [[wiki/concepts/playbook-routed-agent-mode]] (verbatim steps ≠ typed ops), [[wiki/concepts/everything-is-a-plugin]]
+- Adjacent: [[wiki/concepts/playbook-routed-agent-mode]] (verbatim steps ≠ typed ops), [[wiki/concepts/everything-is-a-plugin]], [[wiki/concepts/contrastive-action-ranker]] (same wire, local weights; not the browser index)
 
 ## Sources
 
 - [[wiki/sources/jev-ultrafast]]
 - [[wiki/sources/jev-usage-examples]]
+- [[wiki/sources/clm]]

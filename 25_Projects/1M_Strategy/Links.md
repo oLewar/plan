@@ -40,4 +40,5 @@ tags:
 - Jev usage examples (20 public backends; catalog, not 20 products): [[wiki/sources/jev-usage-examples]]
 - Logika / Chelpanov formal-logic skill (not a harness; not installed): [[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]
 - RRSI / regularized harness-diff search (not `/refine`, not a fifth axis; not installed): [[wiki/sources/rrsi]], [[wiki/concepts/regularized-harness-search]]
+- CLM / local System One ranker (same wire as Jev; not a harness; not installed): [[wiki/sources/clm]], [[wiki/concepts/contrastive-action-ranker]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

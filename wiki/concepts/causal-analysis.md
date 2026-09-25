@@ -45,6 +45,7 @@
 - **Failed experiment ≠ one cause**: empty run (repair same node), answered-but-bad (freeze + child), status-without-log (not evidence), dirty uncommitted tree (never ran) ([[wiki/concepts/git-native-experiment-tree]]).
 - **Browser failed ≠ one cause**: inspect-tick off, stale daemon, Snap Chromium, Cloud timeout, domain-skills never enabled ([[wiki/concepts/self-healing-cdp-harness]]).
 - **DONE ≠ success**: the model's stop token is not the page predicate; independent checks own the claim ([[wiki/concepts/indexed-action-space]]).
+- **Survived ≠ the model played**: a planner that writes Safe/Unsafe into the prompt plus a shield that replaces the argmax is a different cause from the ranker's own choice ([[wiki/concepts/contrastive-action-ranker]]).
 - **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
 - **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
 

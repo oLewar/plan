@@ -65,3 +65,9 @@ https://arxiv.org/abs/2609.24972
 https://regularized-rsi.com/
 
 Wiki: [[wiki/sources/rrsi]] · [[10_Reference/tools/rrsi]] (regularized harness-diff search, not a fifth axis; not installed; do not point at SOUL)
+
+https://github.com/Contrastive-LM/CLM
+https://contrastive-lm.notion.site
+https://huggingface.co/Contrastive-LM/CLM-v0.1-8B
+
+Wiki: [[wiki/sources/clm]] · [[10_Reference/tools/clm]] (local System One ranker, same wire as Jev; not a harness; not installed)

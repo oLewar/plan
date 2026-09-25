@@ -25,6 +25,8 @@
 - [[wiki/concepts/formal-logic-skill]]
 - [[wiki/sources/rrsi]]
 - [[wiki/concepts/regularized-harness-search]]
+- [[wiki/sources/clm]]
+- [[wiki/concepts/contrastive-action-ranker]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

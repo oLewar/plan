@@ -20,6 +20,7 @@
 17. Стоит ли Jev/TypeSafe как browser policy (Hypothesis: indexed ops beat free CDP Python for form/nav)? Не ставить: paid TypeSafe + text-model keys; 7.1 s Flights is 3-pair author data. DONE-check steal — да. Adjacent backends: [[wiki/sources/jev-usage-examples]] — compaction/MCP/Canny closer to evidence gates than the Flights demo; still not install.
 18. Портировать ли logika/Chelpanov review format в Hermes (Hypothesis: named fallacies beat unscoped «проверь текст» for wiki/GTM drafts)? Не копировать SKILL.md в `~/.hermes/skills` без запроса. Шаблон отчёта — process-borrow.
 19. Заимствовать ли RRSI selection (noise floor + token budget + leakage critic, coding `w_s=0`) вместо ungated `/refine` (Hypothesis: measured reject beats trajectory→SOUL)? Не ставить и не направлять цикл на `SOUL.md` / memories. Process-borrow чеклиста — да. PDF ещё не читали. Числа README — author claims.
+20. Ставить ли CLM как локальный System One вместо hosted Jev (Hypothesis: same wire, no API key, cache makes repeated actions cheap)? Не ставить: нужен vLLM+GPU; 9× / 87.6% / 81.6% — author claims. T-Rex 5/5 survival is with the planner shield on (CLM agrees 0.658, Jev 0.987). Process-borrow: don't quote a shielded score as the model's.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -44,3 +45,4 @@
 - `[[wiki/sources/jev-usage-examples]]`
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/rrsi]]`
+- `[[wiki/sources/clm]]`
