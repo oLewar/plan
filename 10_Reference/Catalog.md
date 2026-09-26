@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **98**
+Всего: **102**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -90,6 +90,10 @@
 - [[wiki/entities/contrastive-lm|Contrastive-LM]]
 - [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]
 - [[10_Reference/tools/clm|CLM]]
+- [[wiki/sources/julia-1|Julia 1 (source)]]
+- [[wiki/entities/supersonic-labs|Supersonic Labs]]
+- [[wiki/concepts/supplied-option-ranker|Supplied-option ranker]]
+- [[10_Reference/tools/julia-1|Julia 1]]
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (source)]]
 - [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]]
 - [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]

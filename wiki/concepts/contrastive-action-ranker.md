@@ -48,6 +48,7 @@ Status of «CLM matches Jev and is ~9× faster»: **Hypothesis** (README chart; 
 | Shield replaces unsafe argmax | Survival rate measures planner + model, not the model |
 | Summary `shield_interventions` ≠ sum of per-seed `shield_interventions` | Quoting the summary alone mixes counters (CLM JSON: 4883 vs 364) |
 | Hosted Jev on the same wire | Same client, different weights, API key, and latency |
+| Same question names, different head (Julia 1) | `choice` / `score` / `noul` without `POST /v1/systemone`; not a drop-in for this client |
 
 ## Why it matters for `pro/plan`
 
@@ -60,7 +61,7 @@ Status of «CLM matches Jev and is ~9× faster»: **Hypothesis** (README chart; 
 - Source: [[wiki/sources/clm]]
 - Entity: [[wiki/entities/contrastive-lm]]
 - Tool: [[10_Reference/tools/clm]]
-- Adjacent: [[wiki/concepts/indexed-action-space]], [[wiki/sources/jev-ultrafast]], [[wiki/sources/jev-usage-examples]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]]
+- Adjacent: [[wiki/concepts/indexed-action-space]], [[wiki/sources/jev-ultrafast]], [[wiki/sources/jev-usage-examples]], [[wiki/concepts/supplied-option-ranker]], [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]]
 
 ## Sources
 

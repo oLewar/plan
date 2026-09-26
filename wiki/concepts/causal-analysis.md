@@ -47,6 +47,7 @@
 - **DONE ≠ success**: the model's stop token is not the page predicate; independent checks own the claim ([[wiki/concepts/indexed-action-space]]).
 - **Survived ≠ the model played**: a planner that writes Safe/Unsafe into the prompt plus a shield that replaces the argmax is a different cause from the ranker's own choice ([[wiki/concepts/contrastive-action-ranker]]).
 - **Notebook exists ≠ the paper reproduced**: a file with the mechanism and no saved outputs is a map of the op, not a fit ([[wiki/concepts/numpy-paper-toy]]).
+- **High score ≠ the fact was known**: the ranker only compares options the caller supplied; a shortlist can drop the right one before the softmax, and a displayed 1.0 can be rounding ([[wiki/concepts/supplied-option-ranker]]).
 - **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
 - **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
 

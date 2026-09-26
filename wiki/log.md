@@ -3,6 +3,34 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-26] ingest | Julia 1 (Supersonic Labs)
+- Source processed: https://supersoniclabs.ia.br/julia-1/ (page HTML) + HF model API + README + `provenance.json` + `metrics/accuracy-20260924.json` + lab JSON `julia-1-cpu-20260925.json` and `julia-1-hardware-20260926.json` + `julia/{model,typed,probabilities}.py` + `pyproject.toml` + root/`julia`/`encoder` configs + mmBERT model API. Not cloned. Weights not downloaded. ONNX repo, PT page, and the Jev-benchmark tree not fetched.
+- Raw inbox: `raw/supersonic-labs-julia-1.md`. Page sha256 `9a9a1f7c86d804422d81fb6d5e40a576de39fb0f5a3b3ef0bbd83d1890676f2e` (66555 B). README sha256 `79a85174dbd824d624516f09cf8e0a5f359302ec7214e42ed242bb9b2288cc28` (11615 B, LF). Cron may move the inbox file; do not dual-write.
+- Added pages:
+  - `wiki/sources/julia-1.md`
+  - `wiki/entities/supersonic-labs.md`
+  - `wiki/concepts/supplied-option-ranker.md`
+  - `10_Reference/tools/julia-1.md`
+- Updated:
+  - `wiki/index.md`
+  - `wiki/overview.md`
+  - `wiki/log.md`
+  - `wiki/questions/research-backlog.md`
+  - `wiki/concepts/contrastive-action-ranker.md`
+  - `wiki/concepts/causal-analysis.md`
+  - `wiki/concepts/efficiency-metric.md`
+  - `10_Reference/Index.md`
+  - `10_Reference/Catalog.md`
+  - `10_Reference/Agents/tools/harness.md`
+  - `40_Research/Index.md`
+  - `40_Research/Catalog.md`
+  - `25_Projects/1M_Strategy/Links.md`
+- Notes:
+  - Apache-2.0 package `supersonic-julia` 0.1.0. Base `jhu-clsp/mmBERT-small` (MIT). 144.3M, FP32 550.5 MiB. Checkpoint SHA `df853bf7fe42…`, variant `posttrained-candidate`, step 500, `quality_gate: false`. HF likes 29, downloads 0 (API 2026-09-26).
+  - Same question names as Jev/CLM (`choice` / `score` / `noul`). Python `engine.predict`, not `POST /v1/systemone`. Marker head, not contrastive heads. Not a fine-tuned Qwen.
+  - Author table 2026-09-24: typed 1463/2000 (73.15%) vs supplied Jev reference 72.70% — card says the Jev column is not a new run. Pilots n=100: AG News 94, Emotion 86, Banking77 64 (1 abstention; 72→top-16 shortlist). MASSIVE 110573/154648 = 71.50% across 52 locales (am-ET 44.9% … en-US 86.8%). CPU rerun 2026-09-25: typed 72.55%, Banking77 60 with 3 abstentions.
+  - Not a harness. Not installed.
+
 ## [2026-09-25] ingest | Sutskever 30 implementations (pageman)
 - Source processed: https://github.com/pageman/sutskever-30-implementations (README main + GitHub API repo/languages/tree/commits/tags/releases + all 30 `.ipynb` and root `.py` downloaded and censused as source). Not cloned. Not executed. Gumroad Colab page not fetched. Sibling repos `Sutskever-Agent` and `sutskever-30-beyond-numpy` API-card only.
 - Raw inbox: `raw/pageman-sutskever-30-implementations-readme.md`. README sha256 `fe4c68a3b5d53d9bdb84f2da9fcb4bce9ef57ab8e8acd211eeb0b6f8ac02cbcc` (23411 B, LF). Cron may move it; do not dual-write.

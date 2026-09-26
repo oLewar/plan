@@ -37,6 +37,7 @@
 - **Named-fallacy table**: cheaper than unscoped «проверь текст»; inventing facts in fix-mode is the expensive material error ([[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]).
 - **Regularized harness search**: cheap to reject a within-noise or leaky harness diff before another full eval; expensive if the loop is pointed at SOUL/memories (that is the overfit the critic exists to catch) ([[wiki/sources/rrsi]], [[wiki/concepts/regularized-harness-search]]).
 - **NumPy paper toy**: cheap to see one op (attention, gate, skip) on synthetic data; expensive to treat "30/30 files" as 30 reproductions, or to port all 30 before reading the 6 that update weights ([[wiki/sources/sutskever-30-implementations]], [[wiki/concepts/numpy-paper-toy]]).
+- **Supplied-option ranker**: cheap when the candidate list is already the decision and the encoder fits in CPU RAM (Julia 1, 550.5 MiB); expensive to treat a supplied Jev column as a paired rerun, or a top-16 shortlist as a 72-way accuracy ([[wiki/sources/julia-1]], [[wiki/concepts/supplied-option-ranker]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`

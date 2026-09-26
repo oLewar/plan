@@ -22,6 +22,7 @@
 19. Заимствовать ли RRSI selection (noise floor + token budget + leakage critic, coding `w_s=0`) вместо ungated `/refine` (Hypothesis: measured reject beats trajectory→SOUL)? Не ставить и не направлять цикл на `SOUL.md` / memories. Process-borrow чеклиста — да. PDF ещё не читали. Числа README — author claims.
 20. Ставить ли CLM как локальный System One вместо hosted Jev (Hypothesis: same wire, no API key, cache makes repeated actions cheap)? Не ставить: нужен vLLM+GPU; 9× / 87.6% / 81.6% — author claims. T-Rex 5/5 survival is with the planner shield on (CLM agrees 0.658, Jev 0.987). Process-borrow: don't quote a shielded score as the model's.
 21. Читать ли ноутбуки pageman/sutskever-30 как учебник (Hypothesis: seeing the op in NumPy beats another framework tutorial)? Не ставить и не клонировать без запроса. Бейдж 30/30 — число файлов: цикл с обновлением весов в 6 (`02`,`05`,`09`,`18`,`26`,`27`), сохранённых выводов 0. Paper 22 — нарисованный степенной закон, не замер. Process-borrow: карта механизмов — да; цитировать как воспроизведение статьи — нет.
+22. Ставить ли Julia 1 как локальный ranker вместо hosted Jev (Hypothesis: same question names, CPU, no API key)? Не качать веса без запроса. Это не `POST /v1/systemone` — другой рантайм (`engine.predict`, mmBERT + marker head). 73.15% / 94% / 86% — авторский прогон; колонка Jev скопирована из протокола, не парный реран. Banking77 64% (H200, 1 abstain) и 60% (CPU, 3 abstain) — shortlist 72→16, не native 72-way. Process-borrow: не цитировать softmax после сужения и не принимать display-rounding 1.0 за уверенность.
 
 ## Next actions
 - Составить топ-10 приоритетных вопросов по текущим целям.
@@ -47,4 +48,5 @@
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/rrsi]]`
 - `[[wiki/sources/clm]]`
+- `[[wiki/sources/julia-1]]`
 - `[[wiki/sources/sutskever-30-implementations]]`

@@ -41,5 +41,6 @@ tags:
 - Logika / Chelpanov formal-logic skill (not a harness; not installed): [[wiki/sources/logika]], [[wiki/concepts/formal-logic-skill]]
 - RRSI / regularized harness-diff search (not `/refine`, not a fifth axis; not installed): [[wiki/sources/rrsi]], [[wiki/concepts/regularized-harness-search]]
 - CLM / local System One ranker (same wire as Jev; not a harness; not installed): [[wiki/sources/clm]], [[wiki/concepts/contrastive-action-ranker]]
+- Julia 1 / local supplied-option ranker (same question names, Python API, not the Jev HTTP wire; weights not downloaded): [[wiki/sources/julia-1]], [[wiki/concepts/supplied-option-ranker]]
 - Sutskever-30 NumPy notebooks (see the op; not a reproduction; not cloned): [[wiki/sources/sutskever-30-implementations]], [[wiki/concepts/numpy-paper-toy]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

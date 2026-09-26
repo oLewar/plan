@@ -73,6 +73,9 @@
 - [[10_Reference/tools/clm|CLM]] — local System One ranker; Apache-2.0 0.1.0; reference only, not installed
 - [[wiki/sources/clm|CLM (source)]] — README + schema/heads + T-Rex JSON
 - [[wiki/entities/contrastive-lm|Contrastive-LM]] / [[wiki/concepts/contrastive-action-ranker|Contrastive action ranker]]
+- [[10_Reference/tools/julia-1|Julia 1]] — local decision model; Apache-2.0; reference only, not installed
+- [[wiki/sources/julia-1|Julia 1 (source)]] — lab page + model card + `julia/model.py` + accuracy JSON
+- [[wiki/entities/supersonic-labs|Supersonic Labs]] / [[wiki/concepts/supplied-option-ranker|Supplied-option ranker]]
 - [[10_Reference/tools/sutskever-30-implementations|Sutskever 30 implementations]] — NumPy notebooks; no license; reference only, not cloned
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 (source)]] — README + 30 notebooks censused; 6/30 update weights
 - [[wiki/entities/paul-pajo|Paul Pajo]] / [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]

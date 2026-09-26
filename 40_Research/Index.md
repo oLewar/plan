@@ -27,6 +27,8 @@
 - [[wiki/concepts/regularized-harness-search]]
 - [[wiki/sources/clm]]
 - [[wiki/concepts/contrastive-action-ranker]]
+- [[wiki/sources/julia-1]]
+- [[wiki/concepts/supplied-option-ranker]]
 - [[wiki/sources/sutskever-30-implementations]]
 - [[wiki/concepts/numpy-paper-toy]]
 - [[wiki/analyses/repo-operating-model]]
