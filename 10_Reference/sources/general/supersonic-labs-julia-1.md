@@ -39,7 +39,7 @@ note: "Saved HTML of the lab page. Model card and metrics live on Hugging Face; 
     <meta property="og:url" content="https://supersoniclabs.ia.br/julia-1/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:locale:alternate" content="pt_BR" />
-    <meta property="og:image" content="https://supersoniclabs.ia.br/julia1-meta.jpg" />
+    <meta property="og:image" content="../../../assets/external/supersoniclabs.ia.br/e1606d2eb9d0659e.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -47,7 +47,7 @@ note: "Saved HTML of the lab page. Model card and metrics live on Hugging Face; 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Introducing Julia 1 | Supersonic Labs" />
     <meta name="twitter:description" content="Julia 1 is our compact decision model. Explore the research, evaluation results, limitations, and model repository." />
-    <meta name="twitter:image" content="https://supersoniclabs.ia.br/julia1-meta.jpg" />
+    <meta name="twitter:image" content="../../../assets/external/supersoniclabs.ia.br/e1606d2eb9d0659e.jpg" />
     <meta name="twitter:image:alt" content="Julia 1 — Supersonic Labs" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Introducing Julia 1 | Supersonic Labs","url":"https://supersoniclabs.ia.br/julia-1/","inLanguage":"en-US","description":"Julia 1 is our compact decision model. Explore the research, evaluation results, limitations, and model repository.","isPartOf":{"@id":"https://supersoniclabs.ia.br/#website"}}]}</script>
   
