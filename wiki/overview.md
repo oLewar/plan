@@ -24,6 +24,7 @@
 - Argument-checking can be a **portable skill** that names form vs matter and fallacies (RU+Latin); logika/Chelpanov is the public case — not a harness; not installed here ([[wiki/concepts/formal-logic-skill]]).
 - Harness *diffs* can be searched offline and rejected for leakage, noise, or token cost; RRSI is the public case — frozen model, not `/refine`, not installed here ([[wiki/concepts/regularized-harness-search]]).
 - A paper notebook can show the operation in NumPy without reproducing the paper; Sutskever-30 is the public case — 6/30 update weights, 0/30 saved outputs ([[wiki/concepts/numpy-paper-toy]]). Not cloned here.
+- A policy argument is usually a fight about which margin moved; Emerson's 24 modules each open with a policy question and put it back on one diagram ([[wiki/concepts/margin-and-constraint]]). The question is the hook, not the finding. PDF not downloaded.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

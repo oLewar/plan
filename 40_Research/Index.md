@@ -6,6 +6,8 @@
 - [[wiki/sources/llm-wiki-gist]]
 - [[wiki/sources/mathematical-introduction-to-deep-learning]]
 - [[wiki/concepts/composed-error-analysis]]
+- [[wiki/sources/intermediate-microeconomics-emerson]]
+- [[wiki/concepts/margin-and-constraint]]
 - [[wiki/sources/omlx]]
 - [[wiki/concepts/tiered-kv-cache]]
 - [[wiki/sources/archify]]

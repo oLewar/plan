@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **102**
+Всего: **106**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -17,6 +17,10 @@
 - [[wiki/sources/the-plausibility-of-life-kirschner-gerhart|The Plausibility of Life (Kirschner & Gerhart)]]
 - [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]]
 - [[wiki/concepts/composed-error-analysis|Composed error analysis]]
+- [[wiki/sources/intermediate-microeconomics-emerson|Intermediate Microeconomics (Emerson)]]
+- [[wiki/entities/patrick-emerson|Patrick M. Emerson]]
+- [[wiki/concepts/margin-and-constraint|Margin and constraint]]
+- [[10_Reference/tools/intermediate-microeconomics|Intermediate Microeconomics]]
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]]
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]]
 - [[wiki/entities/nfactorial-school|nFactorial School]]

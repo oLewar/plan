@@ -43,4 +43,5 @@ tags:
 - CLM / local System One ranker (same wire as Jev; not a harness; not installed): [[wiki/sources/clm]], [[wiki/concepts/contrastive-action-ranker]]
 - Julia 1 / local supplied-option ranker (same question names, Python API, not the Jev HTTP wire; weights not downloaded): [[wiki/sources/julia-1]], [[wiki/concepts/supplied-option-ranker]]
 - Sutskever-30 NumPy notebooks (see the op; not a reproduction; not cloned): [[wiki/sources/sutskever-30-implementations]], [[wiki/concepts/numpy-paper-toy]]
+- Intermediate Microeconomics, Emerson (policy question is the hook; CC BY-NC-SA; PDF not downloaded): [[wiki/sources/intermediate-microeconomics-emerson]], [[wiki/concepts/margin-and-constraint]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

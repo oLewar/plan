@@ -3,6 +3,17 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-28] ingest | Intermediate Microeconomics (Emerson, Oregon State)
+
+- Source: https://open.oregonstate.education/intermediatemicroeconomics/ — Patrick M. Emerson, Oregon State OER (Pressbooks). © 2019. Print ISBN 978-1-955101-18-9. CC BY-NC-SA 4.0 (their back-matter spells "NonCommerical"; the linked license is NonCommercial).
+- One part, 24 modules. Each opens with "The Policy Question" and closes by walking that question back through the tools. Modules 1–4 are one hook (a hybrid-car tax credit) seen four ways. Module 19 is an outline: ~1,300 words against ~9,000 for pricing and game theory.
+- Direct curl got CloudFront 403. Read via web extract plus the Pressbooks API (`pressbooks/v2/toc` and `pressbooks/v2/chapters`). HTML of all 24 chapters ~130,000 words. Headings and the opening question only — no chapter read through, no worked problem copied. PDF, EPUB, and Common Cartridge not downloaded.
+- "Teach with or without calculus" is the landing-page claim. Explicit `Calculus` headings are in modules 7 and 8. Elsewhere the algebra sits in ordinary headings (Cobb-Douglas demand in 4, monopoly price in 15, a "Mathematical Extension" in 14) or there is none. Do not write "both tracks in every chapter".
+- Version table stops at **2.04** (2024-04-18, an equation fix in module 5). Nine chapter files carry `modified` of 2025-05-16 or 2025-05-19. Cite the module date, not "version 2.04", when a number matters.
+- Pages: `wiki/sources/intermediate-microeconomics-emerson`, `wiki/entities/patrick-emerson`, `wiki/concepts/margin-and-constraint`, `10_Reference/tools/intermediate-microeconomics`. Contrast into barbell (timeless objects), causal-analysis ("the policy question ≠ the finding"), efficiency-metric. Not a harness, so not in `harness.md`.
+- Catalog: Reference **102 → 106**, Research **132 → 135**.
+- Do not cite: a module's opening question as the book's answer; the version table as the last edit; the policy examples (Crestor, the individual mandate, Eastern Market) as measurements.
+
 ## [2026-09-26] ingest | Julia 1 (Supersonic Labs)
 - Source processed: https://supersoniclabs.ia.br/julia-1/ (page HTML) + HF model API + README + `provenance.json` + `metrics/accuracy-20260924.json` + lab JSON `julia-1-cpu-20260925.json` and `julia-1-hardware-20260926.json` + `julia/{model,typed,probabilities}.py` + `pyproject.toml` + root/`julia`/`encoder` configs + mmBERT model API. Not cloned. Weights not downloaded. ONNX repo, PT page, and the Jev-benchmark tree not fetched.
 - Raw inbox: `raw/supersonic-labs-julia-1.md`. Page sha256 `9a9a1f7c86d804422d81fb6d5e40a576de39fb0f5a3b3ef0bbd83d1890676f2e` (66555 B). README sha256 `79a85174dbd824d624516f09cf8e0a5f359302ec7214e42ed242bb9b2288cc28` (11615 B, LF). Cron may move the inbox file; do not dual-write.

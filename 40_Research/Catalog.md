@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **132**
+Всего: **135**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -100,6 +100,9 @@
 - [[wiki/sources/llm-wiki-gist|LLM Wiki (Karpathy gist)]]
 - [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]]
 - [[wiki/concepts/composed-error-analysis|Composed error analysis]]
+- [[wiki/sources/intermediate-microeconomics-emerson|Intermediate Microeconomics (Emerson)]]
+- [[wiki/entities/patrick-emerson|Patrick M. Emerson]]
+- [[wiki/concepts/margin-and-constraint|Margin and constraint]]
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]]
 - [[wiki/entities/omlx|oMLX]]
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]
