@@ -8,6 +8,8 @@
 - [[wiki/concepts/composed-error-analysis]]
 - [[wiki/sources/intermediate-microeconomics-emerson]]
 - [[wiki/concepts/margin-and-constraint]]
+- [[wiki/sources/mit-6-254-game-theory-ozdaglar]]
+- [[wiki/concepts/equilibrium-existence]]
 - [[wiki/sources/omlx]]
 - [[wiki/concepts/tiered-kv-cache]]
 - [[wiki/sources/archify]]

@@ -25,6 +25,9 @@
 - [[10_Reference/tools/intermediate-microeconomics|Intermediate Microeconomics]] — Oregon State OER; CC BY-NC-SA; reference only, PDF not downloaded
 - [[wiki/sources/intermediate-microeconomics-emerson|Intermediate Microeconomics (source)]] — 24 modules; policy question is the hook
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]] / [[wiki/concepts/margin-and-constraint|Margin and constraint]]
+- [[10_Reference/tools/mit-6-254|MIT 6.254]] — Ozdaglar, Spring 2010; CC BY-NC-SA; reference only, PDF not in git
+- [[wiki/sources/mit-6-254-game-theory-ozdaglar|MIT 6.254 (source)]] — 21 lectures; lecture 5 read (existence)
+- [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] / [[wiki/concepts/equilibrium-existence|Equilibrium existence]]
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat: Арман Сулейменов]] — nFactorial, vibe coding, barbell, high agency, idea=f(assets)
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] / [[wiki/entities/nfactorial-school|nFactorial School]]
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — Anthropic BD: inbound/outbound skills + HITL send

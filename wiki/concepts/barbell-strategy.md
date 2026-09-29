@@ -35,4 +35,5 @@ Middle noise     →  false certainty, FOMO churn
 - [[wiki/sources/mathematical-introduction-to-deep-learning]] — timeless math pole: ANN calculus + three-term error, vs frontier harness FOMO
 - [[wiki/sources/sutskever-30-implementations]] — timeless *list*, toy NumPy pole: see the op; do not cite the unrun notebook
 - [[wiki/sources/intermediate-microeconomics-emerson]] — timeless *objects* pole: constraint, margin, surplus; the 2005–2012 policy hooks will date
-- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/composed-error-analysis]], [[wiki/concepts/numpy-paper-toy]], [[wiki/concepts/margin-and-constraint]], [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]]
+- [[wiki/sources/mit-6-254-game-theory-ozdaglar]] — timeless *hypotheses* pole: Kakutani's conditions outlast the 2007 routing paper; lecture 5 only
+- Related: [[wiki/concepts/efficiency-metric]], [[wiki/concepts/causal-analysis]], [[wiki/concepts/composed-error-analysis]], [[wiki/concepts/numpy-paper-toy]], [[wiki/concepts/margin-and-constraint]], [[wiki/concepts/equilibrium-existence]], [[wiki/entities/arman-suleimenov]], [[wiki/entities/anthropic]]

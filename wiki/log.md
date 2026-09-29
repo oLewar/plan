@@ -3,6 +3,17 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-29] ingest | MIT 6.254 lecture 5 (Ozdaglar)
+
+- Source: https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010/resources/mit6_254s10_lec05/ — Prof. Asuman Ozdaglar, EECS, Spring 2010. Lecture 5, "Existence of a Nash equilibrium", title slide dated 18 February 2010. Reading named on the slide: Fudenberg and Tirole, chapter 1 (not fetched).
+- PDF 276,303 bytes, sha256 `fd77248515269fd9f6bcd254d9691a34ecd1c23c10344603772689decc48abe7`, 28 pages by `/Type /Page`. `file(1)` reported 4 pages; that is the outline count. PDF not committed. Text reconstructed from content streams; one glyph per text operator, so subscripts and intermediate formulas are scrambled and not cited.
+- License: CC BY-NC-SA 4.0 (https://ocw.mit.edu/terms/, page dated 2026-08-11). MIT's own reading of non-commercial: do not sell the materials or a course built on them. The MIT name and seal are not part of the license.
+- What lecture 5 actually says: every finite game has a mixed Nash equilibrium, proved as a fixed point of best response via Kakutani (compact convex simplices, nonempty by Weierstrass, convex by linearity, closed graph by continuity). Debreu–Glicksberg–Fan: compact convex pure-strategy sets plus continuity and concavity give a pure equilibrium; Nash is the special case. Example 1 (pricing-congestion, latencies 0 and (3/2)x²) claims a unique pure equilibrium at prices (1, 1/2). Example 2 (a kinked latency) claims no pure equilibrium. Closed graph of the equilibrium correspondence does **not** imply the set is continuous in a parameter. Glicksberg (mixed equilibrium on compact metric spaces) is stated and explicitly not proved — "next lecture".
+- Course map from the lecture-notes index: 21 lectures. Syllabus schedule is labeled tentative. Lectures 1–4 and 6–21, problem sets, exams, and the Acemoglu–Ozdaglar 2007 paper cited on the slides were not fetched.
+- Pages: `wiki/sources/mit-6-254-game-theory-ozdaglar`, `wiki/entities/asuman-ozdaglar`, `wiki/concepts/equilibrium-existence`, `10_Reference/tools/mit-6-254`. Contrast into barbell (hypotheses outlast the routing paper), causal-analysis ("exists ≠ they play this"), efficiency-metric (existence is cheap, location is lecture 9). Not a harness.
+- Catalog: Reference **106 → 110**, Research **135 → 138**.
+- Do not cite: a formula from the text reconstruction; Glicksberg as proved here; the syllabus as what was taught; existence as uniqueness or as a coordinate.
+
 ## [2026-09-28] ingest | Intermediate Microeconomics (Emerson, Oregon State)
 
 - Source: https://open.oregonstate.education/intermediatemicroeconomics/ — Patrick M. Emerson, Oregon State OER (Pressbooks). © 2019. Print ISBN 978-1-955101-18-9. CC BY-NC-SA 4.0 (their back-matter spells "NonCommerical"; the linked license is NonCommercial).

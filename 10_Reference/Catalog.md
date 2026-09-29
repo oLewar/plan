@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **106**
+Всего: **110**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -21,6 +21,10 @@
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]]
 - [[wiki/concepts/margin-and-constraint|Margin and constraint]]
 - [[10_Reference/tools/intermediate-microeconomics|Intermediate Microeconomics]]
+- [[wiki/sources/mit-6-254-game-theory-ozdaglar|MIT 6.254 Game Theory (Ozdaglar)]]
+- [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]]
+- [[wiki/concepts/equilibrium-existence|Equilibrium existence]]
+- [[10_Reference/tools/mit-6-254|MIT 6.254]]
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]]
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]]
 - [[wiki/entities/nfactorial-school|nFactorial School]]

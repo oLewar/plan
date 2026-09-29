@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **135**
+Всего: **138**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -103,6 +103,9 @@
 - [[wiki/sources/intermediate-microeconomics-emerson|Intermediate Microeconomics (Emerson)]]
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]]
 - [[wiki/concepts/margin-and-constraint|Margin and constraint]]
+- [[wiki/sources/mit-6-254-game-theory-ozdaglar|MIT 6.254 Game Theory (Ozdaglar)]]
+- [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]]
+- [[wiki/concepts/equilibrium-existence|Equilibrium existence]]
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]]
 - [[wiki/entities/omlx|oMLX]]
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]

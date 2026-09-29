@@ -39,6 +39,7 @@
 - **NumPy paper toy**: cheap to see one op (attention, gate, skip) on synthetic data; expensive to treat "30/30 files" as 30 reproductions, or to port all 30 before reading the 6 that update weights ([[wiki/sources/sutskever-30-implementations]], [[wiki/concepts/numpy-paper-toy]]).
 - **Supplied-option ranker**: cheap when the candidate list is already the decision and the encoder fits in CPU RAM (Julia 1, 550.5 MiB); expensive to treat a supplied Jev column as a paired rerun, or a top-16 shortlist as a 72-way accuracy ([[wiki/sources/julia-1]], [[wiki/concepts/supplied-option-ranker]]).
 - **Margin and constraint**: cheap to name which margin a policy actually moves (budget, cost, the side effect outside the price); expensive to argue the outcome without that split, or to quote a chapter's opening question as its conclusion ([[wiki/sources/intermediate-microeconomics-emerson]], [[wiki/concepts/margin-and-constraint]]).
+- **Equilibrium existence**: cheap to check the hypotheses (finite actions, or concavity on a compact convex set) before citing "the" equilibrium; expensive to go looking for one — that is a later lecture — or to treat a small parameter change as a small move of the equilibrium set ([[wiki/sources/mit-6-254-game-theory-ozdaglar]], [[wiki/concepts/equilibrium-existence]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
