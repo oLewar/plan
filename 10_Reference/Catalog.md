@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **110**
+Всего: **114**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -25,6 +25,10 @@
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]]
 - [[wiki/concepts/equilibrium-existence|Equilibrium existence]]
 - [[10_Reference/tools/mit-6-254|MIT 6.254]]
+- [[wiki/sources/unimate|UniMate (Friedrich-M/UniMate)]]
+- [[wiki/entities/linzhan-mou|Linzhan Mou]]
+- [[wiki/concepts/pinned-flow-sampling|Pinned flow sampling]]
+- [[10_Reference/tools/unimate|UniMate]]
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat с Арманом Сулейменовым (2026-08-07)]]
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]]
 - [[wiki/entities/nfactorial-school|nFactorial School]]

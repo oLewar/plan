@@ -50,6 +50,7 @@
 - **High score ≠ the fact was known**: the ranker only compares options the caller supplied; a shortlist can drop the right one before the softmax, and a displayed 1.0 can be rounding ([[wiki/concepts/supplied-option-ranker]]).
 - **The policy question ≠ the finding**: a module that opens on a tax credit or a wage floor has not answered it; the question names which margin to look at ([[wiki/concepts/margin-and-constraint]]).
 - **An equilibrium exists ≠ they play this profile**: existence is a fixed point of best response, not a location and not uniqueness; a continuum of prices can have no pure Nash at all ([[wiki/concepts/equilibrium-existence]]).
+- **Pinned frame ≠ the model chose it**: a sampler that overwrites the known slice with the analytic interpolant copied it; the network only chose the unpinned part ([[wiki/concepts/pinned-flow-sampling]]).
 - **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
 - **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
 

@@ -3,6 +3,18 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-30] ingest | UniMate (Friedrich-M/UniMate)
+
+- Source: https://github.com/Friedrich-M/UniMate — "One Unified Model to Animate Diverse Skeletons", arXiv:2609.05415 (PDF not fetched). Authors: Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz. Affiliations on the README as a group: Princeton, UC Berkeley, MIT, NTU. Created 2026-07-22, pushed 2026-09-27. Stars 644, forks 68. Topics empty. No tags, no releases.
+- Code license MIT. Data is not: Mixamo under Adobe terms, Objaverse-XL per object, Truebones ZOO motions commercial and not in the HF download (prompts, metadata, renders only). README says SIGGRAPH Asia 2026 acceptance (news line 2026-07-18); not checked against a program. UniML3D "13,006" sequences is a README figure; the dataset "is being prepared" and its captions were re-processed so they need not match the project page or the paper.
+- Tree: 169 blobs, not truncated. Six PNGs in `assets/` are most of the 33 MB; not downloaded. Checkpoints at huggingface.co/Linzhan/UniMate are labeled preview. Not downloaded. Nothing installed.
+- Checked against files, not just the README: `configs/uniml3d_60frames_graph_adaln.json` is flow matching, 10 layers, latent 512, 8 heads, Flan-T5-base, cond dropout 0.1, 120k steps, batch 16, geodesic loss 0.5, smooth loss 0.1, CFG 3.0. `ICPlan` is the linear interpolant x_t = t·x1 + (1−t)·x0. `UniMateGraphAdaLN` factors spatial/temporal attention with graph-distance, edge-type, and depth biases. `UniMateFullCrossAttn` is the other shipped pairing.
+- The three applications are one function. `inbetween_sample_ode` overwrites the masked slice every Euler step with `(1−t)·ε + t·x_known`, same ε as the initial noise, so at t = 1 the pinned slice equals the known motion. Mask over time = in-betweening, mask over joints = editing, seam = expansion. Requires `diff_model == "flow"`. Uses fixed-step Euler because dopri5 (what plain text sampling uses) does not expose the stages to re-pin at. "Same weights" is not "same integrator".
+- Sampling still needs `dataset/features/<dataset>/` next to the checkpoint. A weight file alone does not animate an arbitrary rig.
+- Pages: `wiki/sources/unimate`, `wiki/entities/linzhan-mou`, `wiki/concepts/pinned-flow-sampling`, `10_Reference/tools/unimate`. Contrast into causal-analysis ("pinned frame ≠ the model chose it") and efficiency-metric (overwrite is cheaper to trust than a loss weight). Not a harness, so not in `harness.md`. Not added to barbell — the repo is two months old.
+- Catalog: Reference **110 → 114**, Research **138 → 141**.
+- Do not cite: a pinned frame as a prediction; Truebones motions as downloadable; preview checkpoints as final; project-page captions as the released ones; "real time" as a measurement.
+
 ## [2026-09-29] ingest | MIT 6.254 lecture 5 (Ozdaglar)
 
 - Source: https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010/resources/mit6_254s10_lec05/ — Prof. Asuman Ozdaglar, EECS, Spring 2010. Lecture 5, "Existence of a Nash equilibrium", title slide dated 18 February 2010. Reading named on the slide: Fudenberg and Tirole, chapter 1 (not fetched).

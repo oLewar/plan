@@ -26,6 +26,7 @@
 - A paper notebook can show the operation in NumPy without reproducing the paper; Sutskever-30 is the public case — 6/30 update weights, 0/30 saved outputs ([[wiki/concepts/numpy-paper-toy]]). Not cloned here.
 - A policy argument is usually a fight about which margin moved; Emerson's 24 modules each open with a policy question and put it back on one diagram ([[wiki/concepts/margin-and-constraint]]). The question is the hook, not the finding. PDF not downloaded.
 - A named equilibrium is a location, not a proof one exists; Ozdaglar's lecture 5 separates them — finite games have a mixed Nash, a continuum needs concavity for a pure one, and her second pricing game has none ([[wiki/concepts/equilibrium-existence]]). The other 20 lectures were not read.
+- A pinned frame can be a copy rather than a prediction; UniMate's in-betweener overwrites the known slice at every Euler step, and that path is fixed-step, not the adaptive solver used for plain sampling ([[wiki/concepts/pinned-flow-sampling]]). Not installed.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

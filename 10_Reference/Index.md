@@ -28,6 +28,9 @@
 - [[10_Reference/tools/mit-6-254|MIT 6.254]] — Ozdaglar, Spring 2010; CC BY-NC-SA; reference only, PDF not in git
 - [[wiki/sources/mit-6-254-game-theory-ozdaglar|MIT 6.254 (source)]] — 21 lectures; lecture 5 read (existence)
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] / [[wiki/concepts/equilibrium-existence|Equilibrium existence]]
+- [[10_Reference/tools/unimate|UniMate]] — motion model; MIT code; reference only, not installed
+- [[wiki/sources/unimate|UniMate (source)]] — README + config + flow path + in-between sampler
+- [[wiki/entities/linzhan-mou|Linzhan Mou]] / [[wiki/concepts/pinned-flow-sampling|Pinned flow sampling]]
 - [[wiki/sources/fireside-chat-arman-suleimenov-2026-08-07|Fireside Chat: Арман Сулейменов]] — nFactorial, vibe coding, barbell, high agency, idea=f(assets)
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] / [[wiki/entities/nfactorial-school|nFactorial School]]
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — Anthropic BD: inbound/outbound skills + HITL send

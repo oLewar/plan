@@ -31,6 +31,7 @@
 - [[wiki/sources/mathematical-introduction-to-deep-learning|Mathematical Introduction to Deep Learning (arXiv:2310.20360)]] — Jentzen/Kuckuck/von Wurstemberger; v3 737 pp.; ANN + composed error + PINNs.
 - [[wiki/sources/intermediate-microeconomics-emerson|Intermediate Microeconomics (Emerson)]] — Oregon State OER; 24 modules; CC BY-NC-SA 4.0; policy question as the hook, not the finding.
 - [[wiki/sources/mit-6-254-game-theory-ozdaglar|MIT 6.254 Game Theory (Ozdaglar)]] — Spring 2010 OCW; 21 lectures; lecture 5 read (Nash existence); CC BY-NC-SA; PDF not in git.
+- [[wiki/sources/unimate|UniMate (Friedrich-M/UniMate)]] — one motion model for many skeletons; MIT code; flow matching; no tags; not installed.
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]] — Apple Silicon LLM server; continuous batching + RAM/SSD KV cache; OpenAI/Anthropic API; v0.6.4.
 - [[wiki/sources/archify|Archify (tt-a1i/archify)]] — typed JSON-IR diagrams → fail-closed HTML; MIT v2.16.0; not a Mermaid theme.
 - [[wiki/sources/hexstrike-ai|HexStrike AI (0x4m4/hexstrike-ai)]] — offensive MCP+Flask CLI broker; MIT v6.0; not 12 LLM agents.
@@ -52,6 +53,7 @@
 - [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]] — author of the Sutskever-30 NumPy notebooks; not Sutskever; not a lab.
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]] — author of the Oregon State intermediate microeconomics OER; not a lab.
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] — instructor of MIT 6.254 (Spring 2010); lecture 5 read; not a lab.
+- [[wiki/entities/linzhan-mou|Linzhan Mou]] — first author of UniMate; repo org is Friedrich-M; not a lab.
 - [[wiki/entities/browser-use|Browser Use]] — org; Browser Harness + Jev Ultrafast; browser I/O, not a loop.
 - [[wiki/entities/pavel-rykov|Pavel Rykov (`EvilFreelancer`)]] — logika / rpa-skills; Chelpanov skill pack.
 - [[wiki/entities/alphaxiv|alphaXiv]] — org; OpenResearch (`orx`) workspace + alphaxiv.org papers (latter not ingested).
@@ -100,6 +102,7 @@
 - [[wiki/concepts/numpy-paper-toy|NumPy paper toy]] — see the op on synthetic data; a file is not a reproduction; Sutskever-30.
 - [[wiki/concepts/margin-and-constraint|Margin and constraint]] — a choice is a constraint plus a margin; naming the wrong one is how a policy "doesn't work"; Emerson.
 - [[wiki/concepts/equilibrium-existence|Equilibrium existence]] — a resting point is not a location; finite games have a mixed Nash; a continuum needs concavity for a pure one; Ozdaglar lecture 5.
+- [[wiki/concepts/pinned-flow-sampling|Pinned flow sampling]] — a known slice is overwritten every Euler step, not pulled by a loss; UniMate in-betweening.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -128,6 +131,7 @@
 - [[10_Reference/tools/sutskever-30-implementations|Sutskever 30 implementations]] — Jupyter notebooks; no SPDX; reference only, not cloned.
 - [[10_Reference/tools/intermediate-microeconomics|Intermediate Microeconomics]] — Oregon State OER; CC BY-NC-SA; read in the browser; PDF not downloaded.
 - [[10_Reference/tools/mit-6-254|MIT 6.254]] — Ozdaglar OCW; CC BY-NC-SA; lecture 5 read; PDF not in the vault.
+- [[10_Reference/tools/unimate|UniMate]] — skeleton motion model; MIT code; reference only, not installed, weights not downloaded.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

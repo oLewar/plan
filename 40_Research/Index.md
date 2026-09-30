@@ -10,6 +10,8 @@
 - [[wiki/concepts/margin-and-constraint]]
 - [[wiki/sources/mit-6-254-game-theory-ozdaglar]]
 - [[wiki/concepts/equilibrium-existence]]
+- [[wiki/sources/unimate]]
+- [[wiki/concepts/pinned-flow-sampling]]
 - [[wiki/sources/omlx]]
 - [[wiki/concepts/tiered-kv-cache]]
 - [[wiki/sources/archify]]
