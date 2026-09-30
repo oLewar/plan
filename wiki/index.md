@@ -24,6 +24,7 @@
 - [[wiki/sources/x-algorithm|X For You Feed Algorithm (xai-org/x-algorithm)]] — For You ranking/visibility; defaults: copy +20, reply/quote +5, follow +4, like +0.5; report −234.
 - [[wiki/sources/anthropic-bd-claude-cowork|Anthropic BD × Claude Cowork]] — inbound/outbound at scale: KB → hourly drafts → HITL send; overnight book research.
 - [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime guard: mediate memory writes; 0.3.0; local, no API keys.
+- [[wiki/sources/awesome-agent-skills-security|Awesome Agent Skills Security]] — curated link list; CC0; 150 attack / 213 defense entries; not a tool.
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (dsh)]] — plugin agent harness on Cordis; developer preview; `npx @deepseek-ai/dsh web`.
 - [[wiki/sources/pstack|pstack (cursor/plugins)]] — Cursor plugin: sticky `/poteto-mode`, 21 principles, multi-model panels; MIT 0.14.2.
 - [[wiki/sources/herdr|Herdr (herdrdev/herdr)]] — agent-runtime multiplexer; Apache-2.0; v0.8.2; server owns PTYs; Hermes is a first-class agent.
@@ -65,6 +66,7 @@
 - [[wiki/entities/herdr|Herdr]] — YC F26 runtime; org `herdrdev`; founder Can (`ogulcancelik`).
 - [[wiki/entities/deepseek|DeepSeek]] — lab; models + public harness `dsh`.
 - [[wiki/entities/owasp|OWASP]] — ASI06 / agent-security standards home; AMG incubator.
+- [[wiki/entities/yi-liu-llmsecurity|Yi Liu (LLMSecurity)]] — citation-block maintainer of the agent-skills security list; org profile empty.
 - [[wiki/entities/anthropic|Anthropic]] — Claude lab; internal BDR playbook on Cowork skills/schedules.
 - [[wiki/entities/arman-suleimenov|Арман Сулейменов]] — founder nFactorial, education angel investor, mental-models operator.
 - [[wiki/entities/nfactorial-school|nFactorial School]] — selective build+launch+monetize incubator / education community.
@@ -83,6 +85,7 @@
 - [[wiki/concepts/multi-action-feed-ranking|Multi-action feed ranking]] — multi-action prediction + explicit weights; X defaults not like-optimized; ranking ≠ visibility.
 - [[wiki/concepts/human-in-the-loop-gtm|Human-in-the-loop GTM]] — KB + skills + schedule + human send; CRM writes need evidence and reject-ledger.
 - [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]] — persistent memory as privileged next-turn input; write-gate ≠ prompt-filter.
+- [[wiki/concepts/skill-supply-chain|Skill supply chain]] — a poisoned tool schema or skill file is a write the chat filter never sees; Awesome Agent Skills Security.
 - [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]] — no privileged agent loop; compose profiles/bundles/patches; unload = unwind effects.
 - [[wiki/concepts/playbook-routed-agent-mode|Playbook-routed agent mode]] — sticky mode matches a playbook, copies steps verbatim, routes skills; pstack `/poteto-mode`.
 - [[wiki/concepts/agent-runtime-multiplexer|Agent-runtime multiplexer]] — server owns PTYs + semantic agent state; UI is a client; Herdr.
@@ -113,6 +116,7 @@
 - [[10_Reference/Strategy/marketing|Marketing]] — маркетинговые принципы, naming, аудитория, elevator pitch и заметки по AI search optimization / AEO / GEO.
 - [[10_Reference/tools/claude-cowork|Claude Cowork]] — skills/schedules/connectors; Anthropic BD inbound+outbound pattern (HITL).
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — Python runtime + CLI/Action/MCP for ASI06 memory writes.
+- [[10_Reference/tools/awesome-agent-skills-security|Awesome Agent Skills Security]] — reading list only; CC0; nothing to install.
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]] — `dsh` CLI/Web UI; Cordis plugins; npm RC.
 - [[10_Reference/tools/pstack|pstack]] — Cursor `/add-plugin pstack`; `/poteto-mode` + `/setup-pstack`.
 - [[10_Reference/tools/herdr|Herdr]] — `herdr` TUI/server; `herdr integration install hermes`; reference only.

@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **141**
+Всего: **144**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -109,6 +109,9 @@
 - [[wiki/sources/unimate|UniMate (Friedrich-M/UniMate)]]
 - [[wiki/entities/linzhan-mou|Linzhan Mou]]
 - [[wiki/concepts/pinned-flow-sampling|Pinned flow sampling]]
+- [[wiki/sources/awesome-agent-skills-security|Awesome Agent Skills Security]]
+- [[wiki/entities/yi-liu-llmsecurity|Yi Liu (LLMSecurity)]]
+- [[wiki/concepts/skill-supply-chain|Skill supply chain]]
 - [[wiki/sources/omlx|oMLX (jundot/omlx)]]
 - [[wiki/entities/omlx|oMLX]]
 - [[wiki/concepts/tiered-kv-cache|Tiered KV cache]]

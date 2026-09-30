@@ -27,6 +27,7 @@
 - A policy argument is usually a fight about which margin moved; Emerson's 24 modules each open with a policy question and put it back on one diagram ([[wiki/concepts/margin-and-constraint]]). The question is the hook, not the finding. PDF not downloaded.
 - A named equilibrium is a location, not a proof one exists; Ozdaglar's lecture 5 separates them — finite games have a mixed Nash, a continuum needs concavity for a pure one, and her second pricing game has none ([[wiki/concepts/equilibrium-existence]]). The other 20 lectures were not read.
 - A pinned frame can be a copy rather than a prediction; UniMate's in-betweener overwrites the known slice at every Euler step, and that path is fixed-step, not the adaptive solver used for plain sampling ([[wiki/concepts/pinned-flow-sampling]]). Not installed.
+- A poisoned skill file is a different write from a poisoned chat turn; the curated map is Awesome Agent Skills Security, and its largest attack bucket is supply chain, not prompt injection ([[wiki/concepts/skill-supply-chain]]). The list is not a scanner.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

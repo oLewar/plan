@@ -46,4 +46,5 @@ tags:
 - Intermediate Microeconomics, Emerson (policy question is the hook; CC BY-NC-SA; PDF not downloaded): [[wiki/sources/intermediate-microeconomics-emerson]], [[wiki/concepts/margin-and-constraint]]
 - MIT 6.254, Ozdaglar (existence is not a location; lecture 5 only; CC BY-NC-SA; PDF not in git): [[wiki/sources/mit-6-254-game-theory-ozdaglar]], [[wiki/concepts/equilibrium-existence]]
 - UniMate (one model, many skeletons; pinned frame is a copy; MIT code, data is not; not installed): [[wiki/sources/unimate]], [[wiki/concepts/pinned-flow-sampling]]
+- Awesome Agent Skills Security (link list, not a scanner; supply chain ≠ chat jailbreak): [[wiki/sources/awesome-agent-skills-security]], [[wiki/concepts/skill-supply-chain]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

@@ -39,6 +39,9 @@
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]] — ASI06 runtime memory write-gate
 - [[wiki/sources/owasp-agent-memory-guard|OWASP Agent Memory Guard (source)]] — README + tree, packaged 0.3.0
 - [[wiki/entities/owasp|OWASP]] / [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]]
+- [[10_Reference/tools/awesome-agent-skills-security|Awesome Agent Skills Security]] — link list; CC0; reference only, not a tool
+- [[wiki/sources/awesome-agent-skills-security|Awesome Agent Skills Security (source)]] — README counted, linked papers not opened
+- [[wiki/entities/yi-liu-llmsecurity|Yi Liu]] / [[wiki/concepts/skill-supply-chain|Skill supply chain]]
 - [[10_Reference/tools/deepseek-harness|DeepSeek Harness]] — `dsh` plugin harness (Cordis); developer preview
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (source)]] — README + architecture, npm RC
 - [[wiki/entities/deepseek|DeepSeek]] / [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]]

@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **114**
+Всего: **118**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -45,6 +45,10 @@
 - [[wiki/entities/owasp|OWASP]]
 - [[wiki/concepts/memory-poisoning|Memory poisoning (ASI06)]]
 - [[10_Reference/tools/owasp-agent-memory-guard|OWASP Agent Memory Guard]]
+- [[wiki/sources/awesome-agent-skills-security|Awesome Agent Skills Security]]
+- [[wiki/entities/yi-liu-llmsecurity|Yi Liu (LLMSecurity)]]
+- [[wiki/concepts/skill-supply-chain|Skill supply chain]]
+- [[10_Reference/tools/awesome-agent-skills-security|Awesome Agent Skills Security]]
 - [[wiki/sources/deepseek-harness|DeepSeek Harness (source)]]
 - [[wiki/entities/deepseek|DeepSeek]]
 - [[wiki/concepts/everything-is-a-plugin|Everything is a plugin]]

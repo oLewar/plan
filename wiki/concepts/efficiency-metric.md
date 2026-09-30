@@ -41,6 +41,7 @@
 - **Margin and constraint**: cheap to name which margin a policy actually moves (budget, cost, the side effect outside the price); expensive to argue the outcome without that split, or to quote a chapter's opening question as its conclusion ([[wiki/sources/intermediate-microeconomics-emerson]], [[wiki/concepts/margin-and-constraint]]).
 - **Equilibrium existence**: cheap to check the hypotheses (finite actions, or concavity on a compact convex set) before citing "the" equilibrium; expensive to go looking for one — that is a later lecture — or to treat a small parameter change as a small move of the equilibrium set ([[wiki/sources/mit-6-254-game-theory-ozdaglar]], [[wiki/concepts/equilibrium-existence]]).
 - **Pinned flow sampling**: cheap to hold a known frame by overwriting it, which is exact at the last step; expensive to tune a loss weight for the same constraint, and the pinned path is a fixed Euler grid rather than the adaptive solver ([[wiki/sources/unimate]], [[wiki/concepts/pinned-flow-sampling]]).
+- **Skill supply chain**: cheap to check who wrote a skill and when it last changed, before it is installed; expensive to treat a benchmark size copied off a reading list as a measurement ([[wiki/sources/awesome-agent-skills-security]], [[wiki/concepts/skill-supply-chain]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`

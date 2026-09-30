@@ -3,6 +3,16 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-09-30] ingest | Awesome Agent Skills Security (LLMSecurity)
+
+- Source: https://github.com/LLMSecurity/awesome-agent-skills-security — a curated link list, not a tool. Citation block names Yi Liu, 2026. Org API: 4 public repos, empty profile. Created 2026-03-09, pushed 2026-09-29. Stars 165, forks 82. No tags.
+- Tree is 3 blobs. README 234,302 bytes, sha256 `7e956157801a8795c8076568f69aab9d70a74e463f0cb0b4fe1f8436f11312b5`. CONTRIBUTING.md is the inclusion rule: agent/tool/skill security only, public papers, open-source tools with a commit in the last 6 months, no marketing. No linked paper or tool was opened.
+- License: README says CC0 1.0. There is no LICENSE file, so the GitHub license API returns null. Cite the README line.
+- Counts of bold-linked entries, 2026-09-30: frameworks 10, surveys 52, attacks **150** (largest bucket: tool poisoning & supply chain 38; prompt injection via tools 15), defenses **213**, benchmarks 41, tools 45, skill specs 7, industry posts 21, related lists 6. Contents omits the body subsection Compound System Attacks (4). Benchmark size cells are the papers' own claims.
+- Pages: `wiki/sources/awesome-agent-skills-security`, `wiki/entities/yi-liu-llmsecurity`, `wiki/concepts/skill-supply-chain`, `10_Reference/tools/awesome-agent-skills-security`. Contrast into causal-analysis ("jailbroken ≠ the skill was clean") and efficiency-metric (check the skill's source before citing a benchmark size). Not a harness. Not installed.
+- Catalog: Reference **114 → 118**, Research **141 → 144**.
+- Do not cite: a table size as our count; AST10's "critical" as a measurement; being listed as a reason to install.
+
 ## [2026-09-30] ingest | UniMate (Friedrich-M/UniMate)
 
 - Source: https://github.com/Friedrich-M/UniMate — "One Unified Model to Animate Diverse Skeletons", arXiv:2609.05415 (PDF not fetched). Authors: Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz. Affiliations on the README as a group: Princeton, UC Berkeley, MIT, NTU. Created 2026-07-22, pushed 2026-09-27. Stars 644, forks 68. Topics empty. No tags, no releases.

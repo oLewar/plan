@@ -12,6 +12,8 @@
 - [[wiki/concepts/equilibrium-existence]]
 - [[wiki/sources/unimate]]
 - [[wiki/concepts/pinned-flow-sampling]]
+- [[wiki/sources/awesome-agent-skills-security]]
+- [[wiki/concepts/skill-supply-chain]]
 - [[wiki/sources/omlx]]
 - [[wiki/concepts/tiered-kv-cache]]
 - [[wiki/sources/archify]]
