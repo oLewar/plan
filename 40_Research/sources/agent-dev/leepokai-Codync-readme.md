@@ -13,20 +13,20 @@ title: Codync
 **The open-source, 1:1 alternative to Grok Bot and Muse.**<br>
 Your coding agents, as teammates you can message.
 
-[![App Store](https://img.shields.io/badge/App_Store-iOS-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/codync/id6760984418)
-[![Homebrew](https://img.shields.io/badge/Homebrew-codync-FBB040?logo=homebrew&logoColor=white)](https://github.com/leepokai/homebrew-codync)
-[![Release](https://img.shields.io/github/v/release/leepokai/Codync?color=black)](https://github.com/leepokai/Codync/releases/latest)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![App Store](../../../assets/external/img.shields.io/e8c6a5472d98a3b8.img)](https://apps.apple.com/app/codync/id6760984418)
+[![Homebrew](../../../assets/external/img.shields.io/869bdb172801dc63.img)](https://github.com/leepokai/homebrew-codync)
+[![Release](../../../assets/external/img.shields.io/0b8ea32759858ddf.img)](https://github.com/leepokai/Codync/releases/latest)
+[![License: MIT](../../../assets/external/img.shields.io/ea4c54b5c3dd3609.img)](LICENSE)
 <br>
-![iOS](https://img.shields.io/badge/iOS-18+-black?logo=apple)
-![macOS](https://img.shields.io/badge/macOS-14+-black?logo=apple)
-![Linux](https://img.shields.io/badge/Linux-x86__64%20%7C%20arm64-black?logo=linux&logoColor=white)
-![Rust](https://img.shields.io/badge/host-Rust-B7410E?logo=rust)
-![Swift](https://img.shields.io/badge/apps-SwiftUI-F05138?logo=swift&logoColor=white)
+![iOS](../../../assets/external/img.shields.io/ae286d46ebeee656.img)
+![macOS](../../../assets/external/img.shields.io/6bd21c887880ce34.img)
+![Linux](../../../assets/external/img.shields.io/2ba33fb7c5789d86.img)
+![Rust](../../../assets/external/img.shields.io/90c6d566c85c2b29.img)
+![Swift](../../../assets/external/img.shields.io/bb3ff3036a555487.img)
 
 <a href="https://youtu.be/awhZJPjJaPc"><img src="docs/screenshots/launch-film.jpg" width="760" alt="Watch the Codync launch film on YouTube (1:26)"></a>
 
-<a href="https://apps.apple.com/app/codync/id6760984418"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="54" alt="Download on the App Store"></a>
+<a href="https://apps.apple.com/app/codync/id6760984418"><img src="../../../assets/external/developer.apple.com/c01ec0763bef8b87.svg" height="54" alt="Download on the App Store"></a>
 
 </div>
 
