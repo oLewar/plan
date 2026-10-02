@@ -28,6 +28,7 @@
 - A named equilibrium is a location, not a proof one exists; Ozdaglar's lecture 5 separates them — finite games have a mixed Nash, a continuum needs concavity for a pure one, and her second pricing game has none ([[wiki/concepts/equilibrium-existence]]). The other 20 lectures were not read.
 - A pinned frame can be a copy rather than a prediction; UniMate's in-betweener overwrites the known slice at every Euler step, and that path is fixed-step, not the adaptive solver used for plain sampling ([[wiki/concepts/pinned-flow-sampling]]). Not installed.
 - A poisoned skill file is a different write from a poisoned chat turn; the curated map is Awesome Agent Skills Security, and its largest attack bucket is supply chain, not prompt injection ([[wiki/concepts/skill-supply-chain]]). The list is not a scanner.
+- A phone chat with a coding agent can be a queue in front of that agent, not a new loop; Codync is the public case — one ACP turn per bot, Hermes not in the built-in list, not installed here ([[wiki/concepts/per-bot-turn-queue]]).
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

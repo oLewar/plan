@@ -3,6 +3,15 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-10-02] ingest | Codync (leepokai/Codync)
+
+- Source: https://github.com/leepokai/Codync — Rust host plus native iPhone, Mac, Linux, and terminal clients. Author Po Kai Lee (`leepokai`). MIT. Created 2026-03-18, pushed 2026-10-02. Stars 102, forks 14. Latest tag **v2.3.0** (2026-10-02); HEAD `9d838b72073c` is that tag. `host/Cargo.toml` version 2.3.0, edition 2024, rust-version 1.88, toolchain pin 1.99.0.
+- Tree: 615 blobs, 199 trees, not truncated. README 13482 bytes, sha256 `0729959c5cd9ca8a7f18c15d421300850c10f7f4cc70462d2e22d97e199c6d0f`. Inbox only.
+- README is product copy («1:1 Grok Bot / Muse», «~40 agents»). Architecture checked in files: `host/src/agent/bot.rs` is one actor per bot, one ACP turn at a time; `HARNESSES` is **26** named CLIs and Hermes is not among them; the «~40» is the ACP registry comment, refreshed every 24 h, not fetched. Default port **19222**, bind `0.0.0.0`. Group caps `MAX_ROUNDS = 3`, `MAX_REPLIES = 10`. Interrupted user turns resume only if younger than 1 hour. Asks, group turns, and routines do not feed memory and are not silently resumed.
+- Pages: `wiki/sources/codync`, `wiki/entities/leepokai`, `wiki/concepts/per-bot-turn-queue`, `10_Reference/tools/codync`. Contrast into causal-analysis («a bot replied ≠ the loop changed») and efficiency-metric (a queue in front of an agent you already run). Not a harness, so not in `harness.md`. Not added to barbell — the repo is from March 2026. Not installed. Installer not run.
+- Catalog: Reference **118 → 122**, Research **144 → 147**.
+- Do not cite: «~40» as the built-in count; «1:1» as checked parity; end-to-end as hiding metadata (the overview says routing IDs, timing, and sizes stay visible); Hermes as a supported backend.
+
 ## [2026-09-30] ingest | Awesome Agent Skills Security (LLMSecurity)
 
 - Source: https://github.com/LLMSecurity/awesome-agent-skills-security — a curated link list, not a tool. Citation block names Yi Liu, 2026. Org API: 4 public repos, empty profile. Created 2026-03-09, pushed 2026-09-29. Stars 165, forks 82. No tags.

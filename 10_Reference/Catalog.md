@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **118**
+Всего: **122**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -114,6 +114,10 @@
 - [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]]
 - [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]
 - [[10_Reference/tools/sutskever-30-implementations|Sutskever 30 implementations]]
+- [[wiki/sources/codync|Codync (leepokai/Codync)]]
+- [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]]
+- [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]
+- [[10_Reference/tools/codync|Codync]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

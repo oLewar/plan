@@ -46,12 +46,14 @@
 - [[wiki/sources/clm|CLM (Contrastive-LM/CLM)]] — local System One ranker; Apache-2.0 0.1.0, no tags; same wire as Jev; not a harness.
 - [[wiki/sources/julia-1|Julia 1 (Supersonic Labs)]] — local mmBERT decision model; Apache-2.0; `choice`/`score`/`noul` in Python, not the Jev HTTP wire; not installed.
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (pageman)]] — 30 NumPy notebooks for Sutskever's list; no license, no tags; 6/30 update weights; not a library.
+- [[wiki/sources/codync|Codync (leepokai/Codync)]] — phone client for coding agents; Rust host queues one ACP turn per bot; MIT v2.3.0; not a harness.
 
 ## Entities
 - [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
 - [[wiki/entities/contrastive-lm|Contrastive-LM]] — org; CLM local System One ranker; not a loop vendor.
 - [[wiki/entities/supersonic-labs|Supersonic Labs]] — lab; Julia 1 local decision model; not a loop vendor.
 - [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]] — author of the Sutskever-30 NumPy notebooks; not Sutskever; not a lab.
+- [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]] — author of Codync; a host in front of other agents, not a loop vendor.
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]] — author of the Oregon State intermediate microeconomics OER; not a lab.
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] — instructor of MIT 6.254 (Spring 2010); lecture 5 read; not a lab.
 - [[wiki/entities/linzhan-mou|Linzhan Mou]] — first author of UniMate; repo org is Friedrich-M; not a lab.
@@ -106,6 +108,7 @@
 - [[wiki/concepts/margin-and-constraint|Margin and constraint]] — a choice is a constraint plus a margin; naming the wrong one is how a policy "doesn't work"; Emerson.
 - [[wiki/concepts/equilibrium-existence|Equilibrium existence]] — a resting point is not a location; finite games have a mixed Nash; a continuum needs concavity for a pure one; Ozdaglar lecture 5.
 - [[wiki/concepts/pinned-flow-sampling|Pinned flow sampling]] — a known slice is overwritten every Euler step, not pulled by a loss; UniMate in-betweening.
+- [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]] — one ACP turn at a time per named bot; the agent stays someone else's loop; Codync.
 
 ## Reference standards
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]] — примеры промптов для coding agent / Claude Code по кодовой базе.
@@ -136,6 +139,7 @@
 - [[10_Reference/tools/intermediate-microeconomics|Intermediate Microeconomics]] — Oregon State OER; CC BY-NC-SA; read in the browser; PDF not downloaded.
 - [[10_Reference/tools/mit-6-254|MIT 6.254]] — Ozdaglar OCW; CC BY-NC-SA; lecture 5 read; PDF not in the vault.
 - [[10_Reference/tools/unimate|UniMate]] — skeleton motion model; MIT code; reference only, not installed, weights not downloaded.
+- [[10_Reference/tools/codync|Codync]] — `codync-host` on :19222; ACP queue in front of other CLIs; MIT v2.3.0; reference only, not installed.
 
 ## Analyses
 - [[wiki/analyses/repo-operating-model|Operating model for pro/plan]] — целевая модель структуры и процессов репозитория.

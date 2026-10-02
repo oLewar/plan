@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **144**
+Всего: **147**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -148,3 +148,6 @@
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (pageman)]]
 - [[wiki/entities/paul-pajo|Paul Pajo]]
 - [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]
+- [[wiki/sources/codync|Codync (leepokai/Codync)]]
+- [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]]
+- [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]

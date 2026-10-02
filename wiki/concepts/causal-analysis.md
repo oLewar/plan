@@ -54,6 +54,7 @@
 - **Jailbroken ≠ the skill was clean**: a poisoned tool schema, a cross-plugin handoff, and a chat jailbreak are three causes; a filter on the user message sees only the last ([[wiki/concepts/skill-supply-chain]]).
 - **After X ≠ because of X**: post hoc / hidden premise / form-valid-with-false-premises are different errors ([[wiki/concepts/formal-logic-skill]]).
 - **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
+- **A bot replied ≠ the loop changed**: the queue picked a lane and forwarded `session/prompt`; the agent's own loop, prompt, and tools are a different cause ([[wiki/concepts/per-bot-turn-queue]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -74,3 +75,4 @@
 - `[[wiki/sources/jev-ultrafast]]`
 - `[[wiki/sources/jev-usage-examples]]`
 - `[[wiki/sources/logika]]`
+- `[[wiki/sources/codync]]`

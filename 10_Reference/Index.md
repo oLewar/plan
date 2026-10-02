@@ -91,4 +91,7 @@
 - [[10_Reference/tools/sutskever-30-implementations|Sutskever 30 implementations]] — NumPy notebooks; no license; reference only, not cloned
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 (source)]] — README + 30 notebooks censused; 6/30 update weights
 - [[wiki/entities/paul-pajo|Paul Pajo]] / [[wiki/concepts/numpy-paper-toy|NumPy paper toy]]
+- [[10_Reference/tools/codync|Codync]] — phone client over ACP; MIT v2.3.0; reference only, not installed
+- [[wiki/sources/codync|Codync (source)]] — README + bot.rs queue + 26 harness ids + tree
+- [[wiki/entities/leepokai|Po Kai Lee]] / [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]
