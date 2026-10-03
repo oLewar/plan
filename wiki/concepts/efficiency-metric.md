@@ -43,6 +43,7 @@
 - **Pinned flow sampling**: cheap to hold a known frame by overwriting it, which is exact at the last step; expensive to tune a loss weight for the same constraint, and the pinned path is a fixed Euler grid rather than the adaptive solver ([[wiki/sources/unimate]], [[wiki/concepts/pinned-flow-sampling]]).
 - **Skill supply chain**: cheap to check who wrote a skill and when it last changed, before it is installed; expensive to treat a benchmark size copied off a reading list as a measurement ([[wiki/sources/awesome-agent-skills-security]], [[wiki/concepts/skill-supply-chain]]).
 - **Per-bot turn queue**: cheap to message an agent you already run from a phone; expensive to treat that client as a new harness, or to install a host that binds `0.0.0.0` and downloads registry binaries ([[wiki/sources/codync]], [[wiki/concepts/per-bot-turn-queue]]).
+- **Capital concentration**: cheap to notice that dollars and deal count can move apart (mega-rounds); expensive to rank a market by the wrong total, or to treat a promo's percentages as a measurement ([[wiki/sources/anysite-ai-startup-funding]], [[wiki/concepts/capital-concentration]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -64,3 +65,4 @@
 - `[[wiki/sources/jev-usage-examples]]`
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/codync]]`
+- `[[wiki/sources/anysite-ai-startup-funding]]`

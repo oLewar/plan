@@ -94,4 +94,7 @@
 - [[10_Reference/tools/codync|Codync]] — phone client over ACP; MIT v2.3.0; reference only, not installed
 - [[wiki/sources/codync|Codync (source)]] — README + bot.rs queue + 26 harness ids + tree
 - [[wiki/entities/leepokai|Po Kai Lee]] / [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]
+- [[10_Reference/tools/anysite|Anysite]] — MCP over external web data; reference only, not installed, not subscribed
+- [[wiki/sources/anysite-ai-startup-funding|Anysite funding post (source)]] — pasted promo; dollar figures are author claims; report file absent
+- [[wiki/entities/anysite|Anysite]] / [[wiki/concepts/capital-concentration|Capital concentration]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

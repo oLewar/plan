@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **122**
+Всего: **126**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -118,6 +118,10 @@
 - [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]]
 - [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]
 - [[10_Reference/tools/codync|Codync]]
+- [[wiki/sources/anysite-ai-startup-funding|Anysite AI-startup funding post]]
+- [[wiki/entities/anysite|Anysite]]
+- [[wiki/concepts/capital-concentration|Capital concentration]]
+- [[10_Reference/tools/anysite|Anysite]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

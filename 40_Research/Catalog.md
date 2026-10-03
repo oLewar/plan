@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **147**
+Всего: **150**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -151,3 +151,6 @@
 - [[wiki/sources/codync|Codync (leepokai/Codync)]]
 - [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]]
 - [[wiki/concepts/per-bot-turn-queue|Per-bot turn queue]]
+- [[wiki/sources/anysite-ai-startup-funding|Anysite AI-startup funding post]]
+- [[wiki/entities/anysite|Anysite]]
+- [[wiki/concepts/capital-concentration|Capital concentration]]

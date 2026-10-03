@@ -48,4 +48,5 @@ tags:
 - UniMate (one model, many skeletons; pinned frame is a copy; MIT code, data is not; not installed): [[wiki/sources/unimate]], [[wiki/concepts/pinned-flow-sampling]]
 - Awesome Agent Skills Security (link list, not a scanner; supply chain ≠ chat jailbreak): [[wiki/sources/awesome-agent-skills-security]], [[wiki/concepts/skill-supply-chain]]
 - Codync / per-bot turn queue (phone client over ACP; not a harness; not installed; Hermes not in the built-in list): [[wiki/sources/codync]], [[wiki/concepts/per-bot-turn-queue]]
+- Anysite / capital concentration (MCP over external data; dollars ≠ deal count; promo figures unverified; not subscribed): [[wiki/sources/anysite-ai-startup-funding]], [[wiki/concepts/capital-concentration]]
 - HITL GTM / sales-inbox skills (KB first, human on every send): [[wiki/sources/anthropic-bd-claude-cowork]], [[wiki/concepts/human-in-the-loop-gtm]]

@@ -3,6 +3,18 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-10-03] ingest | Anysite AI-startup funding post
+
+- Source: a Telegram promo pasted by the user. Author unknown, channel unknown, post date unknown. Product URL https://anysite.io/ (utm stripped). Not a page from that site.
+- Body sha256 `53d878aeddb7e7a638de03b873b271bcccb06dbf763ca10d34938ad27ddc6065`. Inbox only: `raw/anysite-ai-startup-funding-post.md`. No `40_Research/sources/` copy.
+- Method (author-claimed): Claude + MCP to Anysite, a couple of hours, 7 740 AI startups, 20 use cases. Prompt and report file were not attached.
+- Claims (author-claimed, confidence **low**, source file absent): Anthropic + xAI + Project Prometheus $138 billion = 43% of AI-startup money since 2020; 2025 dollars ×2, deals +20%, mega-rounds; voice agents +59% and robots +41% by deal count, Legal AI +423% by investment; public revenue for 30 companies, Anthropic $65 billion/year, Cursor $4 billion.
+- Commercial offer recorded without the code: 7-day trial, a promo code for one free month of the MCP $30 tier, plus advertised social parsing, email finding, and GTM/outbound. No account, no API call, no trial.
+- Homepage `curl` HTTP 200 (2026-10-03). `web_extract` failed. Homepage says live web data for GTM over MCP/API, 900+ sources / 5,000+ endpoints, MCP from $30/month, API from $49, 7-day trial. Crunchbase is not named on the homepage.
+- Pages: `wiki/sources/anysite-ai-startup-funding`, `wiki/entities/anysite`, `wiki/concepts/capital-concentration`, `10_Reference/tools/anysite`. One bullet each on overview, causal-analysis, efficiency-metric, research-backlog, `25_Projects/1M_Strategy/Links.md`. Not a harness, so not in `harness.md`. Not added to barbell.
+- Catalog: Reference **122 → 126**, Research **147 → 150**.
+- Do not cite: any dollar figure, growth rate, startup count, or revenue number from the post. Do not subscribe to check them.
+
 ## [2026-10-02] ingest | Codync (leepokai/Codync)
 
 - Source: https://github.com/leepokai/Codync — Rust host plus native iPhone, Mac, Linux, and terminal clients. Author Po Kai Lee (`leepokai`). MIT. Created 2026-03-18, pushed 2026-10-02. Stars 102, forks 14. Latest tag **v2.3.0** (2026-10-02); HEAD `9d838b72073c` is that tag. `host/Cargo.toml` version 2.3.0, edition 2024, rust-version 1.88, toolchain pin 1.99.0.
