@@ -32,6 +32,7 @@
 - A funding total and a deal count answer different questions; mega-rounds can double the dollars while deal count barely moves ([[wiki/concepts/capital-concentration]]). The Anysite promo's figures are author claims — the report file was not attached.
 - Jean Gallier's UPenn page is a list of 19 books, 18 of them with a PDF link ([[wiki/sources/jean-gallier-books]]). Nothing on it was read. Which one to open first is not decided.
 - Harness search can split the development set so two lineages specialize, then route before execution ([[wiki/sources/mixture-of-self-improving-branches]]). A higher routed score is not one harness getting better. Author numbers only; PDF not downloaded. Not a fifth harness axis.
+- A decompile is not an observation that the program ran; REA is the public case — local CLI/MCP over Hopper and Ghidra, 122 tools in the generated catalog, not installed here ([[wiki/sources/rea]]). Not a harness. The `dsh` topic is not a plugin in the tree.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

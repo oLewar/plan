@@ -3,6 +3,17 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-10-04] ingest | REA (morluto/rea)
+
+- Source: https://github.com/morluto/rea — npm `rea-agents` **3.2.1** (release 2026-10-03). HEAD `405732a7f55e` (2026-10-04) is past that tag. MIT. Stars **1672** (API `stargazers_count`). Created 2026-04-14. TypeScript, Node `^22.19.0 || >=24.11.0`.
+- What the code does: CLI (`src/cli.ts`, Incur) and MCP (`src/main.ts`, stdio, SDK 2.0.0) share `createBinarySession`. `src/application/runtime.ts` always constructs `HopperProvider` and `GhidraProvider`. Generated `docs/product-catalog.json`: 122 tools, 75 CLI commands, 14 providers (Hopper 37 capabilities, Ghidra 22). Skill `reverse-engineer-anything` version 23 routes the target and says static analysis is not an execution. Setup writes six clients; Devin is detect-only; Hermes is absent (`SupportedClients.ts`).
+- Topics `dsh` and `dsh-plugin` are not a plugin: recursive tree (1406 blobs) has no `plugin.json`. Not a harness, so not in `harness.md`. Not added to barbell.
+- Pages: `wiki/sources/rea`, `wiki/entities/morluto`, `10_Reference/tools/rea`. No new concept — the split (a decompile is not an execution) is one bullet on causal-analysis. No efficiency-metric bullet. One bullet on overview. One Hypothesis on research-backlog (worth wiring beside `browser_exec` — not answered). No `25_Projects/1M_Strategy/Links.md` line.
+- Body sha256 `ff8c0c3b2578111b337fdfbf23263b92e8dccab3d9f11db5d566fc0e5f05a4e5` (62567 bytes, LF). Inbox only: `raw/morluto-rea-readme.md`. No `40_Research/sources/` copy.
+- Catalog: Reference **132 → 135**, Research **156 → 158** (source + entity on both; tool card on Reference only).
+- Not installed. Not cloned. `npx` not run. Hopper and Ghidra not downloaded. Provider wire not read.
+- Do not cite: demo/Xvfb behavior, checksums, or what a live Hopper or Ghidra session returns.
+
 ## [2026-10-04] ingest | arXiv 2609.37834 Mixture of Self-Improving Branches
 
 - Source: https://arxiv.org/html/2609.37834v1 — Haoyu Dong, Yuhang Zhou, Zihao Lin, Yifan Wu, Bo Peng, Mingyi Wang, Xiangjun Fan, Lizhu Zhang, Zhuokai Zhao. HTML date line: arXiv:2609.37834v1 [cs.AI] 29 Sep 2026. CC BY 4.0 on the page. PDF was not downloaded.

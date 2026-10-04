@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **156**
+Всего: **158**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -160,3 +160,5 @@
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches (arXiv:2609.37834)]]
 - [[wiki/entities/haoyu-dong|Haoyu Dong]]
+- [[wiki/sources/rea|REA (morluto/rea)]]
+- [[wiki/entities/morluto|morluto]]

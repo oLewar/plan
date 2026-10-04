@@ -103,4 +103,7 @@
 - [[wiki/entities/jean-gallier|Jean Gallier]] — CIS, University of Pennsylvania; not a lab
 - [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches]] — arXiv:2609.37834v1 HTML; two-branch harness search; author numbers; PDF not downloaded
 - [[wiki/entities/haoyu-dong|Haoyu Dong]] — first author; correspondence at Duke; not a lab
+- [[10_Reference/tools/rea|REA]] — local RE CLI + MCP; MIT 3.2.1; reference only, not installed
+- [[wiki/sources/rea|REA (source)]] — README + runtime.ts + catalog; Hopper and Ghidra; 122 tools; not a harness
+- [[wiki/entities/morluto|morluto]] — owner of REA; other named projects not fetched
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

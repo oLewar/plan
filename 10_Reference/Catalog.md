@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **132**
+Всего: **135**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -128,6 +128,9 @@
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches (arXiv:2609.37834)]]
 - [[wiki/entities/haoyu-dong|Haoyu Dong]]
+- [[wiki/sources/rea|REA (morluto/rea)]]
+- [[wiki/entities/morluto|morluto]]
+- [[10_Reference/tools/rea|REA]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

@@ -51,6 +51,7 @@
 - [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]] — lecture 6, 2026-10-03; description and chapter list only; transcript not captured.
 - [[wiki/sources/jean-gallier-books|Jean Gallier — books (UPenn gbooks)]] — index of 19 titles; PDF linked on 18 child pages; bibliography, not a reading.
 - [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches (arXiv:2609.37834)]] — two-branch harness search with evolving dev subsets; router before execution; author numbers, HTML only.
+- [[wiki/sources/rea|REA (morluto/rea)]] — local RE CLI + MCP; Hopper and Ghidra; 122 tools in the generated catalog; not a harness; not installed.
 
 ## Entities
 - [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
@@ -62,6 +63,7 @@
 - [[wiki/entities/jean-gallier|Jean Gallier]] — professor, CIS, University of Pennsylvania; author of the gbooks list; not a lab.
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]] — author of the GRPO/RLVR lecture; description only; not a lab.
 - [[wiki/entities/haoyu-dong|Haoyu Dong]] — first author of the branching harness-search paper; correspondence at Duke; not a lab.
+- [[wiki/entities/morluto|morluto]] — GitHub user; owner of REA (`rea-agents`); other named projects not fetched.
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]] — author of the Oregon State intermediate microeconomics OER; not a lab.
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] — instructor of MIT 6.254 (Spring 2010); lecture 5 read; not a lab.
 - [[wiki/entities/linzhan-mou|Linzhan Mou]] — first author of UniMate; repo org is Friedrich-M; not a lab.
