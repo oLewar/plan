@@ -14,11 +14,11 @@ title: REA: Reverse Engineer Anything
 
 **See a feature you like. Understand how it works, down to the binary level.**
 
-[![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
-[![CI](https://img.shields.io/github/actions/workflow/status/morluto/rea/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/morluto/rea/actions/workflows/ci.yml)
-[![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](#tool-catalog-for-investigation)
-[![Node.js 22+](https://img.shields.io/badge/Node.js-22.19%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](LICENSE)
+[![npm version](../../../assets/external/img.shields.io/3672ed88abdd2877.img)](https://www.npmjs.com/package/rea-agents)
+[![CI](../../../assets/external/img.shields.io/9d0999508327d175.img)](https://github.com/morluto/rea/actions/workflows/ci.yml)
+[![MCP tool catalog](../../../assets/external/img.shields.io/6f67f91d2599f65b.img)](#tool-catalog-for-investigation)
+[![Node.js 22+](../../../assets/external/img.shields.io/aa023cbf82e48650.img)](https://nodejs.org/)
+[![MIT license](../../../assets/external/img.shields.io/62c9fe0835d30d7b.img)](LICENSE)
 
 [Quick start](#quick-start) · [Current status](#current-status) · [Investigation model](#the-investigation-model) · [Tool catalog](#tool-catalog-for-investigation) · [Roadmap](#roadmap) · [How it works](#how-it-works)
 
