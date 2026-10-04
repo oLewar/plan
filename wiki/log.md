@@ -14,6 +14,17 @@
 - Catalog: Reference **126 → 128**, Research **150 → 152**.
 - Do not cite: any MATH-500 number, any training setting, or the runtime. None of those were in the captured text.
 
+## [2026-10-04] ingest | Jean Gallier book list (UPenn gbooks)
+
+- Source: https://www.cis.upenn.edu/~jean/gbooks/ — HTML index of books by Jean Gallier (CIS, University of Pennsylvania). Index footer 2011-03-08 is stale; child pages are dated through 2025-07-26.
+- The index lists 19 titles and names no year, no coauthor, and no PDF. Those facts come from the 19 child HTML pages, fetched the same day. No PDF, `.ps`, or DjVu was downloaded. Homepage, the two geometry subpages (`geom2.html`, `geom3.html`), and the logic papers were not fetched.
+- 18 of 19 child pages link a PDF. The exception is *Geometric Methods and Applications* (2003 page), which links two further HTML pages only.
+- Coauthors the child pages name: Jocelyn Quaintance, Dianna Xu, Stephen S. Shatz, Andy Hicks. Several copyright lines (2005, 2010, 2011) disagree with the publication year on the same page — both recorded, neither picked.
+- Body sha256 `4f754f8b3e384245e1ab7b8c8e7e57d36bfd06c9f674c98db6db1d28c8adf688`. Inbox only: `raw/upenn-jean-gallier-gbooks.md`. No `40_Research/sources/` copy.
+- Pages: `wiki/sources/jean-gallier-books`, `wiki/entities/jean-gallier`. No concept — the index states no reusable claim. No tool card. Not a harness, so not in `harness.md`. Not added to barbell. One bullet on overview. One Hypothesis on research-backlog (which book to read first — not picked). No `25_Projects/1M_Strategy/Links.md` line.
+- Catalog: Reference **128 → 130**, Research **152 → 154**. Counted after a concurrent Raschka ingest had already moved both catalogs by +2.
+- Do not cite: a page count, a theorem, or what any book argues. 2218 and 401 pages are the author's own lines.
+
 ## [2026-10-03] ingest | Anysite AI-startup funding post
 
 - Source: a Telegram promo pasted by the user. Author unknown, channel unknown, post date unknown. Product URL https://anysite.io/ (utm stripped). Not a page from that site.

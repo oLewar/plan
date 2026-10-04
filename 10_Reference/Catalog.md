@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **128**
+Всего: **130**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -122,6 +122,8 @@
 - [[wiki/entities/anysite|Anysite]]
 - [[wiki/concepts/capital-concentration|Capital concentration]]
 - [[10_Reference/tools/anysite|Anysite]]
+- [[wiki/sources/jean-gallier-books|Jean Gallier — books (UPenn gbooks)]]
+- [[wiki/entities/jean-gallier|Jean Gallier]]
 - [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]]
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[Strategy/marketing|Marketing]]

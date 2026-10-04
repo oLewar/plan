@@ -43,6 +43,8 @@
 - [[wiki/concepts/per-bot-turn-queue]]
 - [[wiki/sources/anysite-ai-startup-funding]]
 - [[wiki/concepts/capital-concentration]]
+- [[wiki/sources/jean-gallier-books]]
+- [[wiki/entities/jean-gallier]]
 - [[wiki/sources/raschka-reasoning-grpo-rlvr]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]

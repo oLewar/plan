@@ -30,6 +30,7 @@
 - A poisoned skill file is a different write from a poisoned chat turn; the curated map is Awesome Agent Skills Security, and its largest attack bucket is supply chain, not prompt injection ([[wiki/concepts/skill-supply-chain]]). The list is not a scanner.
 - A phone chat with a coding agent can be a queue in front of that agent, not a new loop; Codync is the public case — one ACP turn per bot, Hermes not in the built-in list, not installed here ([[wiki/concepts/per-bot-turn-queue]]).
 - A funding total and a deal count answer different questions; mega-rounds can double the dollars while deal count barely moves ([[wiki/concepts/capital-concentration]]). The Anysite promo's figures are author claims — the report file was not attached.
+- Jean Gallier's UPenn page is a list of 19 books, 18 of them with a PDF link ([[wiki/sources/jean-gallier-books]]). Nothing on it was read. Which one to open first is not decided.
 
 ## Active hypotheses
 1. Качество решений растёт быстрее, если сначала строить causal map, а уже потом выбирать действия.

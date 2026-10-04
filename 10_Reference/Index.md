@@ -99,4 +99,6 @@
 - [[wiki/entities/anysite|Anysite]] / [[wiki/concepts/capital-concentration|Capital concentration]]
 - [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka GRPO/RLVR (source)]] — YouTube lecture, 2026-10-03; description and chapters only; transcript not captured
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
+- [[wiki/sources/jean-gallier-books|Jean Gallier — books]] — UPenn gbooks index; 19 titles; PDF linked on 18; not read
+- [[wiki/entities/jean-gallier|Jean Gallier]] — CIS, University of Pennsylvania; not a lab
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]
