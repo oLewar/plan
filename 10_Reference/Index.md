@@ -101,4 +101,6 @@
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[wiki/sources/jean-gallier-books|Jean Gallier — books]] — UPenn gbooks index; 19 titles; PDF linked on 18; not read
 - [[wiki/entities/jean-gallier|Jean Gallier]] — CIS, University of Pennsylvania; not a lab
+- [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches]] — arXiv:2609.37834v1 HTML; two-branch harness search; author numbers; PDF not downloaded
+- [[wiki/entities/haoyu-dong|Haoyu Dong]] — first author; correspondence at Duke; not a lab
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

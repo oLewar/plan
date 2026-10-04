@@ -46,6 +46,8 @@
 - [[wiki/sources/jean-gallier-books]]
 - [[wiki/entities/jean-gallier]]
 - [[wiki/sources/raschka-reasoning-grpo-rlvr]]
+- [[wiki/sources/mixture-of-self-improving-branches]]
+- [[wiki/entities/haoyu-dong]]
 - [[wiki/analyses/repo-operating-model]]
 - [[wiki/questions/research-backlog]]
 - [[research/reasoning_techniques_gpt_5_4_pro.md]]

@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **154**
+Всего: **156**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -158,3 +158,5 @@
 - [[wiki/entities/jean-gallier|Jean Gallier]]
 - [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]]
 - [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
+- [[wiki/sources/mixture-of-self-improving-branches|Mixture of Self-Improving Branches (arXiv:2609.37834)]]
+- [[wiki/entities/haoyu-dong|Haoyu Dong]]

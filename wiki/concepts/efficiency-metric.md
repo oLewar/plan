@@ -44,6 +44,7 @@
 - **Skill supply chain**: cheap to check who wrote a skill and when it last changed, before it is installed; expensive to treat a benchmark size copied off a reading list as a measurement ([[wiki/sources/awesome-agent-skills-security]], [[wiki/concepts/skill-supply-chain]]).
 - **Per-bot turn queue**: cheap to message an agent you already run from a phone; expensive to treat that client as a new harness, or to install a host that binds `0.0.0.0` and downloads registry binaries ([[wiki/sources/codync]], [[wiki/concepts/per-bot-turn-queue]]).
 - **Capital concentration**: cheap to notice that dollars and deal count can move apart (mega-rounds); expensive to rank a market by the wrong total, or to treat a promo's percentages as a measurement ([[wiki/sources/anysite-ai-startup-funding]], [[wiki/concepts/capital-concentration]]).
+- **Branching harness search**: a second branch can keep a case the first one drops, which is the point; the authors' own table says that costs 1.21×–1.71× the task-solving tokens of one Meta-Harness run, and they say the repeats are too thin to call it efficient ([[wiki/sources/mixture-of-self-improving-branches]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -66,3 +67,4 @@
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/codync]]`
 - `[[wiki/sources/anysite-ai-startup-funding]]`
+- `[[wiki/sources/mixture-of-self-improving-branches]]`

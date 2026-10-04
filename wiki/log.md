@@ -3,6 +3,17 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-10-04] ingest | arXiv 2609.37834 Mixture of Self-Improving Branches
+
+- Source: https://arxiv.org/html/2609.37834v1 — Haoyu Dong, Yuhang Zhou, Zihao Lin, Yifan Wu, Bo Peng, Mingyi Wang, Xiangjun Fan, Lizhu Zhang, Zhuokai Zhao. HTML date line: arXiv:2609.37834v1 [cs.AI] 29 Sep 2026. CC BY 4.0 on the page. PDF was not downloaded.
+- Method (as printed): two branches, shared proposer Claude Opus 4.6, each with its own development subset and `SKILL.md`. A case stays with the branch whose frontier solves it by margin Δ, and leaves every branch when every frontier harness solves it. A router picks one development-selected head before execution. Defaults: B=2, N=20, q=5, Δ=2.
+- Author claims, not re-run: vs Meta-Harness, Math–Gemini 46.0% → 62.0% (relative +34.8%), Math–Sonnet 29.0% → 30.5% (+5.2%), Terminal-Bench 2.0 44.8% → 50.0% (+11.6%), SWE-bench Lite 63.6% → 66.0% (+3.8%). The abstract's 34.8% is the Gemini math setting only. Math–Gemini ablation: both components 62.0%, pruning only 54.0%, guidance only 50.0%, neither 51.0%.
+- Limitation the paper states: unequal token use and limited repeated evaluations; routing is below the stronger head in two settings; ablations do not show that each trajectory change caused the later test gain. Appendix A: task-solving tokens 1.21× / 1.71× / 1.50× Meta-Harness.
+- Pages: `wiki/sources/mixture-of-self-improving-branches`, `wiki/entities/haoyu-dong`. No new concept — the split (routed score ≠ one harness got better) is one bullet on causal-analysis; the token multiple is one bullet on efficiency-metric. Not a fifth harness axis, so not in `harness.md`. Not added to barbell. Contrast with regularized-harness-search (RRSI) recorded; the paper does not cite it. No tool card. One bullet on overview. One Hypothesis on research-backlog (this search vs RRSI — not compared). No `25_Projects/1M_Strategy/Links.md` line.
+- Body sha256 `a84fd48a7edb900506af84551776ca792d8c8d45dec482b0bed5cbb066ea6c42`. Inbox only: `raw/arxiv-2609.37834.md`. No `40_Research/sources/` copy.
+- Catalog: Reference **130 → 132**, Research **154 → 156**. The printed Всего on both catalogs was already two behind the `- ` rows (130 vs 132, 154 vs 156) before this ingest; both were recounted after adding the source and the entity.
+- Do not cite: any percentage as a measurement. Affiliation footnote does not assign a person to Meta, Duke, or UC Davis.
+
 ## [2026-10-04] ingest | Raschka GRPO for RLVR (YouTube 237Hf7Q3lgg)
 
 - Source: https://www.youtube.com/watch?v=237Hf7Q3lgg — Sebastian Raschka, `@SebastianRaschka`. Title via oEmbed: "Build A Reasoning Model From Scratch 6: Reinforcement Learning 1 (Implementing GRPO for RLVR)". Published 2026-10-03.

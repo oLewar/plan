@@ -56,6 +56,7 @@
 - **Harness improved ≠ one cause**: leakage (task ids), within-noise score bump, token-expensive real gain, and structural novelty inside the band are different accepts ([[wiki/concepts/regularized-harness-search]]).
 - **A bot replied ≠ the loop changed**: the queue picked a lane and forwarded `session/prompt`; the agent's own loop, prompt, and tools are a different cause ([[wiki/concepts/per-bot-turn-queue]]).
 - **Dollars doubled ≠ the category got busier**: mega-rounds and a broader deal flow are different causes; rank by dollars and rank by deals answer different questions ([[wiki/concepts/capital-concentration]]).
+- **Routed score ≠ the harness got better**: a router can beat either head by picking the one that solves this input; that is not the same cause as one harness improving, and a branch's subset score is not comparable to the other's ([[wiki/sources/mixture-of-self-improving-branches]]).
 
 ## Sources
 - `[[wiki/sources/llm-wiki-gist]]`
@@ -78,3 +79,4 @@
 - `[[wiki/sources/logika]]`
 - `[[wiki/sources/codync]]`
 - `[[wiki/sources/anysite-ai-startup-funding]]`
+- `[[wiki/sources/mixture-of-self-improving-branches]]`
