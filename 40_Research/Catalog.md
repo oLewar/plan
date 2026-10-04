@@ -2,7 +2,7 @@
 
 Исследования, источники, синтез, внешние материалы.
 
-Всего: **150**
+Всего: **152**
 
 - [[40_Research/Index|Research Index]]
 - [[40_Research/github-activity/latest|GitHub Activity Report]]
@@ -154,3 +154,5 @@
 - [[wiki/sources/anysite-ai-startup-funding|Anysite AI-startup funding post]]
 - [[wiki/entities/anysite|Anysite]]
 - [[wiki/concepts/capital-concentration|Capital concentration]]
+- [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]]
+- [[wiki/entities/sebastian-raschka|Sebastian Raschka]]

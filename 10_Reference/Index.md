@@ -97,4 +97,6 @@
 - [[10_Reference/tools/anysite|Anysite]] — MCP over external web data; reference only, not installed, not subscribed
 - [[wiki/sources/anysite-ai-startup-funding|Anysite funding post (source)]] — pasted promo; dollar figures are author claims; report file absent
 - [[wiki/entities/anysite|Anysite]] / [[wiki/concepts/capital-concentration|Capital concentration]]
+- [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka GRPO/RLVR (source)]] — YouTube lecture, 2026-10-03; description and chapters only; transcript not captured
+- [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[10_Reference/Catalog|Полный каталог справочных материалов]]

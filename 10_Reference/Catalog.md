@@ -2,7 +2,7 @@
 
 Справочные материалы, стандарты, инструменты, процессы.
 
-Всего: **126**
+Всего: **128**
 
 - [[10_Reference/Index|Reference Index]]
 - [[10_Reference/Agents/prompting-codebase-questions|Prompting codebase questions]]
@@ -122,6 +122,8 @@
 - [[wiki/entities/anysite|Anysite]]
 - [[wiki/concepts/capital-concentration|Capital concentration]]
 - [[10_Reference/tools/anysite|Anysite]]
+- [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]]
+- [[wiki/entities/sebastian-raschka|Sebastian Raschka]]
 - [[Strategy/marketing|Marketing]]
 - [[Strategy/metrics|metrics]]
 - [[learn/tools|tools]]

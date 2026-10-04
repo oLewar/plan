@@ -3,6 +3,17 @@
 Формат записи:
 `## [YYYY-MM-DD] <mode> | <title>`
 
+## [2026-10-04] ingest | Raschka GRPO for RLVR (YouTube 237Hf7Q3lgg)
+
+- Source: https://www.youtube.com/watch?v=237Hf7Q3lgg — Sebastian Raschka, `@SebastianRaschka`. Title via oEmbed: "Build A Reasoning Model From Scratch 6: Reinforcement Learning 1 (Implementing GRPO for RLVR)". Published 2026-10-03.
+- Transcript: **not captured**. `yt-dlp` is not installed; the video was not downloaded. Player API returned `LOGIN_REQUIRED`; no caption tracks; timedtext empty; the transcript panel rendered zero segments. Depth is the description plus its chapter list.
+- Duration unknown. Last chapter starts at 1:24:05, which is a lower bound, not a runtime. Page counters at fetch: 6,735 views, 131 likes.
+- Description (author claim): a from-scratch Python implementation of RLVR using GRPO to train a small reasoning model. Chapters run from "what makes a reasoning model different" through rewards, GRPO vs PPO, the loss, the training loop, and MATH-500 results. Book and `rasbt` repo links were not opened.
+- Pages: `wiki/sources/raschka-reasoning-grpo-rlvr`, `wiki/entities/sebastian-raschka`. No concept page — GRPO/RLVR is already in the vault and this lecture adds no verified causal claim. No tool card. Not a harness, so not in `harness.md`. Not added to barbell.
+- Body sha256 `c1dfbd9c7e26a11c6602d4f6a13fd58a8540ba4c42a3dda070e1c19af093ce5c`. Inbox only: `raw/youtube-237Hf7Q3lgg.md`. No `40_Research/sources/` copy.
+- Catalog: Reference **126 → 128**, Research **150 → 152**.
+- Do not cite: any MATH-500 number, any training setting, or the runtime. None of those were in the captured text.
+
 ## [2026-10-03] ingest | Anysite AI-startup funding post
 
 - Source: a Telegram promo pasted by the user. Author unknown, channel unknown, post date unknown. Product URL https://anysite.io/ (utm stripped). Not a page from that site.

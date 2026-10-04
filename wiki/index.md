@@ -48,6 +48,7 @@
 - [[wiki/sources/sutskever-30-implementations|Sutskever 30 implementations (pageman)]] — 30 NumPy notebooks for Sutskever's list; no license, no tags; 6/30 update weights; not a library.
 - [[wiki/sources/codync|Codync (leepokai/Codync)]] — phone client for coding agents; Rust host queues one ACP turn per bot; MIT v2.3.0; not a harness.
 - [[wiki/sources/anysite-ai-startup-funding|Anysite AI-startup funding post]] — pasted Telegram promo; Claude + MCP; dollar figures are author claims, report file absent.
+- [[wiki/sources/raschka-reasoning-grpo-rlvr|Raschka: GRPO for RLVR (YouTube)]] — lecture 6, 2026-10-03; description and chapter list only; transcript not captured.
 
 ## Entities
 - [[wiki/entities/google-research|Google Research]] — org; RRSI harness search; not an official Google product; not a loop vendor.
@@ -56,6 +57,7 @@
 - [[wiki/entities/paul-pajo|Paul Pajo (`pageman`)]] — author of the Sutskever-30 NumPy notebooks; not Sutskever; not a lab.
 - [[wiki/entities/leepokai|Po Kai Lee (`leepokai`)]] — author of Codync; a host in front of other agents, not a loop vendor.
 - [[wiki/entities/anysite|Anysite]] — vendor of an MCP over external web datasets; not a lab, not a harness.
+- [[wiki/entities/sebastian-raschka|Sebastian Raschka]] — author of the GRPO/RLVR lecture; description only; not a lab.
 - [[wiki/entities/patrick-emerson|Patrick M. Emerson]] — author of the Oregon State intermediate microeconomics OER; not a lab.
 - [[wiki/entities/asuman-ozdaglar|Asuman Ozdaglar]] — instructor of MIT 6.254 (Spring 2010); lecture 5 read; not a lab.
 - [[wiki/entities/linzhan-mou|Linzhan Mou]] — first author of UniMate; repo org is Friedrich-M; not a lab.
